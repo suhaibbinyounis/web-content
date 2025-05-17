@@ -31,21 +31,21 @@ layout: hextra-home
     subtitle="Digging deep into ideas, breakthroughs, and shifts that shape the future."
     class="hx:aspect-auto hx:md:aspect-[1.1/1] hx:max-md:min-h-[340px]"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(97,97,254,0.15),hsla(0,0%,100%,0));"
-    link="/tech"
+    link="/docs/tech"
   >}}
   {{< hextra/feature-card
     title="Code"
     subtitle="Breaking problems apart, writing smarter solutions, and making code matter."
     class="hx:aspect-auto hx:md:aspect-[1.1/1] hx:max-lg:min-h-[340px]"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(53,142,74,0.15),hsla(0,0%,100%,0));"
-    link="/code"
+    link="/docs/code"
   >}}
   {{< hextra/feature-card
     title="Memo"
     subtitle="Capturing thoughts, ideas, and moments before they slip away."
     class="hx:aspect-auto hx:md:aspect-[1.1/1] hx:max-md:min-h-[340px]"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(221,59,59,0.15),hsla(0,0%,100%,0));"
-    link="/memo"
+    link="/docs/memo"
   >}}
   {{< hextra/feature-card
     title="More to Come..."

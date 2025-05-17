@@ -12,10 +12,10 @@ linkTitle: "All Notes"
 ## The Catalog
 
 {{< cards cols="2" >}}
-  {{< card link="/memo" icon="folder" title="Memos" >}}
-  {{< card link="/tech" icon="chip" title="Technology" >}}
+  {{< card link="/docs/memo" icon="folder" title="Memos" >}}
+  {{< card link="/docs/tech" icon="chip" title="Technology" >}}
   {{< card link="/posts" icon="library" title="Archive" >}}
-  {{< card link="/code" icon="code" title="Code" >}}
+  {{< card link="/docs/code" icon="code" title="Code" >}}
 {{< /cards >}}
 
 
