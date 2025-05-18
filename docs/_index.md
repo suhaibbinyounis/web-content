@@ -5,8 +5,8 @@ linkTitle: "All Notes"
 ## Featured
 
 {{< cards cols="1">}}
-{{< card link="/docs/memo/the-change" title="The Shift I Didn’t Ask For" subtitle="Not all beginnings are planned, but some are necessary. This time, I step forward without hesitation." tag="Memo" tagType="info">}}
-{{< card link="/docs/tech/markdown-with-llms" title="Markdown with LLMs"  subtitle="The objective of this guide is to lay down an academic perspective on Markdown, detailing everything from its structural syntax to its theoretical inspirations." tag="Tech Notes" tagType="info">}}
+{{< card link="/docs/memo/journal/the-change/" title="The Shift I Didn’t Ask For" subtitle="Not all beginnings are planned, but some are necessary. This time, I step forward without hesitation." tag="Memo" tagType="info">}}
+{{< card link="/docs/tech/llms/markdown-with-llms/" title="Markdown with LLMs"  subtitle="The objective of this guide is to lay down an academic perspective on Markdown, detailing everything from its structural syntax to its theoretical inspirations." tag="Tech Notes" tagType="info">}}
 {{< /cards >}}
 
 ## The Catalog
