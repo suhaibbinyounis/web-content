@@ -5,9 +5,8 @@ layout: hextra-home
 
 {{< hextra/hero-badge >}}
 {{< icon name="calendar" attributes="height=14" >}}
-  <span>Last Post: May 17, 2025</span>
+    {{< last-build-time >}}
 {{< /hextra/hero-badge >}}
-
 
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
