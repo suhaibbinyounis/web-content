@@ -1,6 +1,8 @@
 ---
 title: Archived
 layout: "section"
+cascade:
+  type: docs
 ---
 
 These posts were once the star of the show. Now? They’ve been gracefully shuffled offstage into the Archived section—like the awkward uncle at a family wedding. But don’t worry, any links you’ve shared will still work, because even in chaos, we’ve got standards. Sort of.
