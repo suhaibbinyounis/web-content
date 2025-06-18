@@ -3,10 +3,6 @@ title: "Code"
 layout: "section"
 ---
 
-{{< callout type="warning" >}}
-  This section is still in development
-{{< /callout >}}
-
 This guide will help you navigate and make the best use of this website.
 
 ### 📚 The Catalog

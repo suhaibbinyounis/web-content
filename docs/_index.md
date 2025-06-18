@@ -3,66 +3,29 @@ title: Notes
 layout: hextra-home
 linkTitle: "All Notes"
 comments: false
+
 ---
 
-
-## Featured
-
-{{< tabs items="Anime,Book Nook,Quran,Technology,Code,Memo" defaultIndex="3" >}}
-
-{{< tab >}}
-{{< cards cols="1">}}
-{{< card link="https://anime.suhaib.in" title="Anime" subtitle="Watch your favorite anime series and movies online for free. Discover trending, top-rated, and latest releases." tag="New" tagType="success">}}
-{{< /cards >}}
-{{< /tab >}}
-
-{{< tab >}}
-{{< cards cols="1">}}
-{{< card link="https://books.suhaib.in" title="Book Nook" subtitle="Explore a vast library of over 70,000 free classic books. Search, filter, and discover your next great read." tag="New" tagType="success">}}
-{{< /cards >}}
-{{< /tab >}}
-
-{{< tab >}}
-{{< cards cols="1">}}
-{{< card link="https://quran.suhaib.in" title="Al-Quran" subtitle="Explore the Holy Quran with Arabic text, English translations, and transliteration. Adjust font sizes and navigate verses easily." tag="New" tagType="success">}}
-{{< /cards >}}
-{{< /tab >}}
-
-{{< tab >}}
-{{< cards cols="1">}}
-{{< card link="/docs/tech/llms/markdown-with-llms/" title="Markdown with LLMs" subtitle="The objective of this guide is to lay down an academic perspective on Markdown, detailing everything from its structural syntax to its theoretical inspirations." tag="New" tagType="info">}}
-{{< /cards >}}
-{{< /tab >}}
-
-{{< tab >}}
-{{< cards cols="1">}}
-{{< card link="/docs/code/arrays" title="Arrays - The Foundation of Computational Thought" subtitle="A Deep Exploration of the Data Structure That Shapes Our Digital World" tag="New" tagType="info">}}
-{{< card link="/docs/code/linked-list" title="Linked List - The Poetry of Dynamic Memory" subtitle="An In-Depth Journey Through the Data Structure That Revolutionized How We Think About Connection" tag="New" tagType="info">}}
-{{< card link="/docs/code/" title="Data Structures and Algorithms" subtitle="This section covers a wide range of Computer Science topics. Each topic includes theory and problems to help you understand and apply the concepts." tag="New" tagType="info">}}
-{{< /cards >}}
-{{< /tab >}}
-
-{{< tab >}}
-{{< cards cols="1">}}
-{{< card link="/docs/memo/journal/the-acceptance/" title="The Acceptance" subtitle="Learning when to fight, when to adjust, and when to let go." tag="New" tagType="info">}}
-{{< card link="/docs/memo/journal/the-change/" title="The Shift I Didn’t Ask For" subtitle="Not all beginnings are planned, but some are necessary. This time, I step forward without hesitation." tag="New" tagType="info">}}
-{{< /cards >}}
-{{< /tab >}}
-
-{{< /tabs >}}
 
 ## The Catalog
 
 {{< cards cols="2" >}}
-{{< card link="https://anime.suhaib.in" icon="film" title="Anime" >}}
-{{< card link="https://books.suhaib.in" title="Book Nook" >}}
-{{< card link="https://testapis.suhaib.in" icon="server" title="Echo: API Client" >}}
-{{< card link="https://quran.suhaib.in" title="Al-Quran" >}}
-{{< card link="/docs/tech" icon="chip" title="Technology" >}}
+{{< card link="/docs/tech/llms" title="Large Language Models" >}}
+{{< card link="/docs/tech/physics" title="Applied Physics in Computing" >}}
+{{< card link="/docs/tech/programming" title="Programming" >}}
+{{< card link="/docs/code" title="Learn Algorithms and Data Structures" >}}
+{{< card link="/docs/tech/theoretical-science" title="Theoretical Science" >}}
+{{< card link="/docs/tech/dsa" title="DSA for Developers" >}}
+{{< card link="/docs/tech/utilities" title="Utilities" >}}
+{{< card link="/docs/tech/how-to" title="How To - Series" >}}
+{{< /cards >}}
+
+## More
+
+{{< cards cols="2" >}}
 {{< card link="/posts" icon="library" title="Archive" >}}
-{{< card link="/docs/code" icon="code" title="Code" tag="In Development" tagType="error">}}
 {{< card link="/docs/memo" icon="folder" title="Memos" >}}
-{{< card link="https://suhaib.in/sitemap.html" icon="link" title="Sitemap" >}}
+{{< card link="https://apps.suhaib.in" icon="chip" title="Apps" >}}
 {{< /cards >}}
 
 ## The Message

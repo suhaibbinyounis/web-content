@@ -9,4 +9,4 @@ Feel free to drop me a message—whether it's a thought, a question, or just to 
 
 ---
 
-{{< emailform >}}
+
