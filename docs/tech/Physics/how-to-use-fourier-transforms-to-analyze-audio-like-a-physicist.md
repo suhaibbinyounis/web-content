@@ -4,6 +4,8 @@ categories:
 - Data Science
 - Engineering
 comments: true
+cover:
+  image: https://images.pexels.com/photos/257904/pexels-photo-257904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Demystify audio analysis with the Fourier Transform. Learn to decompose
   sound into its fundamental frequencies using Python, numpy, and scipy, just like
@@ -19,6 +21,10 @@ tags:
 - Physics
 title: How to Use Fourier Transforms to Analyze Audio Like a Physicist
 ---
+
+![Close-up of a professional audio and video editing software interface with waveform displays.](https://images.pexels.com/photos/257904/pexels-photo-257904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Close-up of a professional audio and video editing software interface with waveform displays.")
+
+## How to Use Fourier Transforms to Analyze Audio Like a Physicist
 
 As developers, we often interact with data, but sometimes that data takes the form of vibrations in the air: sound. Understanding audio programmatically is a powerful skill, and at its heart lies a mathematical tool that physicists have relied on for centuries: the Fourier Transform.
 

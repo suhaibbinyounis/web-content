@@ -3,21 +3,27 @@ categories:
 - Quantum
 - Theoretical Computer Science
 comments: true
+cover:
+  image: https://images.pexels.com/photos/6193928/pexels-photo-6193928.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
-description: Explore the fascinating connection between Schrödinger's Cat thought
-  experiment and the fundamental challenges and solutions of building fault-tolerant
-  quantum computers. Understand why errors are so critical in quantum systems and
-  how we overcome them without collapsing fragile quantum states.
+description: "Explore the fascinating connection between Schr\xF6dinger's Cat thought\
+  \ experiment and the fundamental challenges and solutions of building fault-tolerant\
+  \ quantum computers. Understand why errors are so critical in quantum systems and\
+  \ how we overcome them without collapsing fragile quantum states."
 math: true
 tags:
 - Quantum Computing
 - Fault Tolerance
 - Error Correction
-- Schrödinger's Cat
+- "Schr\xF6dinger's Cat"
 - Qubits
 - Quantum Information
-title: How Schrödinger’s Cat Explains Fault Tolerance in Quantum Systems
+title: "How Schr\xF6dinger\u2019s Cat Explains Fault Tolerance in Quantum Systems"
 ---
+
+![A blue eraser with 'I Love Mistakes' text on a pink background. Perfect for creative concepts.](https://images.pexels.com/photos/6193928/pexels-photo-6193928.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A blue eraser with 'I Love Mistakes' text on a pink background. Perfect for creative concepts.")
+
+## How Schrödinger’s Cat Explains Fault Tolerance in Quantum Systems
 
 The world of quantum mechanics is weird. Really weird. It's a place where particles can be in multiple states at once, where observing something changes it, and where the very fabric of reality seems to bend to the whims of probability. For developers used to the deterministic logic of classical bits, this can feel like stepping into an alternate universe.
 

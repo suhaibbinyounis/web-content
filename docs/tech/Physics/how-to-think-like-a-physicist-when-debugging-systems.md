@@ -4,6 +4,8 @@ categories:
 - Software Engineering
 - System Administration
 comments: true
+cover:
+  image: https://images.pexels.com/photos/6208938/pexels-photo-6208938.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Debugging complex systems often feels like black magic. Learn to approach
   it with the rigor and methodology of a physicist, using observation, hypothesis,
@@ -22,6 +24,10 @@ tags:
 - Software Engineering
 title: How to Think Like a Physicist When Debugging Systems
 ---
+
+![Portrait of a thoughtful scientist with eyeglasses in a laboratory setting.](https://images.pexels.com/photos/6208938/pexels-photo-6208938.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Portrait of a thoughtful scientist with eyeglasses in a laboratory setting.")
+
+## How to Think Like a Physicist When Debugging Systems
 
 Debugging isn't just about finding bugs; it's about understanding how a system *actually* behaves versus how you *expect* it to behave. It's a scientific endeavor, and nobody approaches science with more rigor than a physicist.
 

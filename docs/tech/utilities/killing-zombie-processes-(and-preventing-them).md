@@ -1,20 +1,28 @@
 ---
-title: Killing Zombie Processes (And Preventing Them)
-date: 2025-06-17T11:22:34.549Z
-description: "Demystifying zombie processes: what they are, how to identify these digital undead, the truth about 'killing' them, and robust strategies to prevent their resurrection in your systems."
-tags:
-  - Linux
-  - Processes
-  - System Administration
-  - Programming
-  - Debugging
-  - Operating Systems
 categories:
-  - System Administration
-  - Development
-  - Troubleshooting
+- System Administration
+- Development
+- Troubleshooting
 comments: true
+cover:
+  image: https://images.pexels.com/photos/360591/pexels-photo-360591.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 11:22:34.549000
+description: 'Demystifying zombie processes: what they are, how to identify these
+  digital undead, the truth about ''killing'' them, and robust strategies to prevent
+  their resurrection in your systems.'
+tags:
+- Linux
+- Processes
+- System Administration
+- Programming
+- Debugging
+- Operating Systems
+title: Killing Zombie Processes (And Preventing Them)
 ---
+
+![Close-up of colorful programming code displayed on a computer screen, showcasing modern coding concepts.](https://images.pexels.com/photos/360591/pexels-photo-360591.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Close-up of colorful programming code displayed on a computer screen, showcasing modern coding concepts.")
+
+## Killing Zombie Processes (And Preventing Them)
 
 Every system administrator or developer working with Unix-like operating systems has likely encountered them: the dreaded zombie processes. They appear in `ps` output as "defunct" entities, neither consuming CPU nor memory, yet stubbornly occupying a slot in the process table. They're like the digital undead – not quite alive, not quite gone, and surprisingly resilient to conventional termination methods.
 

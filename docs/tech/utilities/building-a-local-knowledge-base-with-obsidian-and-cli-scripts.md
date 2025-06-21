@@ -1,11 +1,33 @@
 ---
-title: Building a Local Knowledge Base with Obsidian and CLI Scripts
-date: 2025-06-17T11:22:34.549Z
-description: Dive deep into creating a powerful, local-first knowledge base using Obsidian's robust note-taking capabilities, enhanced and automated by custom Command Line Interface (CLI) scripts. Unlock unparalleled control and efficiency for your personal information management.
-tags: [Obsidian, Knowledge Management, PKM, CLI, Automation, Markdown, Productivity, Bash, Python]
-categories: [Productivity, Knowledge Management, Tech Guides, Automation]
+categories:
+- Productivity
+- Knowledge Management
+- Tech Guides
+- Automation
 comments: true
+cover:
+  image: https://images.pexels.com/photos/4050344/pexels-photo-4050344.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 11:22:34.549000
+description: Dive deep into creating a powerful, local-first knowledge base using
+  Obsidian's robust note-taking capabilities, enhanced and automated by custom Command
+  Line Interface (CLI) scripts. Unlock unparalleled control and efficiency for your
+  personal information management.
+tags:
+- Obsidian
+- Knowledge Management
+- PKM
+- CLI
+- Automation
+- Markdown
+- Productivity
+- Bash
+- Python
+title: Building a Local Knowledge Base with Obsidian and CLI Scripts
 ---
+
+![Attentive female wearing eyeglasses and casual outfit sitting barefoot with crossed legs on comfortable couch in modern flat and taking notes in notebook with pen](https://images.pexels.com/photos/4050344/pexels-photo-4050344.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Attentive female wearing eyeglasses and casual outfit sitting barefoot with crossed legs on comfortable couch in modern flat and taking notes in notebook with pen")
+
+## Building a Local Knowledge Base with Obsidian and CLI Scripts
 
 The digital age drowns us in information. From professional research to personal notes, keeping track of insights, ideas, and actionable data can quickly become overwhelming. While cloud-based solutions offer convenience, they often come with trade-offs: vendor lock-in, privacy concerns, and limitations on customization.
 

@@ -1,23 +1,31 @@
 ---
-title: Concurrency from First Principles The Dining Philosophers Still Dine
-date: 2025-06-17T09:26:07.585Z
-description: "Delve into the timeless Dining Philosophers Problem to understand the fundamental challenges of concurrency: deadlocks, starvation, and race conditions, and explore classic and modern solutions."
-tags:
-  - Concurrency
-  - Distributed Systems
-  - Operating Systems
-  - Algorithms
-  - Deadlock
-  - Starvation
-  - Software Engineering
-  - Computer Science
 categories:
-  - Computer Science
-  - Software Development
-  - Algorithms
-  - Systems Design
+- Computer Science
+- Software Development
+- Algorithms
+- Systems Design
 comments: true
+cover:
+  image: https://images.pexels.com/photos/5638331/pexels-photo-5638331.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 09:26:07.585000
+description: 'Delve into the timeless Dining Philosophers Problem to understand the
+  fundamental challenges of concurrency: deadlocks, starvation, and race conditions,
+  and explore classic and modern solutions.'
+tags:
+- Concurrency
+- Distributed Systems
+- Operating Systems
+- Algorithms
+- Deadlock
+- Starvation
+- Software Engineering
+- Computer Science
+title: Concurrency from First Principles The Dining Philosophers Still Dine
 ---
+
+![Top view of a gourmet dining table with elegant bruschetta served at a dinner party, ready for celebration.](https://images.pexels.com/photos/5638331/pexels-photo-5638331.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Top view of a gourmet dining table with elegant bruschetta served at a dinner party, ready for celebration.")
+
+## Concurrency from First Principles The Dining Philosophers Still Dine
 
 The world of software development often feels like a constant race against complexity. As systems grow larger, more distributed, and more demanding of responsiveness, we inevitably confront the thorny beast of concurrency. It's a topic that has humbled countless developers and led to some of the most elusive bugs imaginable.
 

@@ -1,11 +1,30 @@
 ---
-title: How DNS Impacts Site Speed (and How to Fix It)
-date: 2025-06-17T09:02:34.262Z
-description: Discover the hidden influence of DNS on your website's loading speed and learn practical strategies, from choosing the right provider to implementing prefetching, to significantly boost your site's performance.
-tags: [DNS, Site Speed, Web Performance, Optimization, Networking, CDN, WebDev]
-categories: [Web Development, Performance, Networking, DevOps]
+categories:
+- Web Development
+- Performance
+- Networking
+- DevOps
 comments: true
+cover:
+  image: https://images.pexels.com/photos/270637/pexels-photo-270637.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 09:02:34.262000
+description: Discover the hidden influence of DNS on your website's loading speed
+  and learn practical strategies, from choosing the right provider to implementing
+  prefetching, to significantly boost your site's performance.
+tags:
+- DNS
+- Site Speed
+- Web Performance
+- Optimization
+- Networking
+- CDN
+- WebDev
+title: How DNS Impacts Site Speed (and How to Fix It)
 ---
+
+![Scrabble tiles spelling 'SEO' on a wooden surface. Ideal for digital marketing themes.](https://images.pexels.com/photos/270637/pexels-photo-270637.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Scrabble tiles spelling 'SEO' on a wooden surface. Ideal for digital marketing themes.")
+
+## How DNS Impacts Site Speed (and How to Fix It)
 
 In the relentless pursuit of web performance, developers often focus on optimizing images, minifying code, and leveraging CDNs. These are all critical, no doubt. But there's a foundational, often overlooked component that can profoundly impact your site's speed: the Domain Name System, or DNS.
 

@@ -1,11 +1,34 @@
 ---
-title: How to Build a Secure, Encrypted Note App with Zero Cloud Dependencies
-date: 2025-06-17T13:05:16.383Z
-description: Learn to build a simple, robust, and highly private encrypted note-taking system using command-line tools like GPG, OpenSSL, and Bash, with no reliance on cloud services.
-tags: ["encryption", "security", "CLI", "bash", "python", "gpg", "openssl", "local-first", "privacy", "data-security", "devops"]
-categories: ["Security", "Development", "CLI Tools", "Privacy"]
+categories:
+- Security
+- Development
+- CLI Tools
+- Privacy
 comments: true
+cover:
+  image: https://images.pexels.com/photos/2061168/pexels-photo-2061168.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 13:05:16.383000
+description: Learn to build a simple, robust, and highly private encrypted note-taking
+  system using command-line tools like GPG, OpenSSL, and Bash, with no reliance on
+  cloud services.
+tags:
+- encryption
+- security
+- CLI
+- bash
+- python
+- gpg
+- openssl
+- local-first
+- privacy
+- data-security
+- devops
+title: How to Build a Secure, Encrypted Note App with Zero Cloud Dependencies
 ---
+
+![Detailed view of colorful programming code on a computer screen.](https://images.pexels.com/photos/2061168/pexels-photo-2061168.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Detailed view of colorful programming code on a computer screen.")
+
+## How to Build a Secure, Encrypted Note App with Zero Cloud Dependencies
 
 The cloud is convenient, but it comes with a significant trade-off: control over your data. For sensitive personal notes, journaling, or confidential project details, relying on third-party servers means trusting their security, their privacy policies, and their ability to withstand breaches. What if you want absolute control, maximum privacy, and zero external dependencies?
 

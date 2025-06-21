@@ -4,6 +4,8 @@ categories:
 - Wireless
 - Physics
 comments: true
+cover:
+  image: https://images.pexels.com/photos/918283/pexels-photo-918283.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Dive into the fundamental physics that makes Wi-Fi and 5G possible. This
   post demystifies Maxwell's equations and shows how they underpin wireless communication,
@@ -20,8 +22,12 @@ tags:
 - Networking
 - Telecommunications
 - Science
-title: How Maxwell’s Equations Power Wi-Fi and 5G
+title: "How Maxwell\u2019s Equations Power Wi-Fi and 5G"
 ---
+
+![Low angle view of a red and white communication tower against a clear blue sky, capturing modern technology.](https://images.pexels.com/photos/918283/pexels-photo-918283.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Low angle view of a red and white communication tower against a clear blue sky, capturing modern technology.")
+
+## How Maxwell’s Equations Power Wi-Fi and 5G
 
 The devices we use daily – our smartphones, laptops, smart home gadgets – are constantly communicating wirelessly. Whether it's streaming a 4K video over Wi-Fi or staying connected on the go with 5G, we rely on invisible waves carrying our data through the air. But what are these waves? How do they work?
 

@@ -1,11 +1,33 @@
 ---
-title: Graphs at Work Modeling Your Social Network Friend Suggestions
-date: 2025-06-17T10:04:28.467Z
-description: "Delve into the fascinating world of graph theory and algorithms that power social network friend suggestions. Explore common neighbor analysis, advanced machine learning techniques, and the critical challenges of building recommendation systems at scale."
-tags: [graphs, social networks, algorithms, data modeling, machine learning, recommendation systems, graph databases, network theory, link prediction, data science]
-categories: [Data Science, Software Engineering, Algorithms]
+categories:
+- Data Science
+- Software Engineering
+- Algorithms
 comments: true
+cover:
+  image: https://images.pexels.com/photos/4050290/pexels-photo-4050290.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 10:04:28.467000
+description: Delve into the fascinating world of graph theory and algorithms that
+  power social network friend suggestions. Explore common neighbor analysis, advanced
+  machine learning techniques, and the critical challenges of building recommendation
+  systems at scale.
+tags:
+- graphs
+- social networks
+- algorithms
+- data modeling
+- machine learning
+- recommendation systems
+- graph databases
+- network theory
+- link prediction
+- data science
+title: Graphs at Work Modeling Your Social Network Friend Suggestions
 ---
+
+![Woman working remotely with a laptop on the floor next to a sofa, enjoying comfortable home office setup.](https://images.pexels.com/photos/4050290/pexels-photo-4050290.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Woman working remotely with a laptop on the floor next to a sofa, enjoying comfortable home office setup.")
+
+## Graphs at Work Modeling Your Social Network Friend Suggestions
 
 Every time you open a social media app, there they are: "People you may know." These suggestions, seemingly simple, are the tip of a vast and complex algorithmic iceberg, meticulously crafted to help you connect with more people. At the heart of this system lies one of the most powerful and intuitive data structures in computer science: the graph.
 

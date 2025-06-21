@@ -1,23 +1,31 @@
 ---
-title: Command-Line Aliases That 100x My Workflow
-date: 2025-06-17T11:22:34.549Z
-description: "Discover how simple command-line aliases can dramatically boost your productivity, reduce typing, and prevent errors. This deep dive covers essential aliases for navigation, Git, system utilities, and how to create your own."
-tags:
-  - Productivity
-  - Command Line
-  - CLI
-  - Bash
-  - Zsh
-  - Workflow
-  - Developers
-  - Linux
-  - macOS
 categories:
-  - Productivity
-  - Development
-  - Tools
+- Productivity
+- Development
+- Tools
 comments: true
+cover:
+  image: https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 11:22:34.549000
+description: Discover how simple command-line aliases can dramatically boost your
+  productivity, reduce typing, and prevent errors. This deep dive covers essential
+  aliases for navigation, Git, system utilities, and how to create your own.
+tags:
+- Productivity
+- Command Line
+- CLI
+- Bash
+- Zsh
+- Workflow
+- Developers
+- Linux
+- macOS
+title: Command-Line Aliases That 100x My Workflow
 ---
+
+![Eyeglasses reflecting computer code on a monitor, ideal for technology and programming themes.](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Eyeglasses reflecting computer code on a monitor, ideal for technology and programming themes.")
+
+## Command-Line Aliases That 100x My Workflow
 
 Every keystroke counts. In the fast-paced world of tech, where milliseconds can define efficiency, the command line remains an indispensable tool for developers, system administrators, and power users alike. While we laud powerful IDEs and sophisticated GUIs, the raw, unadulterated speed of the terminal is unmatched for many tasks. But even the terminal has its friction points: long commands, repetitive typing, and complex sequences.
 

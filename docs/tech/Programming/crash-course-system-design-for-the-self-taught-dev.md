@@ -1,23 +1,32 @@
 ---
-title: Crash Course System Design for the Self-Taught Dev
-date: 2025-06-17T09:02:34.262Z
-description: "Demystify system design concepts crucial for building scalable, reliable, and performant software. This crash course equips self-taught developers with foundational knowledge, key components, and practical strategies to excel in designing complex systems."
-tags:
-  - System Design
-  - Software Architecture
-  - Distributed Systems
-  - Self-Taught
-  - Interview Prep
-  - Scalability
-  - Resilience
-  - Web Development
-  - Engineering
 categories:
-  - Software Engineering
-  - Career Development
-  - Learning
+- Software Engineering
+- Career Development
+- Learning
 comments: true
+cover:
+  image: https://images.pexels.com/photos/8108717/pexels-photo-8108717.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 09:02:34.262000
+description: Demystify system design concepts crucial for building scalable, reliable,
+  and performant software. This crash course equips self-taught developers with foundational
+  knowledge, key components, and practical strategies to excel in designing complex
+  systems.
+tags:
+- System Design
+- Software Architecture
+- Distributed Systems
+- Self-Taught
+- Interview Prep
+- Scalability
+- Resilience
+- Web Development
+- Engineering
+title: Crash Course System Design for the Self-Taught Dev
 ---
+
+![A vibrant, abstract image of a circuit board seen through a grid wire mesh, showcasing technology themes.](https://images.pexels.com/photos/8108717/pexels-photo-8108717.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A vibrant, abstract image of a circuit board seen through a grid wire mesh, showcasing technology themes.")
+
+## Crash Course System Design for the Self-Taught Dev
 
 ## Crash Course: System Design for the Self-Taught Dev
 

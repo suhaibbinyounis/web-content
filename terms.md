@@ -1,24 +1,36 @@
 ---
-title: "Terms and Conditions" # in any language you want
-summary: "Terms and Conditions"
+title: "Terms of Use | suhaib.in"
+summary: "Legal terms governing the use of our static content website"
+description: "Terms and conditions for suhaib.in covering content usage, analytics, and liability limitations for our read-only technical blog."
 ---
 
-By accessing or using this website, you agree to comply with and be bound by the following terms and conditions. Please read them carefully before proceeding.
+## **Acceptance of Terms**
+By accessing suhaib.in, you agree to:
+1. These legally binding terms
+2. Our [Privacy Policy](/privacy)
+3. Responsible content consumption
 
-## Privacy and Data Collection
-We respect your privacy and are committed to protecting it. This website does not collect personal information, require user sign-ups, or store user data. However, we use third-party analytics services to enhance website performance and user experience:
+## **Content Usage**
+All materials are provided under:
+- ✅ **Allowed**: Reading, sharing (with attribution)
+- ❌ **Prohibited**: Plagiarism, commercial redistribution
+- 📜 **License**: Creative Commons BY-NC-ND 4.0 unless specified
 
-- **Google Analytics**: Provides insights into website traffic and user interactions.
-- **Microsoft Clarity**: Analyzes user behavior and engagement.
+## **Third-Party Services**
+We utilize:
+- Google Analytics for traffic insights
+- Microsoft Clarity for UX improvement
+- Google AdSense for non-intrusive monetization
 
-These services may use cookies and other tracking technologies to collect anonymized data. By using this website, you consent to the collection and use of such data by these third-party services.
+You acknowledge these services may set cookies as described in our [Privacy Policy](/privacy).
 
-## Third-Party Services
-This website may include links to third-party services. We are not responsible for the privacy practices or content of these services. Please review their respective privacy policies for more information:
-- [Google Analytics Privacy Policy](https://policies.google.com/privacy)
-- [Microsoft Clarity Privacy Policy](https://privacy.microsoft.com/en-us/privacystatement)
+## **Limitations of Liability**
+As a static website, we:
+- ⚠️ Don't guarantee 100% uptime
+- 🔍 May contain technical inaccuracies
+- 💻 Aren't liable for third-party content links
 
-## Changes to Terms
-We reserve the right to modify these terms and conditions at any time without prior notice. Your continued use of this website constitutes acceptance of any changes.
+## **Modifications**
+Terms may be updated without notice. The below timestamp governs active terms.
 
-_Last updated: May 17, 2025_
+**Last Updated:** Fri Jun 20, 2025

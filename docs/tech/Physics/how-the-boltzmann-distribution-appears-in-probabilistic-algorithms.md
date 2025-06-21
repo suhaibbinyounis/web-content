@@ -4,6 +4,8 @@ categories:
 - Data Science
 - Machine Learning
 comments: true
+cover:
+  image: https://images.pexels.com/photos/18069083/pexels-photo-18069083.png?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Explore the surprising prevalence of the Boltzmann distribution in probabilistic
   algorithms like Simulated Annealing and Metropolis-Hastings, understanding its role
@@ -20,6 +22,10 @@ tags:
 - statistics
 title: How the Boltzmann Distribution Appears in Probabilistic Algorithms
 ---
+
+![Vibrant 3D render of a geometric abstract pattern with colorful cubes and cylinders.](https://images.pexels.com/photos/18069083/pexels-photo-18069083.png?auto=compress&cs=tinysrgb&h=650&w=940 "Vibrant 3D render of a geometric abstract pattern with colorful cubes and cylinders.")
+
+## How the Boltzmann Distribution Appears in Probabilistic Algorithms
 
 The world of probabilistic algorithms often feels like a magic box: you throw in some random numbers, stir them with a clever rule, and out pops an optimal solution or a representative sample from a complex distribution. Beneath much of this "magic," especially in algorithms that balance exploration and exploitation, lies a foundational concept from statistical mechanics: the Boltzmann distribution.
 
@@ -204,7 +210,6 @@ Best energy found: -2.0000
 
 The Metropolis-Hastings (MH) algorithm is a powerful Markov Chain Monte Carlo (MCMC) method used for sampling from probability distributions, especially in high-dimensional spaces or when the distribution's normalizing constant is unknown or hard to compute.
 
-### The Problem it Solves
 
 Imagine you have a complex probability distribution $P(x)$ (e.g., a posterior distribution in Bayesian inference) that you want to sample from. Direct sampling might be impossible, perhaps because $P(x)$ is only known up to a normalizing constant $Z$, i.e., $P(x) = \frac{1}{Z} \tilde{P}(x)$, where $\tilde{P}(x)$ is the unnormalized probability. MH allows you to generate a sequence of samples that approximates the true distribution without needing $Z$.
 

@@ -1,28 +1,37 @@
 ---
-title: Best GitHub Repos to Learn Real-World Coding
-date: 2025-06-17T09:02:34.262Z
-description: Dive deep into the best GitHub repositories that offer invaluable insights and hands-on experience for learning real-world coding practices, architecture, and collaboration. Move beyond tutorials and explore active, large-scale open-source projects.
-tags:
-  - GitHub
-  - Coding
-  - Real-World Projects
-  - Learning
-  - Open Source
-  - Development
-  - Programming
-  - Web Development
-  - Machine Learning
-  - Software Architecture
-  - Front-end
-  - Back-end
-  - AI
 categories:
-  - Programming
-  - Software Development
-  - Learning Resources
-  - Open Source
+- Programming
+- Software Development
+- Learning Resources
+- Open Source
 comments: true
+cover:
+  image: https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 09:02:34.262000
+description: Dive deep into the best GitHub repositories that offer invaluable insights
+  and hands-on experience for learning real-world coding practices, architecture,
+  and collaboration. Move beyond tutorials and explore active, large-scale open-source
+  projects.
+tags:
+- GitHub
+- Coding
+- Real-World Projects
+- Learning
+- Open Source
+- Development
+- Programming
+- Web Development
+- Machine Learning
+- Software Architecture
+- Front-end
+- Back-end
+- AI
+title: Best GitHub Repos to Learn Real-World Coding
 ---
+
+![Eyeglasses reflecting computer code on a monitor, ideal for technology and programming themes.](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Eyeglasses reflecting computer code on a monitor, ideal for technology and programming themes.")
+
+## Best GitHub Repos to Learn Real-World Coding
 
 ## Beyond Tutorials: Learning from the Masters in Open Source
 

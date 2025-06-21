@@ -1,11 +1,31 @@
 ---
-title: How Devs Can Embrace AI Without Losing the Craft
-date: 2025-06-17T09:02:34.262Z
-description: "Explore how developers can effectively integrate AI tools into their workflow, enhancing productivity and problem-solving without diminishing the core skills and artistry that define software craftsmanship."
-tags: [AI, LLM, Development, Craft, Productivity, FutureOfWork, SoftwareEngineering, Career]
-categories: [AI, Productivity, Software Engineering, Career Development]
+categories:
+- AI
+- Productivity
+- Software Engineering
+- Career Development
 comments: true
+cover:
+  image: https://images.pexels.com/photos/9242852/pexels-photo-9242852.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 09:02:34.262000
+description: Explore how developers can effectively integrate AI tools into their
+  workflow, enhancing productivity and problem-solving without diminishing the core
+  skills and artistry that define software craftsmanship.
+tags:
+- AI
+- LLM
+- Development
+- Craft
+- Productivity
+- FutureOfWork
+- SoftwareEngineering
+- Career
+title: How Devs Can Embrace AI Without Losing the Craft
 ---
+
+![Two young engineers working on robotic equipment in a workshop setting.](https://images.pexels.com/photos/9242852/pexels-photo-9242852.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Two young engineers working on robotic equipment in a workshop setting.")
+
+## How Devs Can Embrace AI Without Losing the Craft
 
 The rise of Artificial Intelligence, particularly large language models (LLMs) like OpenAI's GPT series or Google's Gemini, has sparked both excitement and apprehension within the software development community. For many, AI represents an unprecedented leap in productivity, a digital co-pilot capable of writing code, debugging, and even designing systems. For others, it's a looming specter, threatening to automate away the very "craft" they've spent years mastering.
 

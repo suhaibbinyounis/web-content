@@ -4,6 +4,8 @@ categories:
 - Theoretical Computer Science
 - Software Engineering
 comments: true
+cover:
+  image: https://images.pexels.com/photos/6779716/pexels-photo-6779716.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Explore the fascinating analogy between Feynman diagrams' representation
   of particle interactions and data flow analysis in compilers, providing a visual
@@ -19,6 +21,10 @@ tags:
 - Programming Languages
 title: Feynman Diagrams and Data Flow in Compilation A Visual Analogy
 ---
+
+![Two professionals collaborating on financial documents in a modern office setting.](https://images.pexels.com/photos/6779716/pexels-photo-6779716.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Two professionals collaborating on financial documents in a modern office setting.")
+
+## Feynman Diagrams and Data Flow in Compilation A Visual Analogy
 
 Feynman diagrams are one of the most elegant and powerful tools in theoretical physics. They offer a simple, visual language to represent complex particle interactions. But what if we could take that same intuitive approach and apply it to something as abstract and intricate as data flow within a compiler?
 

@@ -1,11 +1,34 @@
 ---
-title: How to Explore Neuromorphic Computing with Loihi and Nengo
-date: 2025-06-17T13:05:16.383Z
-description: Dive into the fascinating world of neuromorphic computing. This guide provides a practical, hands-on approach to exploring Intel's Loihi research chip and the Nengo neural network framework, complete with code examples for developers.
-tags: [Neuromorphic Computing, AI, Machine Learning, Spiking Neural Networks, SNN, Loihi, Intel, Nengo, Python, Hardware, Software, Research]
-categories: [Artificial Intelligence, Hardware, Programming]
+categories:
+- Artificial Intelligence
+- Hardware
+- Programming
 comments: true
+cover:
+  image: https://images.pexels.com/photos/14314636/pexels-photo-14314636.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 13:05:16.383000
+description: Dive into the fascinating world of neuromorphic computing. This guide
+  provides a practical, hands-on approach to exploring Intel's Loihi research chip
+  and the Nengo neural network framework, complete with code examples for developers.
+tags:
+- Neuromorphic Computing
+- AI
+- Machine Learning
+- Spiking Neural Networks
+- SNN
+- Loihi
+- Intel
+- Nengo
+- Python
+- Hardware
+- Software
+- Research
+title: How to Explore Neuromorphic Computing with Loihi and Nengo
 ---
+
+![A digitally rendered abstract image showcasing a futuristic eye with complex network patterns.](https://images.pexels.com/photos/14314636/pexels-photo-14314636.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A digitally rendered abstract image showcasing a futuristic eye with complex network patterns.")
+
+## How to Explore Neuromorphic Computing with Loihi and Nengo
 
 Neuromorphic computing represents a radical departure from traditional von Neumann architectures, mimicking the brain's event-driven, parallel, and low-power processing. Instead of clock-synchronized operations on discrete data, neuromorphic chips process information using "spikes"—discrete events fired by neurons, similar to biological brains.
 

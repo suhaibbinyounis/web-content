@@ -1,20 +1,29 @@
 ---
-title: B-Trees and How Your File System Actually Stores Stuff
-date: 2025-06-17T10:04:28.467Z
-description: "Ever wondered how your operating system manages to find that specific file among millions, almost instantly? Dive deep into the elegant world of B-Trees, the foundational data structure that powers modern file systems and databases, explaining how they minimize disk I/O and keep your data organized and accessible."
-tags:
-  - Data Structures
-  - File Systems
-  - B-Trees
-  - Operating Systems
-  - Storage
-  - Computer Science
 categories:
-  - Computer Science
-  - Systems Programming
-  - Data Storage
+- Computer Science
+- Systems Programming
+- Data Storage
 comments: true
+cover:
+  image: https://images.pexels.com/photos/6549358/pexels-photo-6549358.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 10:04:28.467000
+description: Ever wondered how your operating system manages to find that specific
+  file among millions, almost instantly? Dive deep into the elegant world of B-Trees,
+  the foundational data structure that powers modern file systems and databases, explaining
+  how they minimize disk I/O and keep your data organized and accessible.
+tags:
+- Data Structures
+- File Systems
+- B-Trees
+- Operating Systems
+- Storage
+- Computer Science
+title: B-Trees and How Your File System Actually Stores Stuff
 ---
+
+![A person organizing wooden drawers in an archive room with a focus on storage.](https://images.pexels.com/photos/6549358/pexels-photo-6549358.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A person organizing wooden drawers in an archive room with a focus on storage.")
+
+## B-Trees and How Your File System Actually Stores Stuff
 
 You click on a file, and it opens. You save a document, and it's there the next time you look. This seemingly magical process, happening countless times a day, is orchestrated by your operating system's file system, a complex piece of software designed to organize and manage data on persistent storage. But how does it actually *work*? How does it efficiently locate a specific piece of data among potentially terabytes of information without scanning everything? The unsung hero behind this efficiency is often a data structure called the **B-Tree**.
 

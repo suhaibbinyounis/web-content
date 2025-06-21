@@ -1,21 +1,29 @@
 ---
-title: SSH Tricks You Wish You Knew Sooner
-date: 2025-06-17T11:22:34.549Z
-description: "Elevate your command-line game with these powerful, often overlooked SSH tricks. From efficient configurations to secure tunnels, discover how to master your remote sessions and boost productivity."
-tags:
-  - SSH
-  - Linux
-  - Networking
-  - Productivity
-  - Security
-  - SysAdmin
 categories:
-  - Productivity
-  - SysAdmin
-  - Networking
-  - Security
+- Productivity
+- SysAdmin
+- Networking
+- Security
 comments: true
+cover:
+  image: https://images.pexels.com/photos/5380664/pexels-photo-5380664.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 11:22:34.549000
+description: Elevate your command-line game with these powerful, often overlooked
+  SSH tricks. From efficient configurations to secure tunnels, discover how to master
+  your remote sessions and boost productivity.
+tags:
+- SSH
+- Linux
+- Networking
+- Productivity
+- Security
+- SysAdmin
+title: SSH Tricks You Wish You Knew Sooner
 ---
+
+![Close-up of a computer monitor displaying cyber security data and code, indicative of system hacking or programming.](https://images.pexels.com/photos/5380664/pexels-photo-5380664.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Close-up of a computer monitor displaying cyber security data and code, indicative of system hacking or programming.")
+
+## SSH Tricks You Wish You Knew Sooner
 
 SSH, or Secure Shell, is the cornerstone of remote system administration and development. It's the secure tunnel through which we interact with servers, cloud instances, and even our Raspberry Pis. While most of us are familiar with the basic `ssh user@host` command, the true power of SSH lies in its often-overlooked features and configuration options.
 

@@ -1,11 +1,38 @@
 ---
-title: How to Benchmark Anything with Time, Hyperfine, and More
-date: 2025-06-17T11:22:34.549Z
-description: Dive deep into the art and science of performance benchmarking. Learn to use `time` for quick checks, `hyperfine` for rigorous statistical analysis, and explore a suite of advanced profiling and monitoring tools to truly understand your code's performance and identify bottlenecks.
-tags: [benchmarking, performance, optimization, CLI, time, hyperfine, profiling, Linux, macOS, development, tools, scripting, performance-engineering, systems-administration]
-categories: [Software Development, Performance, Tools, Systems]
+categories:
+- Software Development
+- Performance
+- Tools
+- Systems
 comments: true
+cover:
+  image: https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 11:22:34.549000
+description: Dive deep into the art and science of performance benchmarking. Learn
+  to use `time` for quick checks, `hyperfine` for rigorous statistical analysis, and
+  explore a suite of advanced profiling and monitoring tools to truly understand your
+  code's performance and identify bottlenecks.
+tags:
+- benchmarking
+- performance
+- optimization
+- CLI
+- time
+- hyperfine
+- profiling
+- Linux
+- macOS
+- development
+- tools
+- scripting
+- performance-engineering
+- systems-administration
+title: How to Benchmark Anything with Time, Hyperfine, and More
 ---
+
+![A close-up of a hand with a pen analyzing data on colorful bar and line charts on paper.](https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A close-up of a hand with a pen analyzing data on colorful bar and line charts on paper.")
+
+## How to Benchmark Anything with Time, Hyperfine, and More
 
 Performance is paramount. Whether you're a developer optimizing a critical algorithm, a system administrator troubleshooting a slow server, or a user curious about the efficiency of two competing command-line tools, understanding how to accurately measure execution time and resource consumption is an invaluable skill.
 

@@ -1,11 +1,34 @@
 ---
-title: Church-Turing Thesis Why Your Code Will Never Escape It
-date: 2025-06-17T09:26:07.585Z
-description: "Delve into the fundamental limits of computation defined by the Church-Turing Thesis. Discover why this foundational concept in computer science means certain problems are inherently unsolvable by any algorithm, impacting every line of code you write."
-tags: [computation, Church-Turing, Turing Machine, lambda calculus, computability, limits of computation, computer science, algorithms, theoretical computer science, undecidability, halting problem]
-categories: [Computer Science, Theoretical Foundations, Algorithms]
+categories:
+- Computer Science
+- Theoretical Foundations
+- Algorithms
 comments: true
+cover:
+  image: https://images.pexels.com/photos/25626446/pexels-photo-25626446.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 09:26:07.585000
+description: Delve into the fundamental limits of computation defined by the Church-Turing
+  Thesis. Discover why this foundational concept in computer science means certain
+  problems are inherently unsolvable by any algorithm, impacting every line of code
+  you write.
+tags:
+- computation
+- Church-Turing
+- Turing Machine
+- lambda calculus
+- computability
+- limits of computation
+- computer science
+- algorithms
+- theoretical computer science
+- undecidability
+- halting problem
+title: Church-Turing Thesis Why Your Code Will Never Escape It
 ---
+
+![Visual representation of geometric calculations comparing bits and qubits in black and white.](https://images.pexels.com/photos/25626446/pexels-photo-25626446.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Visual representation of geometric calculations comparing bits and qubits in black and white.")
+
+## Church-Turing Thesis Why Your Code Will Never Escape It
 
 Our digital world often feels boundless. From artificial intelligence composing symphonies to complex simulations modeling entire galaxies, modern computing seems to conjure magic out of thin air. We ask our machines to do increasingly sophisticated tasks, and more often than not, they deliver.
 

@@ -4,6 +4,8 @@ categories:
 - Hardware
 - Computer Architecture
 comments: true
+cover:
+  image: https://images.pexels.com/photos/17483869/pexels-photo-17483869.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Explore the fascinating world of neuromorphic computing, a paradigm shift
   in AI hardware that seeks to mimic the fundamental physics and architecture of the
@@ -22,6 +24,10 @@ tags:
 - STDP
 title: How Neuromorphic Chips Mimic Physics in Your Brain
 ---
+
+![3D rendered abstract brain concept with neural network.](https://images.pexels.com/photos/17483869/pexels-photo-17483869.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "3D rendered abstract brain concept with neural network.")
+
+## How Neuromorphic Chips Mimic Physics in Your Brain
 
 The world of AI is in constant flux. For decades, the dominant paradigm for high-performance computing, including AI, has been based on the venerable Von Neumann architecture: a CPU that processes data and a separate memory unit that stores it. This works, but it's increasingly bumping up against a wall – not just in terms of raw processing power, but in energy consumption and the inherent limitations of moving vast amounts of data back and forth.
 

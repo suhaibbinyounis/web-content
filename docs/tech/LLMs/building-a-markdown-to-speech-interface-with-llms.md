@@ -1,22 +1,30 @@
 ---
-title: Building a Markdown-to-Speech Interface with LLMs
-date: 2025-06-17T08:34:45.333Z
-description: Explore how to build a powerful Markdown-to-Speech interface leveraging Large Language Models (LLMs) for intelligent text processing and enhanced audio delivery. Learn about parsing, LLM-driven refinement, and Text-to-Speech engines.
-tags:
-    - AI
-    - LLM
-    - Gemini
-    - Text-to-Speech
-    - Markdown
-    - Productivity
-    - Development
 categories:
-    - AI
-    - Productivity
-    - Software Development
-    - Prompt Engineering
+- AI
+- Productivity
+- Software Development
+- Prompt Engineering
 comments: true
+cover:
+  image: https://images.pexels.com/photos/4476162/pexels-photo-4476162.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 08:34:45.333000
+description: Explore how to build a powerful Markdown-to-Speech interface leveraging
+  Large Language Models (LLMs) for intelligent text processing and enhanced audio
+  delivery. Learn about parsing, LLM-driven refinement, and Text-to-Speech engines.
+tags:
+- AI
+- LLM
+- Gemini
+- Text-to-Speech
+- Markdown
+- Productivity
+- Development
+title: Building a Markdown-to-Speech Interface with LLMs
 ---
+
+![A person recording an audiobook using a professional microphone and headphones indoors.](https://images.pexels.com/photos/4476162/pexels-photo-4476162.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A person recording an audiobook using a professional microphone and headphones indoors.")
+
+## Building a Markdown-to-Speech Interface with LLMs
 
 ## The Voice of Your Notes: Unleashing Audio from Markdown
 

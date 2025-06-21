@@ -1,11 +1,30 @@
 ---
-title: How to Set Up a Personal Threat Detection System with Open-Source Tools
-date: 2025-06-17T13:05:16.383Z
-description: Learn to build a pragmatic, open-source personal threat detection system for your Linux workstation or home server using tools like Suricata, inotifywait, auditd, and ntfy.sh.
-tags: [Linux, Security, Cybersecurity, OpenSource, CLI, Bash, Monitoring, DevOps]
-categories: [Security, Systems, Networking]
+categories:
+- Security
+- Systems
+- Networking
 comments: true
+cover:
+  image: https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 13:05:16.383000
+description: Learn to build a pragmatic, open-source personal threat detection system
+  for your Linux workstation or home server using tools like Suricata, inotifywait,
+  auditd, and ntfy.sh.
+tags:
+- Linux
+- Security
+- Cybersecurity
+- OpenSource
+- CLI
+- Bash
+- Monitoring
+- DevOps
+title: How to Set Up a Personal Threat Detection System with Open-Source Tools
 ---
+
+![Eyeglasses reflecting computer code on a monitor, ideal for technology and programming themes.](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Eyeglasses reflecting computer code on a monitor, ideal for technology and programming themes.")
+
+## How to Set Up a Personal Threat Detection System with Open-Source Tools
 
 As developers, we often build and deploy, but how much thought do we put into detecting when things go wrong, or when someone's trying to mess with our systems? A "personal" threat detection system isn't about building a full SOC in your living room. It's about gaining visibility, understanding what's normal, and being alerted to anomalies or outright attacks on your individual machines or small home network.
 

@@ -1,11 +1,33 @@
 ---
-title: Building a Wiki from Markdown with Pandoc and CLI Tools
-date: 2025-06-17T11:22:34.549Z
-description: "Explore how to leverage Pandoc and a suite of command-line tools to construct a powerful, portable, and easily maintainable wiki entirely from Markdown files. Ideal for personal knowledge bases, project documentation, or collaborative notes."
-tags: [Markdown, Pandoc, CLI, Wiki, Documentation, Static Site, Unix, Linux, macOS, Open Source]
-categories: [Productivity, Software Development, System Administration, Knowledge Management]
+categories:
+- Productivity
+- Software Development
+- System Administration
+- Knowledge Management
 comments: true
+cover:
+  image: https://images.pexels.com/photos/5650021/pexels-photo-5650021.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 11:22:34.549000
+description: Explore how to leverage Pandoc and a suite of command-line tools to construct
+  a powerful, portable, and easily maintainable wiki entirely from Markdown files.
+  Ideal for personal knowledge bases, project documentation, or collaborative notes.
+tags:
+- Markdown
+- Pandoc
+- CLI
+- Wiki
+- Documentation
+- Static Site
+- Unix
+- Linux
+- macOS
+- Open Source
+title: Building a Wiki from Markdown with Pandoc and CLI Tools
 ---
+
+![Minimalist image of a hand holding a Black Friday sale tag, ideal for promotions.](https://images.pexels.com/photos/5650021/pexels-photo-5650021.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Minimalist image of a hand holding a Black Friday sale tag, ideal for promotions.")
+
+## Building a Wiki from Markdown with Pandoc and CLI Tools
 
 In an age of ever-more complex web applications and cloud-based solutions, sometimes the simplest tools offer the most robust and enduring solutions. For personal knowledge management, project documentation, or even a modest team wiki, the combination of plain Markdown files and powerful command-line utilities presents a compelling alternative to heavyweight wiki software. This approach champions simplicity, portability, version control, and longevity.
 

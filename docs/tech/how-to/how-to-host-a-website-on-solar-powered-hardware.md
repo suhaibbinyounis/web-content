@@ -1,11 +1,30 @@
 ---
-title: How to Host a Website on Solar-Powered Hardware
-date: 2025-06-17T13:05:16.383Z
-description: Dive into the rewarding world of hosting your own website off-grid. Learn how to set up a low-power server on solar-powered hardware, from component selection to software configuration and crucial monitoring.
-tags: [Linux, CLI, RaspberryPi, Solar, DevOps, GreenTech, SelfHosting, Networking]
-categories: [DevOps, Hardware, Networking]
+categories:
+- DevOps
+- Hardware
+- Networking
 comments: true
+cover:
+  image: https://images.pexels.com/photos/3857400/pexels-photo-3857400.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 13:05:16.383000
+description: Dive into the rewarding world of hosting your own website off-grid. Learn
+  how to set up a low-power server on solar-powered hardware, from component selection
+  to software configuration and crucial monitoring.
+tags:
+- Linux
+- CLI
+- RaspberryPi
+- Solar
+- DevOps
+- GreenTech
+- SelfHosting
+- Networking
+title: How to Host a Website on Solar-Powered Hardware
 ---
+
+![Chilled raspberry lemonade and coding on a laptop at a modern coffee house.](https://images.pexels.com/photos/3857400/pexels-photo-3857400.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Chilled raspberry lemonade and coding on a laptop at a modern coffee house.")
+
+## How to Host a Website on Solar-Powered Hardware
 
 Hosting a website traditionally means relying on data centers, often powered by vast, centralized grids. But what if you could run your own small server, powered entirely by the sun? It's not just a geeky experiment; it's a statement about sustainability, a fantastic learning opportunity, and surprisingly, entirely achievable for many personal projects.
 

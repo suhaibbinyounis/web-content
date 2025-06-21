@@ -1,20 +1,28 @@
 ---
-title: Dynamic Programming in Action Why Google Docs Feels Instant
-date: 2025-06-17T10:04:28.467Z
-description: "Unpack the engineering marvel behind Google Docs' seamless performance, exploring how sophisticated algorithms like Dynamic Programming contribute to its real-time responsiveness and collaborative magic."
-tags:
-  - Dynamic Programming
-  - Google Docs
-  - Real-time Collaboration
-  - Algorithms
-  - Web Development
-  - Performance
 categories:
-  - Software Engineering
-  - Productivity
-  - Web Technologies
+- Software Engineering
+- Productivity
+- Web Technologies
 comments: true
+cover:
+  image: https://images.pexels.com/photos/110469/pexels-photo-110469.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 10:04:28.467000
+description: Unpack the engineering marvel behind Google Docs' seamless performance,
+  exploring how sophisticated algorithms like Dynamic Programming contribute to its
+  real-time responsiveness and collaborative magic.
+tags:
+- Dynamic Programming
+- Google Docs
+- Real-time Collaboration
+- Algorithms
+- Web Development
+- Performance
+title: Dynamic Programming in Action Why Google Docs Feels Instant
 ---
+
+![Architect reviewing detailed floor plans and schematics on a laptop with a smartphone nearby.](https://images.pexels.com/photos/110469/pexels-photo-110469.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Architect reviewing detailed floor plans and schematics on a laptop with a smartphone nearby.")
+
+## Dynamic Programming in Action Why Google Docs Feels Instant
 
 Google Docs is a marvel of modern web applications. You type, and the characters appear instantly. Your colleague edits simultaneously, and their changes pop into view with barely a blink. It feels, for lack of a better word, *instant*. This seamless experience isn't magic; it's the result of highly sophisticated engineering, where fundamental computer science principles, including Dynamic Programming (DP), play a quiet yet crucial role.
 

@@ -4,6 +4,8 @@ categories:
 - Programming
 - Education
 comments: true
+cover:
+  image: https://images.pexels.com/photos/25626435/pexels-photo-25626435.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Dive into a simplified conceptual simulation of gravitational waves using
   Python, NumPy, and Matplotlib. Learn how to visualize spacetime distortion with
@@ -20,6 +22,10 @@ tags:
 - education
 title: How to Simulate Gravitational Waves in a Python Sandbox
 ---
+
+![Illustration depicting classical binary bit and quantum qubit states in superposition and binary.](https://images.pexels.com/photos/25626435/pexels-photo-25626435.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Illustration depicting classical binary bit and quantum qubit states in superposition and binary.")
+
+## How to Simulate Gravitational Waves in a Python Sandbox
 
 Gravitational waves are one of the most fascinating predictions of Einstein's General Relativity. They are ripples in the fabric of spacetime, caused by accelerating massive objects like merging black holes or neutron stars. Detecting them, as LIGO and Virgo have done, is a monumental feat of engineering and science.
 

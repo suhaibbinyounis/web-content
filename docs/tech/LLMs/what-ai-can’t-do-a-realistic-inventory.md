@@ -1,25 +1,33 @@
 ---
-title: "What AI Can’t Do: A Realistic Inventory"
-date: 2025-06-17T08:29:07.950Z
-description: Amidst the hype and astonishing advancements, it's crucial to understand the inherent limitations of artificial intelligence. This post explores what AI, fundamentally, cannot do, offering a realistic inventory of its boundaries.
-tags:
-  - AI
-  - Artificial Intelligence
-  - LLM
-  - Machine Learning
-  - Limitations
-  - Ethics
-  - Creativity
-  - Human
-  - Future
-  - Technology
 categories:
-  - AI
-  - Technology
-  - Ethics
-  - Future
+- AI
+- Technology
+- Ethics
+- Future
 comments: true
+cover:
+  image: https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 08:29:07.950000
+description: Amidst the hype and astonishing advancements, it's crucial to understand
+  the inherent limitations of artificial intelligence. This post explores what AI,
+  fundamentally, cannot do, offering a realistic inventory of its boundaries.
+tags:
+- AI
+- Artificial Intelligence
+- LLM
+- Machine Learning
+- Limitations
+- Ethics
+- Creativity
+- Human
+- Future
+- Technology
+title: "What AI Can\u2019t Do: A Realistic Inventory"
 ---
+
+![A woman with digital code projections on her face, representing technology and future concepts.](https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A woman with digital code projections on her face, representing technology and future concepts.")
+
+## What AI Can’t Do: A Realistic Inventory
 
 The rapid evolution of Artificial Intelligence, particularly in the realm of Large Language Models (LLMs) and generative AI, has ushered in an era of unparalleled technological excitement. From composing music and generating photorealistic images to drafting sophisticated code and engaging in nuanced conversations, AI’s capabilities often seem limitless. Yet, amidst the dazzling demonstrations and futuristic headlines, it’s imperative to ground our understanding in a realistic assessment of what AI *cannot* do.
 

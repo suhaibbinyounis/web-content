@@ -1,11 +1,30 @@
 ---
-title: Y Combinator (Not the Startup One) What It Actually Does in Code
-date: 2025-06-17T09:26:07.585Z
-description: Delve into the fascinating world of the Y Combinator in computer science – a higher-order function that enables anonymous recursion in lambda calculus and functional programming, distinct from the famous startup accelerator.
-tags: ["functional programming", "lambda calculus", "recursion", "fixed-point combinator", "Y combinator", "computer science", "programming", "higher-order functions"]
-categories: ["Programming", "Computer Science", "Functional Programming"]
+categories:
+- Programming
+- Computer Science
+- Functional Programming
 comments: true
+cover:
+  image: https://images.pexels.com/photos/93422/pexels-photo-93422.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 09:26:07.585000
+description: "Delve into the fascinating world of the Y Combinator in computer science\
+  \ \u2013 a higher-order function that enables anonymous recursion in lambda calculus\
+  \ and functional programming, distinct from the famous startup accelerator."
+tags:
+- functional programming
+- lambda calculus
+- recursion
+- fixed-point combinator
+- Y combinator
+- computer science
+- programming
+- higher-order functions
+title: Y Combinator (Not the Startup One) What It Actually Does in Code
 ---
+
+![Detailed shot of a laptop keyboard and touchpad, ideal for tech themes.](https://images.pexels.com/photos/93422/pexels-photo-93422.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Detailed shot of a laptop keyboard and touchpad, ideal for tech themes.")
+
+## Y Combinator (Not the Startup One) What It Actually Does in Code
 
 When you hear "Y Combinator," your mind likely jumps to the wildly successful startup accelerator that launched companies like Airbnb, Dropbox, and Stripe. But for computer science enthusiasts, particularly those steeped in functional programming and lambda calculus, the "Y Combinator" refers to something entirely different, far more abstract, and profoundly elegant: a higher-order function that enables recursion without explicit naming.
 

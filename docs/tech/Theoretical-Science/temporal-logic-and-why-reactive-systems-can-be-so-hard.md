@@ -1,22 +1,30 @@
 ---
-title: Temporal Logic and Why Reactive Systems Can Be So Hard
-date: 2025-06-17T09:26:07.585Z
-description: "Delve into the inherent complexity of reactive systems, their non-terminating, concurrent nature, and how temporal logic provides a formal framework to reason about their dynamic behavior, crucial for ensuring correctness and reliability."
-tags:
-  - temporal logic
-  - reactive systems
-  - formal verification
-  - concurrency
-  - system design
-  - software engineering
-  - state machines
-  - model checking
 categories:
-  - Software Engineering
-  - System Design
-  - Formal Methods
+- Software Engineering
+- System Design
+- Formal Methods
 comments: true
+cover:
+  image: https://images.pexels.com/photos/8385821/pexels-photo-8385821.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 09:26:07.585000
+description: Delve into the inherent complexity of reactive systems, their non-terminating,
+  concurrent nature, and how temporal logic provides a formal framework to reason
+  about their dynamic behavior, crucial for ensuring correctness and reliability.
+tags:
+- temporal logic
+- reactive systems
+- formal verification
+- concurrency
+- system design
+- software engineering
+- state machines
+- model checking
+title: Temporal Logic and Why Reactive Systems Can Be So Hard
 ---
+
+![Close-up of varied blue puzzle pieces scattered randomly on a white surface.](https://images.pexels.com/photos/8385821/pexels-photo-8385821.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Close-up of varied blue puzzle pieces scattered randomly on a white surface.")
+
+## Temporal Logic and Why Reactive Systems Can Be So Hard
 
 The world runs on reactive systems. From your web browser continuously fetching data and responding to clicks, to embedded systems controlling car engines, to the vast microservice architectures powering cloud applications – these systems are designed not to compute a result and terminate, but to continuously react to incoming events, maintain state, and interact with their environment.
 

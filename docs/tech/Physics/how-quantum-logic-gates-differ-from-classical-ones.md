@@ -4,6 +4,8 @@ categories:
 - Quantum Computing
 - Software Development
 comments: true
+cover:
+  image: https://images.pexels.com/photos/25626435/pexels-photo-25626435.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: A deep dive for developers comparing classical Boolean logic gates with
   their quantum counterparts. Understand bits vs. qubits, determinism vs. probability,
@@ -20,6 +22,10 @@ tags:
 - CLI
 title: How Quantum Logic Gates Differ from Classical Ones
 ---
+
+![Illustration depicting classical binary bit and quantum qubit states in superposition and binary.](https://images.pexels.com/photos/25626435/pexels-photo-25626435.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Illustration depicting classical binary bit and quantum qubit states in superposition and binary.")
+
+## How Quantum Logic Gates Differ from Classical Ones
 
 As developers, we build on layers of abstraction, and at the very bottom of our digital world lies the logic gate. These fundamental building blocks manipulate information, transforming inputs into outputs. For decades, classical logic gates have powered every piece of silicon we interact with. But now, a new paradigm is emerging: quantum computing, which operates with an entirely different set of rules and, consequently, a different set of logic gates.
 

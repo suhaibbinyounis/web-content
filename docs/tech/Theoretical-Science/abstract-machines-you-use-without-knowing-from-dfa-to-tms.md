@@ -1,25 +1,33 @@
 ---
-title: Abstract Machines You Use Without Knowing From DFA to TMs
-date: 2025-06-17T09:26:07.585Z
-description: Dive into the hidden world of abstract machines like DFAs, PDAs, and Turing Machines, and discover how these foundational concepts power the technology you use every single day, from regex to compilers to your very own computer.
-tags:
-  - Computational Theory
-  - Automata
-  - DFA
-  - NFA
-  - PDA
-  - Turing Machine
-  - Compiler Design
-  - Regex
-  - Programming
-  - Computer Science
-  - Algorithms
 categories:
-  - Computer Science
-  - Software Engineering
-  - Theory
+- Computer Science
+- Software Engineering
+- Theory
 comments: true
+cover:
+  image: https://images.pexels.com/photos/17483874/pexels-photo-17483874.png?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 09:26:07.585000
+description: Dive into the hidden world of abstract machines like DFAs, PDAs, and
+  Turing Machines, and discover how these foundational concepts power the technology
+  you use every single day, from regex to compilers to your very own computer.
+tags:
+- Computational Theory
+- Automata
+- DFA
+- NFA
+- PDA
+- Turing Machine
+- Compiler Design
+- Regex
+- Programming
+- Computer Science
+- Algorithms
+title: Abstract Machines You Use Without Knowing From DFA to TMs
 ---
+
+![Visual abstraction of neural networks in AI technology, featuring data flow and algorithms.](https://images.pexels.com/photos/17483874/pexels-photo-17483874.png?auto=compress&cs=tinysrgb&h=650&w=940 "Visual abstraction of neural networks in AI technology, featuring data flow and algorithms.")
+
+## Abstract Machines You Use Without Knowing From DFA to TMs
 
 The world of technology, from the app on your phone to the complex AI models running in data centers, feels incredibly sophisticated. Yet, at its core, much of this sophistication is built upon surprisingly simple, elegant, and often invisible mathematical models of computation. These are known as "abstract machines."
 

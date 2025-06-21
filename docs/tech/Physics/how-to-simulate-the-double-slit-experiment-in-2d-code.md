@@ -4,6 +4,8 @@ categories:
 - programming
 - simulation
 comments: true
+cover:
+  image: https://images.pexels.com/photos/29006120/pexels-photo-29006120.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Learn how to simulate the classic double-slit experiment in 2D using
   Python, NumPy, and Matplotlib. Understand wave interference through a practical,
@@ -21,6 +23,10 @@ tags:
 - wave-mechanics
 title: How to Simulate the Double-Slit Experiment in 2D Code
 ---
+
+![Macro shot of oil and water bubbles with a green background, showcasing abstract patterns.](https://images.pexels.com/photos/29006120/pexels-photo-29006120.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Macro shot of oil and water bubbles with a green background, showcasing abstract patterns.")
+
+## How to Simulate the Double-Slit Experiment in 2D Code
 
 The double-slit experiment is one of the most iconic and mind-bending experiments in physics, famously demonstrating the wave-particle duality of light and matter. While the quantum mechanical interpretation involves probabilities and particle collapse, the fundamental interference pattern observed can be elegantly simulated using classical wave theory.
 

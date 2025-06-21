@@ -1,11 +1,33 @@
 ---
-title: How Netflix Uses Heaps to Prioritize Your Streams (and Why it Matters)
-date: 2025-06-17T10:04:28.467Z
-description: "Delve into the core data structures that underpin Netflix's seamless streaming experience. This post explores how priority queues, often implemented using heaps, are fundamental to managing and prioritizing the vast array of requests and tasks in a distributed system at Netflix's scale."
-tags: [Netflix, Streaming, Data Structures, Heaps, Algorithms, Distributed Systems, System Design, Backend Engineering, Scalability]
-categories: [Backend Engineering, System Design, Data Structures, Algorithms]
+categories:
+- Backend Engineering
+- System Design
+- Data Structures
+- Algorithms
 comments: true
+cover:
+  image: https://images.pexels.com/photos/17489156/pexels-photo-17489156.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 10:04:28.467000
+description: Delve into the core data structures that underpin Netflix's seamless
+  streaming experience. This post explores how priority queues, often implemented
+  using heaps, are fundamental to managing and prioritizing the vast array of requests
+  and tasks in a distributed system at Netflix's scale.
+tags:
+- Netflix
+- Streaming
+- Data Structures
+- Heaps
+- Algorithms
+- Distributed Systems
+- System Design
+- Backend Engineering
+- Scalability
+title: How Netflix Uses Heaps to Prioritize Your Streams (and Why it Matters)
 ---
+
+![Focused detail of a modern server rack with blue LED indicators in a data center.](https://images.pexels.com/photos/17489156/pexels-photo-17489156.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Focused detail of a modern server rack with blue LED indicators in a data center.")
+
+## How Netflix Uses Heaps to Prioritize Your Streams (and Why it Matters)
 
 The magic behind Netflix's seamless, buffer-free streaming experience isn't just about massive bandwidth or clever content delivery networks (CDNs). It's also deeply rooted in fundamental computer science principles and the intelligent application of data structures. Behind every "play" button click, every segment fetched, and every background task running, there's a complex ballet of prioritization. And at the heart of managing priorities in high-performance, distributed systems, you often find a powerful, elegant data structure: the heap.
 

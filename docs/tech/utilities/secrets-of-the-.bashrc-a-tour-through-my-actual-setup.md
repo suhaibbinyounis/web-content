@@ -1,23 +1,32 @@
 ---
-title: Secrets of the .bashrc A Tour Through My Actual Setup
-date: 2025-06-17T11:22:34.549Z
-description: "Unlock the full power of your Linux terminal! This deep dive explores my personal .bashrc file, revealing advanced configurations, custom aliases, intelligent functions, and productivity hacks that transform the command line into a tailored powerhouse. Learn how to optimize your shell for efficiency and enjoyment."
-tags:
-  - Linux
-  - Bash
-  - Terminal
-  - Productivity
-  - CLI
-  - Dotfiles
-  - Scripting
-  - DevOps
 categories:
-  - Productivity
-  - DevOps
-  - Linux
-  - Programming
+- Productivity
+- DevOps
+- Linux
+- Programming
 comments: true
+cover:
+  image: https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 11:22:34.549000
+description: Unlock the full power of your Linux terminal! This deep dive explores
+  my personal .bashrc file, revealing advanced configurations, custom aliases, intelligent
+  functions, and productivity hacks that transform the command line into a tailored
+  powerhouse. Learn how to optimize your shell for efficiency and enjoyment.
+tags:
+- Linux
+- Bash
+- Terminal
+- Productivity
+- CLI
+- Dotfiles
+- Scripting
+- DevOps
+title: Secrets of the .bashrc A Tour Through My Actual Setup
 ---
+
+![A person reads 'Python for Unix and Linux System Administration' indoors.](https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A person reads 'Python for Unix and Linux System Administration' indoors.")
+
+## Secrets of the .bashrc A Tour Through My Actual Setup
 
 The `.bashrc` file. For many, it's just another hidden dotfile in their home directory, perhaps touched only once to add a forgotten alias. For me, and for countless power users, it's the beating heart of our command-line experience, a meticulously crafted script that transforms a vanilla Bash shell into a bespoke productivity engine.
 

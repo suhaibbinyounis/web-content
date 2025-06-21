@@ -1,11 +1,30 @@
 ---
-title: Search Indexing Explained with Inverted Indexes and Hash Maps
-date: 2025-06-17T10:04:28.467Z
-description: Delve into the core mechanisms behind lightning-fast search engines. This post demystifies search indexing, focusing on the fundamental roles of inverted indexes and hash maps in transforming raw data into instantly searchable information.
-tags: [Search Engines, Indexing, Inverted Index, Hash Map, Data Structures, Information Retrieval, Algorithms, System Design]
-categories: [Software Engineering, Data Science, System Design]
+categories:
+- Software Engineering
+- Data Science
+- System Design
 comments: true
+cover:
+  image: https://images.pexels.com/photos/6549358/pexels-photo-6549358.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 10:04:28.467000
+description: Delve into the core mechanisms behind lightning-fast search engines.
+  This post demystifies search indexing, focusing on the fundamental roles of inverted
+  indexes and hash maps in transforming raw data into instantly searchable information.
+tags:
+- Search Engines
+- Indexing
+- Inverted Index
+- Hash Map
+- Data Structures
+- Information Retrieval
+- Algorithms
+- System Design
+title: Search Indexing Explained with Inverted Indexes and Hash Maps
 ---
+
+![A person organizing wooden drawers in an archive room with a focus on storage.](https://images.pexels.com/photos/6549358/pexels-photo-6549358.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A person organizing wooden drawers in an archive room with a focus on storage.")
+
+## Search Indexing Explained with Inverted Indexes and Hash Maps
 
 ## The Magic Behind Instant Search
 

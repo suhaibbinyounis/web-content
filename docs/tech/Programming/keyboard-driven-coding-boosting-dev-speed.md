@@ -1,25 +1,33 @@
 ---
-title: Keyboard-Driven Coding Boosting Dev Speed
-date: 2025-06-17T09:02:34.262Z
-description: "Unlock significant developer productivity by minimizing mouse usage and mastering keyboard shortcuts across your operating system, IDE, terminal, and browser. Dive deep into techniques, tools, and mindsets for a truly fluid coding workflow."
-tags:
-  - keyboard-driven
-  - productivity
-  - developer tools
-  - coding speed
-  - Vim
-  - Emacs
-  - VS Code
-  - JetBrains
-  - CLI
-  - workflow
-  - ergonomics
 categories:
-  - Productivity
-  - Developer Workflow
-  - Software Development
+- Productivity
+- Developer Workflow
+- Software Development
 comments: true
+cover:
+  image: https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 09:02:34.262000
+description: Unlock significant developer productivity by minimizing mouse usage and
+  mastering keyboard shortcuts across your operating system, IDE, terminal, and browser.
+  Dive deep into techniques, tools, and mindsets for a truly fluid coding workflow.
+tags:
+- keyboard-driven
+- productivity
+- developer tools
+- coding speed
+- Vim
+- Emacs
+- VS Code
+- JetBrains
+- CLI
+- workflow
+- ergonomics
+title: Keyboard-Driven Coding Boosting Dev Speed
 ---
+
+![Eyeglasses reflecting computer code on a monitor, ideal for technology and programming themes.](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Eyeglasses reflecting computer code on a monitor, ideal for technology and programming themes.")
+
+## Keyboard-Driven Coding Boosting Dev Speed
 
 ## The Silent Thief of Developer Productivity: Your Mouse
 

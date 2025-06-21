@@ -4,10 +4,12 @@ categories:
 - Quantum Computing
 - Physics
 comments: true
+cover:
+  image: https://images.pexels.com/photos/32562419/pexels-photo-32562419.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
-description: Dive deep into simulating the fundamental quantum harmonic oscillator
-  using Python, NumPy, and SciPy. Learn how to discretize the Schrödinger equation,
-  build the Hamiltonian matrix, and extract energy eigenvalues and wavefunctions.
+description: "Dive deep into simulating the fundamental quantum harmonic oscillator\
+  \ using Python, NumPy, and SciPy. Learn how to discretize the Schr\xF6dinger equation,\
+  \ build the Hamiltonian matrix, and extract energy eigenvalues and wavefunctions."
 math: true
 tags:
 - quantum mechanics
@@ -21,6 +23,10 @@ tags:
 - harmonic oscillator
 title: Simulating the Quantum Harmonic Oscillator in Code
 ---
+
+![NYSC member passionately leads a drill session in Kaduna, Nigeria, showcasing teamwork and youth empowerment.](https://images.pexels.com/photos/32562419/pexels-photo-32562419.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "NYSC member passionately leads a drill session in Kaduna, Nigeria, showcasing teamwork and youth empowerment.")
+
+## Simulating the Quantum Harmonic Oscillator in Code
 
 The Quantum Harmonic Oscillator (QHO) is one of the most fundamental and important exactly solvable problems in quantum mechanics. It describes a particle moving under a quadratic potential energy, much like a mass on a spring. While seemingly simple, its solutions (quantized energy levels, distinct wave functions) are cornerstones for understanding molecular vibrations, quantum field theory, and even the behavior of light in quantum optics.
 

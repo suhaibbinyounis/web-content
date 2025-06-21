@@ -1,19 +1,29 @@
 ---
-title: Do LLMs Understand or Just Predict?
-date: 2025-06-17T08:33:46.693Z
-description: "Delve into the core debate surrounding Large Language Models (LLMs): Are they truly understanding the vast amounts of information they process, or are they merely exceptionally sophisticated prediction machines? This post explores the statistical foundations, emergent capabilities, and philosophical implications of AI 'understanding'."
-tags:
-  - AI
-  - LLM
-  - Machine Learning
-  - Cognitive Science
-  - Philosophy of Mind
 categories:
-  - Artificial Intelligence
-  - Deep Learning
-  - Philosophy
+- Artificial Intelligence
+- Deep Learning
+- Philosophy
 comments: true
+cover:
+  image: https://images.pexels.com/photos/17483869/pexels-photo-17483869.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 08:33:46.693000
+description: 'Delve into the core debate surrounding Large Language Models (LLMs):
+  Are they truly understanding the vast amounts of information they process, or are
+  they merely exceptionally sophisticated prediction machines? This post explores
+  the statistical foundations, emergent capabilities, and philosophical implications
+  of AI ''understanding''.'
+tags:
+- AI
+- LLM
+- Machine Learning
+- Cognitive Science
+- Philosophy of Mind
+title: Do LLMs Understand or Just Predict?
 ---
+
+![3D rendered abstract brain concept with neural network.](https://images.pexels.com/photos/17483869/pexels-photo-17483869.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "3D rendered abstract brain concept with neural network.")
+
+## Do LLMs Understand or Just Predict?
 
 The rise of Large Language Models (LLMs) like OpenAI's GPT series, Google's Gemini, Anthropic's Claude, and Meta's Llama has been nothing short of revolutionary. These models can write poetry, debug code, summarize complex texts, and engage in surprisingly coherent conversations. Their capabilities often feel uncannily human, leading to a fundamental question that cuts to the heart of artificial intelligence: Do LLMs truly understand, or are they simply predicting the next word with incredible accuracy?
 

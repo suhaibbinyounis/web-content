@@ -1,11 +1,37 @@
 ---
-title: Turning Markdown Notes into Dynamic Web Pages from Terminal
-date: 2025-06-17T11:22:34.549Z
-description: Discover how to transform simple Markdown notes into full-fledged, dynamic web pages directly from your terminal, leveraging tools like Pandoc, Static Site Generators (SSGs), and CI/CD pipelines for seamless publication.
-tags: [Markdown, Static Site Generators, SSG, Terminal, Web Development, Automation, Blogging, Developer Tools, Pandoc, Jekyll, Hugo, Eleventy, GitHub Actions, Netlify]
-categories: [Web Development, Productivity, Tools, CLI]
+categories:
+- Web Development
+- Productivity
+- Tools
+- CLI
 comments: true
+cover:
+  image: https://images.pexels.com/photos/16023919/pexels-photo-16023919.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 11:22:34.549000
+description: Discover how to transform simple Markdown notes into full-fledged, dynamic
+  web pages directly from your terminal, leveraging tools like Pandoc, Static Site
+  Generators (SSGs), and CI/CD pipelines for seamless publication.
+tags:
+- Markdown
+- Static Site Generators
+- SSG
+- Terminal
+- Web Development
+- Automation
+- Blogging
+- Developer Tools
+- Pandoc
+- Jekyll
+- Hugo
+- Eleventy
+- GitHub Actions
+- Netlify
+title: Turning Markdown Notes into Dynamic Web Pages from Terminal
 ---
+
+![HTML code displayed on a screen, demonstrating web structure and syntax.](https://images.pexels.com/photos/16023919/pexels-photo-16023919.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "HTML code displayed on a screen, demonstrating web structure and syntax.")
+
+## Turning Markdown Notes into Dynamic Web Pages from Terminal
 
 Markdown has become the lingua franca for plain text formatting. From READMEs on GitHub to daily notes, documentation, and even book drafts, its simplicity and readability are unmatched. But what if you want to take those static `.md` files and present them as interactive, styled web pages? What if you want to manage an entire blog or documentation site using just Markdown files and your trusty terminal?
 

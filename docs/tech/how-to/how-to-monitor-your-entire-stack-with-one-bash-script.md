@@ -1,11 +1,29 @@
 ---
-title: How to Monitor Your Entire Stack with One Bash Script
-date: 2025-06-17T13:05:16.383Z
-description: Learn to build a simple, effective Bash script to monitor core components of your stack – from CPU and memory to services and network connectivity. Understand its power and crucial limitations for real-world use.
-tags: [Linux, CLI, Bash, Scripting, Monitoring, DevOps, SysAdmin]
-categories: [DevOps, Systems, Scripting]
+categories:
+- DevOps
+- Systems
+- Scripting
 comments: true
+cover:
+  image: https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 13:05:16.383000
+description: "Learn to build a simple, effective Bash script to monitor core components\
+  \ of your stack \u2013 from CPU and memory to services and network connectivity.\
+  \ Understand its power and crucial limitations for real-world use."
+tags:
+- Linux
+- CLI
+- Bash
+- Scripting
+- Monitoring
+- DevOps
+- SysAdmin
+title: How to Monitor Your Entire Stack with One Bash Script
 ---
+
+![Eyeglasses reflecting computer code on a monitor, ideal for technology and programming themes.](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Eyeglasses reflecting computer code on a monitor, ideal for technology and programming themes.")
+
+## How to Monitor Your Entire Stack with One Bash Script
 
 Let's be honest. When you hear "monitor your entire stack with one Bash script," your first thought might be: "That's either brilliant or incredibly naive." And you'd be right on both counts.
 

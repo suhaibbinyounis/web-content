@@ -5,6 +5,8 @@ categories:
 - Research
 - FutureTech
 comments: true
+cover:
+  image: https://images.pexels.com/photos/6944182/pexels-photo-6944182.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Dive into the fascinating world of thermoelectricity and explore how
   the Seebeck and Peltier effects could provide sustainable, compact power for the
@@ -27,6 +29,10 @@ tags:
 - Engineering
 title: How Thermoelectric Effects Could Power Future Microdevices
 ---
+
+![Three polished crystals casting shadows on a soft pink surface, creating a tranquil and mystical feel.](https://images.pexels.com/photos/6944182/pexels-photo-6944182.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Three polished crystals casting shadows on a soft pink surface, creating a tranquil and mystical feel.")
+
+## How Thermoelectric Effects Could Power Future Microdevices
 
 The dream of "install and forget" microdevices, whether they're IoT sensors scattered across a smart city, biometric monitors embedded in wearables, or even medical implants, often runs headfirst into a fundamental wall: power. Batteries, for all their advancements, have finite lifespans, require recharging or replacement, and often contain materials that are less than environmentally friendly.
 

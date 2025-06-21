@@ -1,21 +1,29 @@
 ---
-title: Don’t Fear the Monorepo A Modern Guide
-date: 2025-06-17T09:02:34.262Z
-description: "Dispelling myths and embracing the power of modern monorepos. A deep dive into their benefits, challenges, and the tooling that makes them shine for large-scale development."
-tags:
-  - Software Architecture
-  - Monorepo
-  - Polyrepo
-  - DevOps
-  - Build Systems
-  - Developer Experience
-  - Scalability
 categories:
-  - Software Development
-  - Architecture
-  - Engineering Practices
+- Software Development
+- Architecture
+- Engineering Practices
 comments: true
+cover:
+  image: https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 09:02:34.262000
+description: Dispelling myths and embracing the power of modern monorepos. A deep
+  dive into their benefits, challenges, and the tooling that makes them shine for
+  large-scale development.
+tags:
+- Software Architecture
+- Monorepo
+- Polyrepo
+- DevOps
+- Build Systems
+- Developer Experience
+- Scalability
+title: "Don\u2019t Fear the Monorepo A Modern Guide"
 ---
+
+![Blurred city scene through raindrop-covered window, creating a tranquil urban mood.](https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Blurred city scene through raindrop-covered window, creating a tranquil urban mood.")
+
+## Don’t Fear the Monorepo A Modern Guide
 
 ## Don’t Fear the Monorepo: A Modern Guide
 

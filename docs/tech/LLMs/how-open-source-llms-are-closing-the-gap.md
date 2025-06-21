@@ -1,22 +1,30 @@
 ---
-title: How Open Source LLMs Are Closing the Gap
-date: 2025-06-17T08:32:45.418Z
-description: Explore the rapid ascent of open-source Large Language Models, detailing their advancements, community impact, and how they're challenging proprietary giants, democratizing AI innovation.
-tags:
-    - AI
-    - LLM
-    - OpenSource
-    - MachineLearning
-    - DeepLearning
-    - Technology
-    - ArtificialIntelligence
 categories:
-    - AI
-    - Development
-    - Open Source
-    - Innovation
+- AI
+- Development
+- Open Source
+- Innovation
 comments: true
+cover:
+  image: https://images.pexels.com/photos/17887854/pexels-photo-17887854.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 08:32:45.418000
+description: Explore the rapid ascent of open-source Large Language Models, detailing
+  their advancements, community impact, and how they're challenging proprietary giants,
+  democratizing AI innovation.
+tags:
+- AI
+- LLM
+- OpenSource
+- MachineLearning
+- DeepLearning
+- Technology
+- ArtificialIntelligence
+title: How Open Source LLMs Are Closing the Gap
 ---
+
+![A person uses ChatGPT on a smartphone outdoors, showcasing technology in daily life.](https://images.pexels.com/photos/17887854/pexels-photo-17887854.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A person uses ChatGPT on a smartphone outdoors, showcasing technology in daily life.")
+
+## How Open Source LLMs Are Closing the Gap
 
 The landscape of Artificial Intelligence, particularly in Large Language Models (LLMs), has undergone a dramatic transformation in recent years. For a long time, the cutting edge seemed exclusively the domain of well-funded tech giants like OpenAI, Google, and Anthropic, wielding proprietary models like GPT-4, Gemini, and Claude. These models, with their unparalleled scale and generalist capabilities, set the benchmark for what was possible.
 

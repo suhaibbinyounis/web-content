@@ -4,6 +4,8 @@ categories:
 - Data Science
 - Electrical Engineering
 comments: true
+cover:
+  image: https://images.pexels.com/photos/27379769/pexels-photo-27379769.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Dive deep into the mathematical and conceptual derivation of signal sampling
   theory, tracing it back to the foundational Nyquist-Shannon theorem. Learn by example
@@ -21,6 +23,10 @@ tags:
 - Theory
 title: How to Derive Signal Sampling Theory from Nyquist-Shannon
 ---
+
+![Tall steel telecommunication tower with moon in the sky, São Paulo.](https://images.pexels.com/photos/27379769/pexels-photo-27379769.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Tall steel telecommunication tower with moon in the sky, São Paulo.")
+
+## How to Derive Signal Sampling Theory from Nyquist-Shannon
 
 Understanding how we can represent continuous analog signals in the discrete digital world is fundamental in countless technical fields – from audio engineering and telecommunications to medical imaging and sensor data acquisition. At the heart of this transformation lies **signal sampling theory**, underpinned by the venerable **Nyquist-Shannon Sampling Theorem**.
 

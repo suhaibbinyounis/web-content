@@ -1,11 +1,31 @@
 ---
-title: Autocomplete Ranking with Tries + Heuristics
-date: 2025-06-17T10:04:28.467Z
-description: Dive deep into how autocomplete systems go beyond simple prefix matching, using powerful data structures like Tries combined with intelligent heuristics for superior ranking and user experience.
-tags: [Algorithms, Data Structures, Autocomplete, Tries, Heuristics, Search, Ranking, Engineering]
-categories: [Software Engineering, Algorithms, Data Structures, AI Principles]
+categories:
+- Software Engineering
+- Algorithms
+- Data Structures
+- AI Principles
 comments: true
+cover:
+  image: https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 10:04:28.467000
+description: Dive deep into how autocomplete systems go beyond simple prefix matching,
+  using powerful data structures like Tries combined with intelligent heuristics for
+  superior ranking and user experience.
+tags:
+- Algorithms
+- Data Structures
+- Autocomplete
+- Tries
+- Heuristics
+- Search
+- Ranking
+- Engineering
+title: Autocomplete Ranking with Tries + Heuristics
 ---
+
+![Colorful abstract 3D rendering of neural networks with vibrant blue and yellow gradients.](https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&h=650&w=940 "Colorful abstract 3D rendering of neural networks with vibrant blue and yellow gradients.")
+
+## Autocomplete Ranking with Tries + Heuristics
 
 Every day, billions of us rely on autocomplete. From typing a search query into Google to finding a contact on your phone, or coding in an IDE, the ability for a system to intelligently guess what you're trying to type is a cornerstone of modern digital interaction. But autocomplete isn't just about suggesting *any* word that matches a prefix; it's about suggesting the *best* word. This is where the powerful combination of Tries (Prefix Trees) and sophisticated heuristics comes into play.
 

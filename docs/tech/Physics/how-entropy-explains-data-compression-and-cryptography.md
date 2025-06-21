@@ -4,6 +4,8 @@ categories:
 - Security
 - System Design
 comments: true
+cover:
+  image: https://images.pexels.com/photos/5474031/pexels-photo-5474031.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Dive deep into information entropy, its role in how we compress data
   efficiently, and why it's the bedrock of robust cryptographic security. Includes
@@ -20,6 +22,10 @@ tags:
 - Security
 title: How Entropy Explains Data Compression and Cryptography
 ---
+
+![A man with a beard and eyeglasses looking at the camera, illuminated by binary code projection.](https://images.pexels.com/photos/5474031/pexels-photo-5474031.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A man with a beard and eyeglasses looking at the camera, illuminated by binary code projection.")
+
+## How Entropy Explains Data Compression and Cryptography
 
 As developers, we often deal with data: storing it, transmitting it, securing it. Behind seemingly disparate fields like data compression and cryptography lies a fundamental concept from information theory: **entropy**. Understanding entropy isn't just academic; it provides a powerful mental model for why certain techniques work and, more importantly, why others fail.
 

@@ -1,24 +1,33 @@
 ---
-title: Curry-Howard Correspondence Programming as Logic Proofs
-date: 2025-06-17T09:26:07.585Z
-description: "Explore the profound Curry-Howard Correspondence, an isomorphism revealing that programs are constructive proofs and types are logical propositions. This deep dive uncovers its historical roots, practical implications for programming language design, type safety, and the future of verifiable software."
-tags:
-  - Curry-Howard
-  - Logic
-  - ProgrammingLanguages
-  - TypeTheory
-  - Proofs
-  - FunctionalProgramming
-  - DependentTypes
-  - Isomorphism
-  - FormalVerification
 categories:
-  - ComputerScience
-  - Logic
-  - Programming
-  - Theory
+- ComputerScience
+- Logic
+- Programming
+- Theory
 comments: true
+cover:
+  image: https://images.pexels.com/photos/25626446/pexels-photo-25626446.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 09:26:07.585000
+description: Explore the profound Curry-Howard Correspondence, an isomorphism revealing
+  that programs are constructive proofs and types are logical propositions. This deep
+  dive uncovers its historical roots, practical implications for programming language
+  design, type safety, and the future of verifiable software.
+tags:
+- Curry-Howard
+- Logic
+- ProgrammingLanguages
+- TypeTheory
+- Proofs
+- FunctionalProgramming
+- DependentTypes
+- Isomorphism
+- FormalVerification
+title: Curry-Howard Correspondence Programming as Logic Proofs
 ---
+
+![Visual representation of geometric calculations comparing bits and qubits in black and white.](https://images.pexels.com/photos/25626446/pexels-photo-25626446.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Visual representation of geometric calculations comparing bits and qubits in black and white.")
+
+## Curry-Howard Correspondence Programming as Logic Proofs
 
 The worlds of computer programming and mathematical logic might seem disparate at first glance. One deals with the practical construction of software, the other with abstract truths and rigorous derivations. Yet, lurking beneath the surface of modern type systems and functional programming paradigms is a profound and elegant connection: the **Curry-Howard Correspondence**. This principle, often summarized as "programs *are* proofs" and "types *are* propositions," reveals a deep, fundamental isomorphism between these two seemingly unrelated domains.
 

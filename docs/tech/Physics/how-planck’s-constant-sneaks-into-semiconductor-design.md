@@ -4,6 +4,8 @@ categories:
 - Science
 - Programming
 comments: true
+cover:
+  image: https://images.pexels.com/photos/343457/pexels-photo-343457.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Delve into the fundamental role of Planck's constant in semiconductor
   physics, from band gaps and photonics to quantum confinement and device miniaturization,
@@ -17,8 +19,12 @@ tags:
 - Python
 - Material Science
 - VLSI
-title: How Planck’s Constant Sneaks Into Semiconductor Design
+title: "How Planck\u2019s Constant Sneaks Into Semiconductor Design"
 ---
+
+![Detailed image of a green circuit board featuring various components and microprocessors.](https://images.pexels.com/photos/343457/pexels-photo-343457.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Detailed image of a green circuit board featuring various components and microprocessors.")
+
+## How Planck’s Constant Sneaks Into Semiconductor Design
 
 You're a developer, perhaps tinkering with microcontrollers, or maybe you're knee-deep in optimizing code for modern CPUs. You know about Moore's Law, transistor scaling, and performance per watt. But have you ever paused to think about the quantum bedrock beneath it all? Specifically, how a seemingly abstract value like **Planck's constant (h)** quietly dictates the very behavior of the semiconductors you rely on daily?
 

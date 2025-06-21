@@ -1,21 +1,30 @@
 ---
-title: How to Use Obsidian + Git to Create a Local-First Knowledge Base
-date: 2025-06-17T13:05:16.383Z
-description: "Master a robust, future-proof knowledge management system using Obsidian for note-taking and Git for version control and synchronization. Learn to build a local-first, plain-text knowledge base that's entirely yours, with full control over history and data."
-tags:
-  - Obsidian
-  - Git
-  - Knowledge Management
-  - Local-First
-  - CLI
-  - Markdown
-  - Productivity
 categories:
-  - DevOps
-  - Productivity
-  - Tools
+- DevOps
+- Productivity
+- Tools
 comments: true
+cover:
+  image: https://images.pexels.com/photos/9572568/pexels-photo-9572568.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 13:05:16.383000
+description: Master a robust, future-proof knowledge management system using Obsidian
+  for note-taking and Git for version control and synchronization. Learn to build
+  a local-first, plain-text knowledge base that's entirely yours, with full control
+  over history and data.
+tags:
+- Obsidian
+- Git
+- Knowledge Management
+- Local-First
+- CLI
+- Markdown
+- Productivity
+title: How to Use Obsidian + Git to Create a Local-First Knowledge Base
 ---
+
+![High-angle shot of a busy desk with books, laptop, and lamp, illustrating focused academia.](https://images.pexels.com/photos/9572568/pexels-photo-9572568.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "High-angle shot of a busy desk with books, laptop, and lamp, illustrating focused academia.")
+
+## How to Use Obsidian + Git to Create a Local-First Knowledge Base
 
 As developers, we're constantly learning. New languages, frameworks, architectural patterns, obscure CLI flags – the sheer volume of information is immense. Sticking all that hard-won knowledge into ephemeral memory or scattering it across various SaaS platforms feels inefficient and fragile.
 

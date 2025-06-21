@@ -1,20 +1,28 @@
 ---
-title: How to Use AI to Write Git Commit Messages That Make Sense
-date: 2025-06-17T13:05:16.383Z
-description: "Learn to leverage AI, both local and cloud, to generate consistent, concise, and meaningful Git commit messages. Includes practical examples with Ollama and shell scripting."
-tags:
-  - Git
-  - AI
-  - LLM
-  - DevOps
-  - CLI
-  - Bash
 categories:
-  - Development
-  - Tools
-  - AI/ML
+- Development
+- Tools
+- AI/ML
 comments: true
+cover:
+  image: https://images.pexels.com/photos/16587313/pexels-photo-16587313.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 13:05:16.383000
+description: Learn to leverage AI, both local and cloud, to generate consistent, concise,
+  and meaningful Git commit messages. Includes practical examples with Ollama and
+  shell scripting.
+tags:
+- Git
+- AI
+- LLM
+- DevOps
+- CLI
+- Bash
+title: How to Use AI to Write Git Commit Messages That Make Sense
 ---
+
+![A smartphone displaying the Wikipedia page for ChatGPT, illustrating its technology interface.](https://images.pexels.com/photos/16587313/pexels-photo-16587313.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A smartphone displaying the Wikipedia page for ChatGPT, illustrating its technology interface.")
+
+## How to Use AI to Write Git Commit Messages That Make Sense
 
 Every developer knows the pain of writing a good Git commit message. What changed? Why? Is it concise enough? Detailed enough? Consistent with the team's conventions? Often, we rush, or we simply forget. The result: a commit history that's more a cryptic puzzle than a helpful timeline.
 

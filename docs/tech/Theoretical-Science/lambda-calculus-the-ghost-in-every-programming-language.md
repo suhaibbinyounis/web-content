@@ -1,20 +1,29 @@
 ---
-title: Lambda Calculus The Ghost in Every Programming Language
-date: 2025-06-17T09:26:07.585Z
-description: "Delve into Lambda Calculus, the foundational mathematical system that underpins nearly every programming language, revealing its elegant simplicity, profound power, and surprising influence on modern software development paradigms like functional programming, closures, and higher-order functions."
-tags:
-  - Computer Science
-  - Programming Languages
-  - Functional Programming
-  - Lambda Calculus
-  - Theory
-  - Computation
 categories:
-  - Computer Science
-  - Programming
-  - Theory
+- Computer Science
+- Programming
+- Theory
 comments: true
+cover:
+  image: https://images.pexels.com/photos/6989958/pexels-photo-6989958.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 09:26:07.585000
+description: Delve into Lambda Calculus, the foundational mathematical system that
+  underpins nearly every programming language, revealing its elegant simplicity, profound
+  power, and surprising influence on modern software development paradigms like functional
+  programming, closures, and higher-order functions.
+tags:
+- Computer Science
+- Programming Languages
+- Functional Programming
+- Lambda Calculus
+- Theory
+- Computation
+title: Lambda Calculus The Ghost in Every Programming Language
 ---
+
+![Abstract composition of blue wooden blocks arranged on a light backdrop, casting shadows.](https://images.pexels.com/photos/6989958/pexels-photo-6989958.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Abstract composition of blue wooden blocks arranged on a light backdrop, casting shadows.")
+
+## Lambda Calculus The Ghost in Every Programming Language
 
 ## Lambda Calculus: The Ghost in Every Programming Language
 

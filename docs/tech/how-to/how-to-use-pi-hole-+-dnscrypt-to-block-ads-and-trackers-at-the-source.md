@@ -1,11 +1,33 @@
 ---
-title: How to Use Pi-hole + DNSCrypt to Block Ads and Trackers at the Source
-date: 2025-06-17T13:05:16.383Z
-description: "Elevate your network's privacy and security by combining Pi-hole for ad and tracker blocking with DNSCrypt-proxy for encrypted, private DNS lookups. A step-by-step guide for developers."
-tags: [Linux, CLI, Bash, DNS, Security, Privacy, Ad-blocking, Networking, DevOps, Raspberry Pi]
-categories: [Networking, DevOps, Security, Privacy]
+categories:
+- Networking
+- DevOps
+- Security
+- Privacy
 comments: true
+cover:
+  image: https://images.pexels.com/photos/5475786/pexels-photo-5475786.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 13:05:16.383000
+description: Elevate your network's privacy and security by combining Pi-hole for
+  ad and tracker blocking with DNSCrypt-proxy for encrypted, private DNS lookups.
+  A step-by-step guide for developers.
+tags:
+- Linux
+- CLI
+- Bash
+- DNS
+- Security
+- Privacy
+- Ad-blocking
+- Networking
+- DevOps
+- Raspberry Pi
+title: How to Use Pi-hole + DNSCrypt to Block Ads and Trackers at the Source
 ---
+
+![A tech-savvy individual using a laptop in a neon-lit room, symbolizing cybersecurity.](https://images.pexels.com/photos/5475786/pexels-photo-5475786.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A tech-savvy individual using a laptop in a neon-lit room, symbolizing cybersecurity.")
+
+## How to Use Pi-hole + DNSCrypt to Block Ads and Trackers at the Source
 
 Ad-blocking and privacy are hot topics, especially for developers who understand the underlying mechanics of tracking. While browser extensions offer some protection, they're limited to your browser and often miss trackers or ads embedded in other applications or devices. Enter Pi-hole: a network-wide ad blocker that acts as a DNS sinkhole. But what about the privacy of your DNS queries themselves? That's where DNSCrypt-proxy comes in, encrypting your DNS traffic to prevent eavesdropping and manipulation.
 

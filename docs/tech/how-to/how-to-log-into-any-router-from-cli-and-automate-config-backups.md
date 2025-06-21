@@ -1,11 +1,30 @@
 ---
-title: How to Log into Any Router from CLI and Automate Config Backups
-date: 2025-06-17T13:05:16.383Z
-description: A comprehensive guide for developers on accessing network routers via CLI (SSH, Telnet, Serial) and automating configuration backups using Bash, Python, and Git.
-tags: ["Linux", "CLI", "Bash", "Python", "Networking", "Automation", "SSH", "Router"]
-categories: ["Networking", "DevOps", "SysAdmin"]
+categories:
+- Networking
+- DevOps
+- SysAdmin
 comments: true
+cover:
+  image: https://images.pexels.com/photos/7709123/pexels-photo-7709123.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 13:05:16.383000
+description: A comprehensive guide for developers on accessing network routers via
+  CLI (SSH, Telnet, Serial) and automating configuration backups using Bash, Python,
+  and Git.
+tags:
+- Linux
+- CLI
+- Bash
+- Python
+- Networking
+- Automation
+- SSH
+- Router
+title: How to Log into Any Router from CLI and Automate Config Backups
 ---
+
+![Close-up view of hands typing on a laptop keyboard, illustrating the concept of remote work and technology.](https://images.pexels.com/photos/7709123/pexels-photo-7709123.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Close-up view of hands typing on a laptop keyboard, illustrating the concept of remote work and technology.")
+
+## How to Log into Any Router from CLI and Automate Config Backups
 
 As developers, we often interact with various systems through the command line. Networks are no exception. While most consumer-grade routers offer a shiny web UI, real power users – and especially those looking to automate – gravitate towards the Command Line Interface (CLI). This guide will walk you through accessing network routers from your Linux/macOS terminal and, critically, how to automate those critical configuration backups.
 

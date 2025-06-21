@@ -1,25 +1,34 @@
 ---
-title: Linux Networking Debug Toolbox ip, ss, netstat, and curl
-date: 2025-06-17T11:22:34.549Z
-description: "Navigate the complexities of Linux networking with this comprehensive guide to essential debugging tools: ip, ss, netstat, and curl. Master the command line to diagnose connectivity issues, inspect routing tables, monitor socket states, and test application-layer protocols."
-tags:
-  - Linux
-  - Networking
-  - Debugging
-  - Troubleshooting
-  - Command Line
-  - ip
-  - ss
-  - netstat
-  - curl
-  - System Administration
 categories:
-  - Linux
-  - Networking
-  - System Administration
-  - Development
+- Linux
+- Networking
+- System Administration
+- Development
 comments: true
+cover:
+  image: https://images.pexels.com/photos/11035538/pexels-photo-11035538.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 11:22:34.549000
+description: 'Navigate the complexities of Linux networking with this comprehensive
+  guide to essential debugging tools: ip, ss, netstat, and curl. Master the command
+  line to diagnose connectivity issues, inspect routing tables, monitor socket states,
+  and test application-layer protocols.'
+tags:
+- Linux
+- Networking
+- Debugging
+- Troubleshooting
+- Command Line
+- ip
+- ss
+- netstat
+- curl
+- System Administration
+title: Linux Networking Debug Toolbox ip, ss, netstat, and curl
 ---
+
+![A close-up of a person holding an NGINX sticker with a blurred background.](https://images.pexels.com/photos/11035538/pexels-photo-11035538.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A close-up of a person holding an NGINX sticker with a blurred background.")
+
+## Linux Networking Debug Toolbox ip, ss, netstat, and curl
 
 Navigating the intricate world of Linux networking can feel like plumbing a multi-layered system with invisible pipes. When something goes wrong – be it an unreachable service, sluggish connectivity, or a misconfigured firewall – the ability to quickly diagnose the issue is paramount. Fortunately, Linux provides a robust set of command-line tools that offer deep insights into every aspect of the network stack.
 

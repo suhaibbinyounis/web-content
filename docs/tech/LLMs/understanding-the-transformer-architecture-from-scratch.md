@@ -1,21 +1,30 @@
 ---
-title: Understanding the Transformer Architecture from Scratch
-date: 2025-06-17T08:29:22.705Z
-description: Dive deep into the groundbreaking Transformer architecture, the backbone of modern AI models like ChatGPT and Bard. This post breaks down its core components, from self-attention and positional encoding to multi-head mechanisms, offering a comprehensive, ground-up understanding.
-tags:
-    - AI
-    - LLM
-    - Transformer
-    - DeepLearning
-    - NLP
-    - NeuralNetworks
-    - MachineLearning
 categories:
-    - AI
-    - MachineLearning
-    - ComputerScience
+- AI
+- MachineLearning
+- ComputerScience
 comments: true
+cover:
+  image: https://images.pexels.com/photos/17483910/pexels-photo-17483910.png?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 08:29:22.705000
+description: Dive deep into the groundbreaking Transformer architecture, the backbone
+  of modern AI models like ChatGPT and Bard. This post breaks down its core components,
+  from self-attention and positional encoding to multi-head mechanisms, offering a
+  comprehensive, ground-up understanding.
+tags:
+- AI
+- LLM
+- Transformer
+- DeepLearning
+- NLP
+- NeuralNetworks
+- MachineLearning
+title: Understanding the Transformer Architecture from Scratch
 ---
+
+![Colorful abstract pattern resembling digital waves with intricate texture in blue and purple hues.](https://images.pexels.com/photos/17483910/pexels-photo-17483910.png?auto=compress&cs=tinysrgb&h=650&w=940 "Colorful abstract pattern resembling digital waves with intricate texture in blue and purple hues.")
+
+## Understanding the Transformer Architecture from Scratch
 
 The world of Artificial Intelligence has been revolutionized by a single architectural innovation: the Transformer. If you've interacted with large language models (LLMs) like ChatGPT, Bard, or even used advanced translation services, you've witnessed the power of the Transformer in action. Before its advent, recurrent neural networks (RNNs) and their variants like LSTMs and GRUs were the state-of-the-art for sequence processing. While effective, they struggled with parallelization and capturing very long-range dependencies efficiently.
 
@@ -152,7 +161,6 @@ This mechanism allows every position in the decoder's output sequence to attend 
 
 Again, this is followed by an "Add & Norm" step.
 
-#### 4. Feed-Forward Network (FFN)
 
 Just like in the encoder, the output of the encoder-decoder attention (after Add & Norm) is passed through a position-wise Feed-Forward Network. This allows the decoder to process and transform the combined information from both the input and the previously generated target sequence.
 

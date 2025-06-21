@@ -1,11 +1,36 @@
 ---
-title: How to Build a Self-Hosted Pastebin with AI-Powered Search
-date: 2025-06-17T13:05:16.383Z
-description: Learn to build your own private pastebin from scratch using Flask and SQLite, enhanced with AI-powered semantic search for intelligent retrieval of code snippets and text.
-tags: [self-hosting, pastebin, AI, search, semantic-search, Linux, Docker, Python, Flask, SQLite, embeddings, transformers, DevOps]
-categories: [Web Development, AI/ML, Self-Hosting, DevOps]
+categories:
+- Web Development
+- AI/ML
+- Self-Hosting
+- DevOps
 comments: true
+cover:
+  image: https://images.pexels.com/photos/18069157/pexels-photo-18069157.png?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 13:05:16.383000
+description: Learn to build your own private pastebin from scratch using Flask and
+  SQLite, enhanced with AI-powered semantic search for intelligent retrieval of code
+  snippets and text.
+tags:
+- self-hosting
+- pastebin
+- AI
+- search
+- semantic-search
+- Linux
+- Docker
+- Python
+- Flask
+- SQLite
+- embeddings
+- transformers
+- DevOps
+title: How to Build a Self-Hosted Pastebin with AI-Powered Search
 ---
+
+![Geometric abstract representation of AI technology with digital elements.](https://images.pexels.com/photos/18069157/pexels-photo-18069157.png?auto=compress&cs=tinysrgb&h=650&w=940 "Geometric abstract representation of AI technology with digital elements.")
+
+## How to Build a Self-Hosted Pastebin with AI-Powered Search
 
 Building your own tools gives you unparalleled control, privacy, and the freedom to customize. While public pastebins are convenient, they often come with limitations on privacy, data retention, and features. Imagine a pastebin where you don't just search by keywords, but by the *meaning* of the content – that's where AI-powered search comes in.
 

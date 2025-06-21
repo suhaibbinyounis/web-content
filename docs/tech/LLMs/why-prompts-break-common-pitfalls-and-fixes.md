@@ -1,23 +1,31 @@
 ---
-title: Why Prompts Break - Common Pitfalls and Fixes
-date: 2025-06-17T08:28:28.885Z
-description: Delve into the common reasons why your AI prompts might not be performing as expected and discover actionable strategies to fix them, from specificity to context management.
-tags:
-    - AI
-    - LLM
-    - Prompt Engineering
-    - Gemini
-    - GPT
-    - AI Safety
-    - Troubleshooting
-    - Generative AI
-    - Tech Blogging
 categories:
-    - AI
-    - Productivity
-    - Prompt Engineering
+- AI
+- Productivity
+- Prompt Engineering
 comments: true
+cover:
+  image: https://images.pexels.com/photos/1921326/pexels-photo-1921326.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 08:28:28.885000
+description: Delve into the common reasons why your AI prompts might not be performing
+  as expected and discover actionable strategies to fix them, from specificity to
+  context management.
+tags:
+- AI
+- LLM
+- Prompt Engineering
+- Gemini
+- GPT
+- AI Safety
+- Troubleshooting
+- Generative AI
+- Tech Blogging
+title: Why Prompts Break - Common Pitfalls and Fixes
 ---
+
+![Vibrant close-up of multicolor programming code lines displayed on a screen.](https://images.pexels.com/photos/1921326/pexels-photo-1921326.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Vibrant close-up of multicolor programming code lines displayed on a screen.")
+
+## Why Prompts Break - Common Pitfalls and Fixes
 
 The promise of large language models (LLMs) is transformative: instant content generation, complex problem-solving, and personalized interactions at scale. Yet, for anyone who's spent more than an hour interacting with these powerful tools, the reality often includes moments of frustration. Your perfectly crafted prompt suddenly yields gibberish, an unhelpful refusal, or a wildly inaccurate hallucination. This isn't just bad luck; it's often a symptom of predictable prompt-breaking pitfalls.
 

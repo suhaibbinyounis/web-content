@@ -1,11 +1,31 @@
 ---
-title: How I Built My Note Platform Using Markdown + Firebase
-date: 2025-06-17T09:02:34.262Z
-description: Tired of bloated note-taking apps, I built my own lightweight, real-time note platform using Markdown for content and Firebase for a robust, scalable backend. This post details the architecture, implementation, and lessons learned.
-tags: [Markdown, Firebase, Web Development, Productivity, Notes, JavaScript, Vue.js, Firestore, Authentication]
-categories: [Development, Tutorials, Productivity Tools]
+categories:
+- Development
+- Tutorials
+- Productivity Tools
 comments: true
+cover:
+  image: https://images.pexels.com/photos/8284731/pexels-photo-8284731.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 09:02:34.262000
+description: Tired of bloated note-taking apps, I built my own lightweight, real-time
+  note platform using Markdown for content and Firebase for a robust, scalable backend.
+  This post details the architecture, implementation, and lessons learned.
+tags:
+- Markdown
+- Firebase
+- Web Development
+- Productivity
+- Notes
+- JavaScript
+- Vue.js
+- Firestore
+- Authentication
+title: How I Built My Note Platform Using Markdown + Firebase
 ---
+
+![Person using a laptop with an online communication platform, showcasing modern work tech.](https://images.pexels.com/photos/8284731/pexels-photo-8284731.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Person using a laptop with an online communication platform, showcasing modern work tech.")
+
+## How I Built My Note Platform Using Markdown + Firebase
 
 ## The Genesis of My Custom Note Platform
 

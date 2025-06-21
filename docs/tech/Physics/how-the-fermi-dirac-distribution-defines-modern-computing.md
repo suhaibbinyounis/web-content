@@ -4,6 +4,8 @@ categories:
 - Systems Engineering
 - Fundamental Concepts
 comments: true
+cover:
+  image: https://images.pexels.com/photos/25626435/pexels-photo-25626435.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Dive deep into how the fundamental quantum mechanics of the Fermi-Dirac
   distribution underpins the entire semiconductor industry, enabling transistors,
@@ -24,7 +26,10 @@ tags:
 title: How the Fermi-Dirac Distribution Defines Modern Computing
 ---
 
+![Illustration depicting classical binary bit and quantum qubit states in superposition and binary.](https://images.pexels.com/photos/25626435/pexels-photo-25626435.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Illustration depicting classical binary bit and quantum qubit states in superposition and binary.")
+
 ## How the Fermi-Dirac Distribution Defines Modern Computing
+
 
 As developers, we often interact with computing at a high level – writing code, deploying services, configuring systems. But beneath the layers of abstraction lies a universe governed by quantum mechanics, where the behavior of subatomic particles dictates whether our `if` statements execute, our data persists, or our CPUs hum along.
 

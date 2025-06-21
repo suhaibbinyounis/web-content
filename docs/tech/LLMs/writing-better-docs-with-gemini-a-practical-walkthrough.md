@@ -1,21 +1,30 @@
 ---
-title: "Writing Better Docs with Gemini: A Practical Walkthrough"
-date: 2025-06-17T08:28:15.905Z
-description: Discover how Google's Gemini AI can revolutionize your technical documentation process, from brainstorming and drafting to refining and localizing content. This practical guide covers key use cases, prompting strategies, and crucial considerations for leveraging LLMs effectively.
-tags:
-  - AI
-  - LLM
-  - Gemini
-  - Documentation
-  - Tech Writing
-  - Productivity
-  - Prompt Engineering
 categories:
-  - AI
-  - Productivity
-  - Tech Writing
+- AI
+- Productivity
+- Tech Writing
 comments: true
+cover:
+  image: https://images.pexels.com/photos/6278764/pexels-photo-6278764.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 08:28:15.905000
+description: Discover how Google's Gemini AI can revolutionize your technical documentation
+  process, from brainstorming and drafting to refining and localizing content. This
+  practical guide covers key use cases, prompting strategies, and crucial considerations
+  for leveraging LLMs effectively.
+tags:
+- AI
+- LLM
+- Gemini
+- Documentation
+- Tech Writing
+- Productivity
+- Prompt Engineering
+title: 'Writing Better Docs with Gemini: A Practical Walkthrough'
 ---
+
+![Hand holding a smartphone with a blank screen beside a notebook and laptop.](https://images.pexels.com/photos/6278764/pexels-photo-6278764.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Hand holding a smartphone with a blank screen beside a notebook and laptop.")
+
+## Writing Better Docs with Gemini: A Practical Walkthrough
 
 Creating clear, comprehensive, and up-to-date documentation is a cornerstone of successful products and projects. Good docs accelerate user onboarding, reduce support overhead, foster community, and ensure the long-term maintainability of any system. Yet, the process of writing and maintaining high-quality documentation is often time-consuming, resource-intensive, and can fall behind rapidly evolving software.
 

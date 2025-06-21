@@ -1,11 +1,36 @@
 ---
-title: Building a Real-Time Chat App Why Queues and Buffers Matter
-date: 2025-06-17T10:04:28.467Z
-description: Delve into the often-overlooked but critical role of queues and buffers in crafting robust, scalable, and resilient real-time chat applications. Learn how these fundamental data structures and architectural patterns prevent data loss, manage spikes, and ensure a smooth user experience.
-tags: [real-time, chat app, queues, buffers, system design, message brokers, Kafka, RabbitMQ, Redis, WebSockets, scalability, distributed systems]
-categories: [Software Development, System Design, Messaging, Architecture]
+categories:
+- Software Development
+- System Design
+- Messaging
+- Architecture
 comments: true
+cover:
+  image: https://images.pexels.com/photos/8284731/pexels-photo-8284731.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 10:04:28.467000
+description: Delve into the often-overlooked but critical role of queues and buffers
+  in crafting robust, scalable, and resilient real-time chat applications. Learn how
+  these fundamental data structures and architectural patterns prevent data loss,
+  manage spikes, and ensure a smooth user experience.
+tags:
+- real-time
+- chat app
+- queues
+- buffers
+- system design
+- message brokers
+- Kafka
+- RabbitMQ
+- Redis
+- WebSockets
+- scalability
+- distributed systems
+title: Building a Real-Time Chat App Why Queues and Buffers Matter
 ---
+
+![Person using a laptop with an online communication platform, showcasing modern work tech.](https://images.pexels.com/photos/8284731/pexels-photo-8284731.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Person using a laptop with an online communication platform, showcasing modern work tech.")
+
+## Building a Real-Time Chat App Why Queues and Buffers Matter
 
 Building a real-time chat application seems deceptively simple on the surface. We envision users sending messages, and others receiving them instantly. But beneath that seamless user experience lies a complex choreography of data transfer, persistence, and fault tolerance. When you move beyond a handful of users to thousands or millions, the seemingly trivial act of sending a message becomes a significant engineering challenge.
 

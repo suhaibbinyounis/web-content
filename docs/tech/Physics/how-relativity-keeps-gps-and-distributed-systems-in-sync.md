@@ -4,6 +4,8 @@ categories:
 - Networking
 - Cloud Computing
 comments: true
+cover:
+  image: https://images.pexels.com/photos/8104848/pexels-photo-8104848.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Dive into the surprising ways Einstein's relativity impacts your daily
   GPS navigation and the underlying challenges of time synchronization in distributed
@@ -20,6 +22,10 @@ tags:
 - Engineering
 title: How Relativity Keeps GPS and Distributed Systems in Sync (Or Tries To)
 ---
+
+![Hands of a young couple planning a road trip using a large map outdoors.](https://images.pexels.com/photos/8104848/pexels-photo-8104848.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Hands of a young couple planning a road trip using a large map outdoors.")
+
+## How Relativity Keeps GPS and Distributed Systems in Sync (Or Tries To)
 
 As developers, we often operate in a world of abstractions. We trust that `time.time()` gives us the "current" time, that packets arrive in order, and that our database writes are consistent. But what if I told you that the very fabric of spacetime, as described by Einstein, directly impacts these assumptions, particularly for something as mundane as GPS, and indirectly for the distributed systems we build every day?
 

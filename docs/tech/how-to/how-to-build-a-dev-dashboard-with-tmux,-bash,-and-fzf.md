@@ -1,11 +1,31 @@
 ---
-title: How to Build a Dev Dashboard with Tmux, Bash, and fzf
-date: 2025-06-17T13:05:16.383Z
-description: "Learn how to craft a powerful, personalized developer dashboard directly in your terminal using Tmux for window management, Bash for scripting logic, and fzf for interactive navigation and quick actions. This guide provides practical examples for a highly efficient CLI workflow."
-tags: [Linux, CLI, Bash, Tmux, fzf, DevOps, Productivity, Automation]
-categories: [Productivity, DevOps, Linux]
+categories:
+- Productivity
+- DevOps
+- Linux
 comments: true
+cover:
+  image: https://images.pexels.com/photos/2102416/pexels-photo-2102416.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 13:05:16.383000
+description: Learn how to craft a powerful, personalized developer dashboard directly
+  in your terminal using Tmux for window management, Bash for scripting logic, and
+  fzf for interactive navigation and quick actions. This guide provides practical
+  examples for a highly efficient CLI workflow.
+tags:
+- Linux
+- CLI
+- Bash
+- Tmux
+- fzf
+- DevOps
+- Productivity
+- Automation
+title: How to Build a Dev Dashboard with Tmux, Bash, and fzf
 ---
+
+![A web developer working on code in a modern office setting with multiple devices.](https://images.pexels.com/photos/2102416/pexels-photo-2102416.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A web developer working on code in a modern office setting with multiple devices.")
+
+## How to Build a Dev Dashboard with Tmux, Bash, and fzf
 
 Every developer craves efficiency. We spend hours in the terminal, switching contexts, checking statuses, and digging for information. What if you could condense all that into a single, highly customizable, interactive view? That's the promise of a developer dashboard, and in this post, we're going to build one using three incredibly powerful, ubiquitous, and often underestimated tools: **Tmux**, **Bash**, and **fzf**.
 

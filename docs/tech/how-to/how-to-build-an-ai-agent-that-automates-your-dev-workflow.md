@@ -1,11 +1,30 @@
 ---
-title: How to Build an AI Agent That Automates Your Dev Workflow
-date: 2025-06-17T13:05:16.383Z
-description: Learn to build a pragmatic AI agent using Python and common tools to automate repetitive or complex development tasks, from code generation to refactoring and bug fixing.
-tags: [AI, Agents, LLM, Automation, Python, Development, Workflow, CLI]
-categories: [Artificial Intelligence, DevOps, Software Engineering]
+categories:
+- Artificial Intelligence
+- DevOps
+- Software Engineering
 comments: true
+cover:
+  image: https://images.pexels.com/photos/19356873/pexels-photo-19356873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 13:05:16.383000
+description: Learn to build a pragmatic AI agent using Python and common tools to
+  automate repetitive or complex development tasks, from code generation to refactoring
+  and bug fixing.
+tags:
+- AI
+- Agents
+- LLM
+- Automation
+- Python
+- Development
+- Workflow
+- CLI
+title: How to Build an AI Agent That Automates Your Dev Workflow
 ---
+
+![A close-up view of a person holding an Nvidia chip with a gray background.](https://images.pexels.com/photos/19356873/pexels-photo-19356873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A close-up view of a person holding an Nvidia chip with a gray background.")
+
+## How to Build an AI Agent That Automates Your Dev Workflow
 
 As developers, we're constantly striving for efficiency. We automate builds, tests, deployments – but what about the smaller, more repetitive tasks that still eat into our day? The boilerplate code, the quick refactors, the error analysis, the endless searching through documentation?
 

@@ -1,23 +1,31 @@
 ---
-title: The Algorithm Behind Your Uber Fare Estimate (Hint Its Dijkstra)
-date: 2025-06-17T10:04:28.467Z
-description: Ever wondered how Uber magically knows what your trip will cost before you even hail a ride? Dive deep into the sophisticated algorithms, with Dijkstra's at its core, that power one of the most impactful features of modern ride-sharing.
-tags:
-  - Algorithms
-  - Dijkstra
-  - Pathfinding
-  - Uber
-  - RideSharing
-  - ComputerScience
-  - DataScience
-  - Mapping
-  - SoftwareEngineering
 categories:
-  - Computer Science
-  - Software Engineering
-  - Data Science
+- Computer Science
+- Software Engineering
+- Data Science
 comments: true
+cover:
+  image: https://images.pexels.com/photos/17485657/pexels-photo-17485657.png?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 10:04:28.467000
+description: Ever wondered how Uber magically knows what your trip will cost before
+  you even hail a ride? Dive deep into the sophisticated algorithms, with Dijkstra's
+  at its core, that power one of the most impactful features of modern ride-sharing.
+tags:
+- Algorithms
+- Dijkstra
+- Pathfinding
+- Uber
+- RideSharing
+- ComputerScience
+- DataScience
+- Mapping
+- SoftwareEngineering
+title: The Algorithm Behind Your Uber Fare Estimate (Hint Its Dijkstra)
 ---
+
+![3D render abstract digital visualization depicting neural networks and AI technology.](https://images.pexels.com/photos/17485657/pexels-photo-17485657.png?auto=compress&cs=tinysrgb&h=650&w=940 "3D render abstract digital visualization depicting neural networks and AI technology.")
+
+## The Algorithm Behind Your Uber Fare Estimate (Hint Its Dijkstra)
 
 The hum of innovation often goes unnoticed in the everyday conveniences we enjoy. Tapping a few buttons on your smartphone and getting an instant, remarkably accurate estimate for your upcoming Uber trip is one such marvel. It feels like magic, but behind the scenes lies a fascinating blend of advanced computer science, real-time data, and sophisticated algorithms.
 

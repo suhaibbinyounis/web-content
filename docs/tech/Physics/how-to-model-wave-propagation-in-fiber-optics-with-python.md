@@ -4,6 +4,8 @@ categories:
 - Physics
 - Simulation
 comments: true
+cover:
+  image: https://images.pexels.com/photos/30547577/pexels-photo-30547577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Learn to simulate light propagation in optical fibers using the Split-Step
   Fourier Method (SSFM) and Python. Understand dispersion, nonlinearity, and attenuation
@@ -19,6 +21,10 @@ tags:
 - Numerical Methods
 title: How to Model Wave Propagation in Fiber Optics with Python
 ---
+
+![Dynamic abstract depiction of digital circuits with vivid lights and glowing lines.](https://images.pexels.com/photos/30547577/pexels-photo-30547577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Dynamic abstract depiction of digital circuits with vivid lights and glowing lines.")
+
+## How to Model Wave Propagation in Fiber Optics with Python
 
 Fiber optic communication underpins our global digital infrastructure. From high-speed internet to data centers, light pulses traveling through hair-thin glass strands are the backbone. But these pulses aren't static; they evolve, broaden, and interact with the fiber itself. Understanding and predicting this evolution is crucial for designing robust high-speed optical systems.
 

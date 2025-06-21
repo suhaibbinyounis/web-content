@@ -1,11 +1,34 @@
 ---
-title: How the Linux Kernel Handles Your Code
-date: 2025-06-17T09:02:34.262Z
-description: "Dive deep into the fascinating journey of your code, from source file to executing process, guided by the Linux kernel. This post unravels the intricate mechanisms of process management, memory handling, CPU scheduling, and system calls that bring your applications to life."
-tags: [Linux, Kernel, Operating Systems, Programming, System Calls, Processes, Memory Management, CPU Scheduling, ELF, Virtual Memory, Security]
-categories: [Operating Systems, Software Engineering, Linux Internals]
+categories:
+- Operating Systems
+- Software Engineering
+- Linux Internals
 comments: true
+cover:
+  image: https://images.pexels.com/photos/785418/pexels-photo-785418.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 09:02:34.262000
+description: Dive deep into the fascinating journey of your code, from source file
+  to executing process, guided by the Linux kernel. This post unravels the intricate
+  mechanisms of process management, memory handling, CPU scheduling, and system calls
+  that bring your applications to life.
+tags:
+- Linux
+- Kernel
+- Operating Systems
+- Programming
+- System Calls
+- Processes
+- Memory Management
+- CPU Scheduling
+- ELF
+- Virtual Memory
+- Security
+title: How the Linux Kernel Handles Your Code
 ---
+
+![Close-up of various microprocessor chips on a blue hexagonal patterned surface, highlighting electronic technology.](https://images.pexels.com/photos/785418/pexels-photo-785418.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Close-up of various microprocessor chips on a blue hexagonal patterned surface, highlighting electronic technology.")
+
+## How the Linux Kernel Handles Your Code
 
 Every line of code you write, whether it's a simple "Hello, World!" in C, a Python script, or a complex Java application, ultimately relies on the underlying operating system to bring it to life. On Linux, this responsibility falls squarely on the shoulders of the Linux kernel. It's the central nervous system, managing all hardware resources and facilitating interactions between your programs and the machine.
 

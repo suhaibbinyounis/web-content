@@ -3,6 +3,8 @@ categories:
 - Networking
 - Fundamentals
 comments: true
+cover:
+  image: https://images.pexels.com/photos/30547577/pexels-photo-30547577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Dive deep into the physical layer of the internet. Uncover how abstract
   bits transform into tangible electromagnetic fields, traversing copper wires, fiber
@@ -22,6 +24,10 @@ tags:
 - Electromagnetism
 title: How Electromagnetic Fields Move Bits Across the Internet
 ---
+
+![Dynamic abstract depiction of digital circuits with vivid lights and glowing lines.](https://images.pexels.com/photos/30547577/pexels-photo-30547577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Dynamic abstract depiction of digital circuits with vivid lights and glowing lines.")
+
+## How Electromagnetic Fields Move Bits Across the Internet
 
 As developers, we often operate in a beautiful world of abstraction. We `git push`, `kubectl apply`, `scp` files, and `curl` APIs, rarely pausing to consider the mind-boggling physical ballet happening beneath the hood. We deal with IP addresses, ports, protocols, and packets – but how do those packets, those abstract collections of 0s and 1s, actually *move* from one machine to another?
 
@@ -102,7 +108,6 @@ This output tells us the actual speed (`Speed: 1000Mb/s`) and duplex (`Duplex: F
 
 For longer distances and higher speeds, fiber optic cables are the medium of choice. While still using electromagnetic waves, the mechanism is different.
 
-### How it Works
 
 1.  **Light Pulses**: Instead of electrical voltage, bits are encoded as pulses of light. A pulse of light represents a `1`, and the absence of a pulse (or a dimmer pulse) represents a `0`.
 2.  **Lasers/LEDs**: At the transmitting end, a laser or LED generates these light pulses.
@@ -142,7 +147,6 @@ Each hop (`2`, `3`, `4`, etc.) represents a router. The low latency across poten
 
 When you connect to Wi-Fi or use your mobile data, your bits are literally flying through the air as radio waves – another form of electromagnetic radiation.
 
-### How it Works
 
 1.  **Radio Waves**: Bits are modulated onto a carrier radio wave. This involves changing its amplitude, frequency, or phase.
     *   **Amplitude Modulation (AM)**: The amplitude of the carrier wave is varied to represent bits. (Simple, but susceptible to noise).

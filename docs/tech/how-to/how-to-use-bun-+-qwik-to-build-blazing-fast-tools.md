@@ -1,11 +1,33 @@
 ---
-title: How to Use Bun + Qwik to Build Blazing-Fast Tools
-date: 2025-06-17T13:05:16.383Z
-description: Dive into building high-performance web applications and command-line tools using the Bun runtime and the Qwik framework, emphasizing speed, developer experience, and minimal overhead.
-tags: [Bun, Qwik, JavaScript, TypeScript, Web Development, Performance, CLI, Runtime, Framework]
-categories: [Frontend, Backend, Performance, Web Development, Tooling]
+categories:
+- Frontend
+- Backend
+- Performance
+- Web Development
+- Tooling
 comments: true
+cover:
+  image: https://images.pexels.com/photos/32609637/pexels-photo-32609637.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 13:05:16.383000
+description: Dive into building high-performance web applications and command-line
+  tools using the Bun runtime and the Qwik framework, emphasizing speed, developer
+  experience, and minimal overhead.
+tags:
+- Bun
+- Qwik
+- JavaScript
+- TypeScript
+- Web Development
+- Performance
+- CLI
+- Runtime
+- Framework
+title: How to Use Bun + Qwik to Build Blazing-Fast Tools
 ---
+
+![White sports car parked in an urban parking lot on a cloudy day.](https://images.pexels.com/photos/32609637/pexels-photo-32609637.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "White sports car parked in an urban parking lot on a cloudy day.")
+
+## How to Use Bun + Qwik to Build Blazing-Fast Tools
 
 # How to Use Bun + Qwik to Build Blazing-Fast Tools
 

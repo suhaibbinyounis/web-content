@@ -1,25 +1,33 @@
 ---
-title: "Red Teaming AI: A Guide for Beginners"
-date: 2025-06-17T08:30:39.375Z
-description: A comprehensive guide for beginners to understand and apply AI red teaming techniques, focusing on identifying vulnerabilities in Large Language Models and other AI systems for enhanced safety and robustness.
-tags:
-    - AI
-    - LLM
-    - Gemini
-    - ChatGPT
-    - Claude
-    - Safety
-    - Security
-    - Ethics
-    - Prompt Engineering
-    - Adversarial AI
 categories:
-    - AI
-    - Security
-    - Prompt Engineering
-    - Machine Learning
+- AI
+- Security
+- Prompt Engineering
+- Machine Learning
 comments: true
+cover:
+  image: https://images.pexels.com/photos/9786320/pexels-photo-9786320.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 08:30:39.375000
+description: A comprehensive guide for beginners to understand and apply AI red teaming
+  techniques, focusing on identifying vulnerabilities in Large Language Models and
+  other AI systems for enhanced safety and robustness.
+tags:
+- AI
+- LLM
+- Gemini
+- ChatGPT
+- Claude
+- Safety
+- Security
+- Ethics
+- Prompt Engineering
+- Adversarial AI
+title: 'Red Teaming AI: A Guide for Beginners'
 ---
+
+![A family stands in digital blue light, symbolizing online privacy and security.](https://images.pexels.com/photos/9786320/pexels-photo-9786320.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A family stands in digital blue light, symbolizing online privacy and security.")
+
+## Red Teaming AI: A Guide for Beginners
 
 ## The Untamed Frontier: Why We Need AI Red Teaming
 

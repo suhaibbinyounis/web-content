@@ -4,6 +4,8 @@ categories:
 - Internet Architecture
 - DevOps
 comments: true
+cover:
+  image: https://images.pexels.com/photos/17483910/pexels-photo-17483910.png?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: A deep dive into BGP routing delays, framed by an unconventional but
   surprisingly apt metaphor - the fabric of spacetime. Understand why the internet
@@ -18,6 +20,10 @@ tags:
 - Performance
 title: How the Fabric of Spacetime Explains BGP Routing Delays
 ---
+
+![Colorful abstract pattern resembling digital waves with intricate texture in blue and purple hues.](https://images.pexels.com/photos/17483910/pexels-photo-17483910.png?auto=compress&cs=tinysrgb&h=650&w=940 "Colorful abstract pattern resembling digital waves with intricate texture in blue and purple hues.")
+
+## How the Fabric of Spacetime Explains BGP Routing Delays
 
 You might be thinking, "What on earth does 'spacetime fabric' have to do with BGP routing?" Bear with me. While the internet isn't literally bending light or experiencing gravitational time dilation, the metaphor of a flexible, interconnected "fabric" with inherent physical limitations provides an incredibly intuitive way to understand why BGP routing updates aren't instantaneous.
 

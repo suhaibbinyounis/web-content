@@ -1,11 +1,39 @@
 ---
-title: Logging into Your Router from CLI A Practical Guide
-date: 2025-06-17T11:22:34.549Z
-description: "A comprehensive guide to accessing your router's command-line interface (CLI) using SSH, Telnet, or serial console for advanced configuration, troubleshooting, and automation. Unlock the full power of your network device."
-tags: [router, CLI, network, SSH, Telnet, serial, networking, administration, guide, Linux, Windows, macOS, advanced, troubleshooting, security]
-categories: [Networking, System Administration, Guides, Tech, Security]
+categories:
+- Networking
+- System Administration
+- Guides
+- Tech
+- Security
 comments: true
+cover:
+  image: https://images.pexels.com/photos/19226354/pexels-photo-19226354.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 11:22:34.549000
+description: A comprehensive guide to accessing your router's command-line interface
+  (CLI) using SSH, Telnet, or serial console for advanced configuration, troubleshooting,
+  and automation. Unlock the full power of your network device.
+tags:
+- router
+- CLI
+- network
+- SSH
+- Telnet
+- serial
+- networking
+- administration
+- guide
+- Linux
+- Windows
+- macOS
+- advanced
+- troubleshooting
+- security
+title: Logging into Your Router from CLI A Practical Guide
 ---
+
+![A technician inserts a circuit board into a server rack, illustrating technology and connectivity.](https://images.pexels.com/photos/19226354/pexels-photo-19226354.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A technician inserts a circuit board into a server rack, illustrating technology and connectivity.")
+
+## Logging into Your Router from CLI A Practical Guide
 
 ## The Power Beyond the GUI: Why CLI Router Access Matters
 

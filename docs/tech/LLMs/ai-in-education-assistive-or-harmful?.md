@@ -1,25 +1,33 @@
 ---
-title: "AI in Education: Assistive or Harmful?"
-date: 2025-06-17T08:35:34.030Z
-description: Exploring the dual nature of Artificial Intelligence in educational settings, examining its potential to revolutionize learning and its inherent risks, from personalized instruction to academic integrity challenges.
-tags:
-    - AI
-    - Education
-    - EdTech
-    - LLM
-    - Learning
-    - Technology
-    - Pedagogy
-    - Ethics
-    - Future of Education
 categories:
-    - AI
-    - Technology
-    - Education
-    - Pedagogy
-    - Societal Impact
+- AI
+- Technology
+- Education
+- Pedagogy
+- Societal Impact
 comments: true
+cover:
+  image: https://images.pexels.com/photos/30869149/pexels-photo-30869149.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 08:35:34.030000
+description: Exploring the dual nature of Artificial Intelligence in educational settings,
+  examining its potential to revolutionize learning and its inherent risks, from personalized
+  instruction to academic integrity challenges.
+tags:
+- AI
+- Education
+- EdTech
+- LLM
+- Learning
+- Technology
+- Pedagogy
+- Ethics
+- Future of Education
+title: 'AI in Education: Assistive or Harmful?'
 ---
+
+![Wooden Scrabble tiles spelling 'AI' and 'NEWS' for a tech concept image.](https://images.pexels.com/photos/30869149/pexels-photo-30869149.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Wooden Scrabble tiles spelling 'AI' and 'NEWS' for a tech concept image.")
+
+## AI in Education: Assistive or Harmful?
 
 The hum of artificial intelligence has grown from a distant whisper to a resonant chord throughout our society, and perhaps nowhere is its impact more intensely debated than in the hallowed halls of education. As Large Language Models (LLMs) like Google's Gemini, OpenAI's ChatGPT, and others become increasingly sophisticated and accessible, educators, policymakers, students, and parents are grappling with a profound question: Is AI in education primarily an assistive tool, a powerful ally in the pursuit of knowledge, or does it harbor inherent risks that could ultimately prove harmful to the very essence of learning?
 

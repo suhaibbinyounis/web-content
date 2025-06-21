@@ -1,27 +1,35 @@
 ---
-title: Building a Context-Aware Gemini Assistant
-date: 2025-06-17T08:34:53.293Z
-description: Dive deep into creating a personalized, context-aware AI assistant using Google's Gemini models, vector databases, and advanced retrieval techniques like RAG for truly intelligent interactions.
-tags:
-    - AI
-    - LLM
-    - Gemini
-    - GoogleAI
-    - RAG
-    - VectorDatabases
-    - LangChain
-    - LlamaIndex
-    - PromptEngineering
-    - PersonalAssistant
-    - ContextAwareAI
-    - MachineLearning
 categories:
-    - AI
-    - Productivity
-    - Prompt Engineering
-    - Development
+- AI
+- Productivity
+- Prompt Engineering
+- Development
 comments: true
+cover:
+  image: https://images.pexels.com/photos/5614124/pexels-photo-5614124.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 08:34:53.293000
+description: Dive deep into creating a personalized, context-aware AI assistant using
+  Google's Gemini models, vector databases, and advanced retrieval techniques like
+  RAG for truly intelligent interactions.
+tags:
+- AI
+- LLM
+- Gemini
+- GoogleAI
+- RAG
+- VectorDatabases
+- LangChain
+- LlamaIndex
+- PromptEngineering
+- PersonalAssistant
+- ContextAwareAI
+- MachineLearning
+title: Building a Context-Aware Gemini Assistant
 ---
+
+![A person with a prosthetic hand using a laptop, showcasing technology and inclusivity.](https://images.pexels.com/photos/5614124/pexels-photo-5614124.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A person with a prosthetic hand using a laptop, showcasing technology and inclusivity.")
+
+## Building a Context-Aware Gemini Assistant
 
 The dream of a truly intelligent personal assistant has always been tantalizingly close, yet often out of reach. While Large Language Models (LLMs) like Google's Gemini have revolutionized our interaction with AI, their default stateless nature often leaves a critical gap: the lack of *personal context*. Imagine an assistant that not only understands your questions but also remembers your past conversations, knows about your personal documents, your preferences, and even real-time external information relevant to your life.
 

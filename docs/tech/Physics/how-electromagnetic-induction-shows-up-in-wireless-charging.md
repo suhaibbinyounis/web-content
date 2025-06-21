@@ -4,6 +4,8 @@ categories:
 - Theory
 - Concepts
 comments: true
+cover:
+  image: https://images.pexels.com/photos/256102/pexels-photo-256102.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Dive into the fundamental physics of electromagnetic induction and uncover
   how this principle powers modern wireless charging solutions like Qi. Learn the
@@ -19,6 +21,10 @@ tags:
 - Qi
 title: How Electromagnetic Induction Shows Up in Wireless Charging
 ---
+
+![A large radio telescope set against a backdrop of trees and clouds, capturing celestial signals.](https://images.pexels.com/photos/256102/pexels-photo-256102.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A large radio telescope set against a backdrop of trees and clouds, capturing celestial signals.")
+
+## How Electromagnetic Induction Shows Up in Wireless Charging
 
 Wireless charging isn't magic, it's just physics, specifically the elegant dance of **electromagnetic induction**. As developers, understanding the underlying principles can unlock deeper insights into system design, efficiency, and debugging. This post will demystystify how a fundamental concept from the 19th century powers your 21st-century devices.
 

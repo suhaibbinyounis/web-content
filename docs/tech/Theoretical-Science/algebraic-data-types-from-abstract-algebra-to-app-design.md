@@ -1,11 +1,35 @@
 ---
-title: Algebraic Data Types From Abstract Algebra to App Design
-date: 2025-06-17T09:26:07.585Z
-description: Dive deep into Algebraic Data Types (ADTs), exploring their surprising roots in abstract algebra and their transformative power in modern software architecture, from robust error handling to elegant state management.
-tags: ["Programming", "Functional Programming", "Type Systems", "Data Structures", "Software Design", "Algebraic Data Types", "Abstract Algebra", "Haskell", "Rust", "Swift", "Kotlin", "TypeScript", "C#"]
-categories: ["Programming", "Software Architecture", "Type Theory"]
+categories:
+- Programming
+- Software Architecture
+- Type Theory
 comments: true
+cover:
+  image: https://images.pexels.com/photos/25626431/pexels-photo-25626431.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 09:26:07.585000
+description: Dive deep into Algebraic Data Types (ADTs), exploring their surprising
+  roots in abstract algebra and their transformative power in modern software architecture,
+  from robust error handling to elegant state management.
+tags:
+- Programming
+- Functional Programming
+- Type Systems
+- Data Structures
+- Software Design
+- Algebraic Data Types
+- Abstract Algebra
+- Haskell
+- Rust
+- Swift
+- Kotlin
+- TypeScript
+- C#
+title: Algebraic Data Types From Abstract Algebra to App Design
 ---
+
+![Black and white abstract representation of a multimodal model version two, featuring geometric patterns and lines.](https://images.pexels.com/photos/25626431/pexels-photo-25626431.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Black and white abstract representation of a multimodal model version two, featuring geometric patterns and lines.")
+
+## Algebraic Data Types From Abstract Algebra to App Design
 
 The world of software development often borrows heavily from mathematics. Concepts like functions, graphs, and sets are commonplace. Yet, one particularly elegant and powerful idea, **Algebraic Data Types (ADTs)**, frequently enters our codebase without many developers fully appreciating its profound mathematical underpinnings. ADTs bridge the gap between the abstract purity of algebra and the concrete demands of building robust, maintainable applications.
 

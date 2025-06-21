@@ -4,6 +4,8 @@ categories:
 - EDA
 - Physics
 comments: true
+cover:
+  image: https://images.pexels.com/photos/25626437/pexels-photo-25626437.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Demystifying the connection between fundamental electromagnetism and
   the algorithms powering your favorite circuit simulators like SPICE. Learn how lumped
@@ -20,6 +22,10 @@ tags:
 - Engineering
 title: How Maxwells Equations Are Encoded in Circuit Simulation Tools
 ---
+
+![Abstract representation of a multimodal model with dots and lines on a white background.](https://images.pexels.com/photos/25626437/pexels-photo-25626437.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Abstract representation of a multimodal model with dots and lines on a white background.")
+
+## How Maxwells Equations Are Encoded in Circuit Simulation Tools
 
 As developers, we often interact with various levels of abstraction. When it comes to electronics, circuit simulation tools like SPICE (Simulation Program with Integrated Circuit Emphasis) are our workhorses. They allow us to predict circuit behavior without soldering a single component. But have you ever stopped to wonder how these tools *really* work? What fundamental physics underpins their calculations?
 

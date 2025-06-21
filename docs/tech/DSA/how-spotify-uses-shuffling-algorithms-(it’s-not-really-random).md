@@ -1,19 +1,27 @@
 ---
-title: How Spotify Uses Shuffling Algorithms (It’s Not Really Random)
-date: 2025-06-17T10:04:28.467Z
-description: "Delve into the fascinating world of Spotify's 'random' shuffle, exploring why true randomness often feels anything but, and how clever algorithms create a more satisfying listening experience by design."
-tags:
-  - Music Tech
-  - Algorithms
-  - User Experience
-  - Data Science
-  - Spotify
 categories:
-  - Tech
-  - User Experience
-  - Product Design
+- Tech
+- User Experience
+- Product Design
 comments: true
+cover:
+  image: https://images.pexels.com/photos/15447298/pexels-photo-15447298.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 10:04:28.467000
+description: Delve into the fascinating world of Spotify's 'random' shuffle, exploring
+  why true randomness often feels anything but, and how clever algorithms create a
+  more satisfying listening experience by design.
+tags:
+- Music Tech
+- Algorithms
+- User Experience
+- Data Science
+- Spotify
+title: "How Spotify Uses Shuffling Algorithms (It\u2019s Not Really Random)"
 ---
+
+![A nostalgic display of vintage cassette tapes featuring iconic bands and albums from the past.](https://images.pexels.com/photos/15447298/pexels-photo-15447298.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A nostalgic display of vintage cassette tapes featuring iconic bands and albums from the past.")
+
+## How Spotify Uses Shuffling Algorithms (It’s Not Really Random)
 
 The quintessential modern music experience often begins with hitting that familiar "shuffle" icon. We expect a delightful, unpredictable journey through our favorite tracks, a fresh sequence every time. Yet, for years, a persistent murmur has echoed across the internet: "Spotify's shuffle isn't really random!"
 

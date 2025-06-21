@@ -1,11 +1,33 @@
 ---
-title: How to Build a Personal Dev Copilot with Ollama + Tmux + Bash
-date: 2025-06-17T13:05:16.383Z
-description: Learn to build a powerful, private, and customizable AI development copilot right in your terminal using local LLMs with Ollama, persistent sessions with Tmux, and smart scripting with Bash. Elevate your CLI workflow.
-tags: [Linux, CLI, Bash, AI, LLM, Ollama, Tmux, Productivity, Development, DevOps]
-categories: [AI, DevOps, Productivity, Linux]
+categories:
+- AI
+- DevOps
+- Productivity
+- Linux
 comments: true
+cover:
+  image: https://images.pexels.com/photos/4816921/pexels-photo-4816921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 13:05:16.383000
+description: Learn to build a powerful, private, and customizable AI development copilot
+  right in your terminal using local LLMs with Ollama, persistent sessions with Tmux,
+  and smart scripting with Bash. Elevate your CLI workflow.
+tags:
+- Linux
+- CLI
+- Bash
+- AI
+- LLM
+- Ollama
+- Tmux
+- Productivity
+- Development
+- DevOps
+title: How to Build a Personal Dev Copilot with Ollama + Tmux + Bash
 ---
+
+![Close-up of colorful programming code on a computer screen, showcasing digital technology.](https://images.pexels.com/photos/4816921/pexels-photo-4816921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Close-up of colorful programming code on a computer screen, showcasing digital technology.")
+
+## How to Build a Personal Dev Copilot with Ollama + Tmux + Bash
 
 The world of AI copilots has revolutionized how we code and interact with complex systems. While commercial options abound, the idea of a personal, private, and highly customizable copilot, deeply integrated into your existing command-line workflow, is incredibly appealing. What if you could get AI assistance without sending your sensitive code to external servers?
 

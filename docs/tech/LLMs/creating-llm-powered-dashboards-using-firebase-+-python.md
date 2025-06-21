@@ -1,26 +1,35 @@
 ---
-title: Creating LLM-Powered Dashboards Using Firebase + Python
-date: 2025-06-17T08:34:09.567Z
-description: Unlock dynamic insights by building LLM-powered dashboards. This comprehensive guide explores how to leverage Firebase as a scalable backend and Python for powerful data processing and AI orchestration, transforming raw data into natural language wisdom.
-tags:
-    - AI
-    - LLM
-    - Firebase
-    - Python
-    - Dashboard
-    - Data Visualization
-    - Streamlit
-    - Google Cloud
-    - Gemini
-    - Firestore
-    - Cloud Functions
 categories:
-    - AI
-    - Productivity
-    - Web Development
-    - Data Science
+- AI
+- Productivity
+- Web Development
+- Data Science
 comments: true
+cover:
+  image: https://images.pexels.com/photos/17484975/pexels-photo-17484975.png?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 08:34:09.567000
+description: Unlock dynamic insights by building LLM-powered dashboards. This comprehensive
+  guide explores how to leverage Firebase as a scalable backend and Python for powerful
+  data processing and AI orchestration, transforming raw data into natural language
+  wisdom.
+tags:
+- AI
+- LLM
+- Firebase
+- Python
+- Dashboard
+- Data Visualization
+- Streamlit
+- Google Cloud
+- Gemini
+- Firestore
+- Cloud Functions
+title: Creating LLM-Powered Dashboards Using Firebase + Python
 ---
+
+![Vibrant 3D rendering depicting the complexity of neural networks.](https://images.pexels.com/photos/17484975/pexels-photo-17484975.png?auto=compress&cs=tinysrgb&h=650&w=940 "Vibrant 3D rendering depicting the complexity of neural networks.")
+
+## Creating LLM-Powered Dashboards Using Firebase + Python
 
 The world of data has exploded, and with it, the need for tools that can make sense of it all. Traditional dashboards, while excellent for visualizing predefined metrics, often fall short when users need to ask ad-hoc questions, summarize complex trends, or understand the "why" behind the numbers in natural language.
 

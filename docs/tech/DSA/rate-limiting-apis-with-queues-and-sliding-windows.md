@@ -1,11 +1,32 @@
 ---
-title: Rate Limiting APIs with Queues and Sliding Windows
-date: 2025-06-17T10:04:28.467Z
-description: Explore advanced API rate limiting techniques using the precise Sliding Window algorithm and resilient Queues to manage traffic, prevent abuse, and ensure service stability.
-tags: [API, Rate Limiting, System Design, Distributed Systems, Concurrency, Queues, Sliding Window, Microservices, Scalability]
-categories: [System Design, Web Development, API Management, Backend]
+categories:
+- System Design
+- Web Development
+- API Management
+- Backend
 comments: true
+cover:
+  image: https://images.pexels.com/photos/1928080/pexels-photo-1928080.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 10:04:28.467000
+description: Explore advanced API rate limiting techniques using the precise Sliding
+  Window algorithm and resilient Queues to manage traffic, prevent abuse, and ensure
+  service stability.
+tags:
+- API
+- Rate Limiting
+- System Design
+- Distributed Systems
+- Concurrency
+- Queues
+- Sliding Window
+- Microservices
+- Scalability
+title: Rate Limiting APIs with Queues and Sliding Windows
 ---
+
+![A top-down view of taxis lined up on an urban street, showcasing city transportation.](https://images.pexels.com/photos/1928080/pexels-photo-1928080.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A top-down view of taxis lined up on an urban street, showcasing city transportation.")
+
+## Rate Limiting APIs with Queues and Sliding Windows
 
 The internet runs on APIs. From fetching weather data to orchestrating complex microservices, APIs are the digital backbone of modern applications. But with great power comes great responsibility – and potential for abuse, overload, or simply uneven demand. This is where API rate limiting steps in, acting as a bouncer for your digital club, ensuring fair access and stability.
 

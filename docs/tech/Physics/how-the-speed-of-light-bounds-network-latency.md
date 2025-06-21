@@ -4,6 +4,8 @@ categories:
 - DevOps
 - Infrastructure
 comments: true
+cover:
+  image: https://images.pexels.com/photos/4219861/pexels-photo-4219861.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Dive deep into the physics that dictates the absolute minimum network
   latency, exploring the speed of light, refractive index, and other unavoidable real-world
@@ -19,6 +21,10 @@ tags:
 - Fiber Optics
 title: How the Speed of Light Bounds Network Latency
 ---
+
+![A collection of white USB and adapter cables on a textured dark background, perfect for tech themes.](https://images.pexels.com/photos/4219861/pexels-photo-4219861.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A collection of white USB and adapter cables on a textured dark background, perfect for tech themes.")
+
+## How the Speed of Light Bounds Network Latency
 
 As developers, we often chase down performance bottlenecks in our code, databases, or distributed systems. We optimize algorithms, fine-tune queries, and scale infrastructure. But there's a fundamental, unyielding limit that no amount of code optimization can overcome: the speed of light.
 

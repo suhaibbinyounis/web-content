@@ -1,7 +1,7 @@
 ---
 title: Notes By Suhaib Bin Younis
-layout: hextra-home
+layout: wide
 ---
 
 
-This website uses **Google Analytics** and **Microsoft Clarity** for insights—**no personal tracking, no confidential data collection**.
+This website uses **Google Analytics** and **Microsoft Clarity** to understand how the site is used and improve the experience. These tools may collect **anonymized usage data**, but no **personally identifiable information** is stored or shared.

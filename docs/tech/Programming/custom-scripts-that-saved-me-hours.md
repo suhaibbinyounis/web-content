@@ -1,11 +1,31 @@
 ---
-title: Custom Scripts That Saved Me Hours
-date: 2025-06-17T09:02:34.262Z
-description: Discover how custom scripts transform repetitive tasks into automated workflows, saving countless hours and boosting productivity. Dive into practical examples using Bash and Python for log analysis, project scaffolding, and file organization.
-tags: [scripting, automation, productivity, bash, python, devops, workflow, efficiency]
-categories: [Productivity, Software Development, Automation, Tools]
+categories:
+- Productivity
+- Software Development
+- Automation
+- Tools
 comments: true
+cover:
+  image: https://images.pexels.com/photos/7709123/pexels-photo-7709123.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 09:02:34.262000
+description: Discover how custom scripts transform repetitive tasks into automated
+  workflows, saving countless hours and boosting productivity. Dive into practical
+  examples using Bash and Python for log analysis, project scaffolding, and file organization.
+tags:
+- scripting
+- automation
+- productivity
+- bash
+- python
+- devops
+- workflow
+- efficiency
+title: Custom Scripts That Saved Me Hours
 ---
+
+![Close-up view of hands typing on a laptop keyboard, illustrating the concept of remote work and technology.](https://images.pexels.com/photos/7709123/pexels-photo-7709123.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Close-up view of hands typing on a laptop keyboard, illustrating the concept of remote work and technology.")
+
+## Custom Scripts That Saved Me Hours
 
 The life of a tech professional often feels like a constant battle against the clock. We're always chasing deadlines, wrestling with complex systems, and, let's be honest, performing a fair share of repetitive, mind-numbing tasks. Whether it's sifting through gigabytes of logs, setting up new project boilerplate, or organizing mountains of downloaded files, these small, recurring chores add up, chipping away at our valuable time and mental energy.
 

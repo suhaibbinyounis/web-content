@@ -1,11 +1,31 @@
 ---
-title: How to Use GPT + SQLite to Query Your Life Like a Database
-date: 2025-06-17T13:05:16.383Z
-description: Learn to store your personal data in SQLite and query it using natural language with the power of GPT, building a practical system to analyze your life.
-tags: [GPT, AI, SQLite, Database, Python, CLI, Data Analysis, Personal Data, Productivity]
-categories: [Programming, Data Engineering, AI/ML, DevOps]
+categories:
+- Programming
+- Data Engineering
+- AI/ML
+- DevOps
 comments: true
+cover:
+  image: https://images.pexels.com/photos/4098213/pexels-photo-4098213.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 13:05:16.383000
+description: Learn to store your personal data in SQLite and query it using natural
+  language with the power of GPT, building a practical system to analyze your life.
+tags:
+- GPT
+- AI
+- SQLite
+- Database
+- Python
+- CLI
+- Data Analysis
+- Personal Data
+- Productivity
+title: How to Use GPT + SQLite to Query Your Life Like a Database
 ---
+
+![A person placing a wedding ring on a glass table, symbolizing separation or divorce.](https://images.pexels.com/photos/4098213/pexels-photo-4098213.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A person placing a wedding ring on a glass table, symbolizing separation or divorce.")
+
+## How to Use GPT + SQLite to Query Your Life Like a Database
 
 Life generates data. Every task completed, every book read, every expense logged, every thought jotted down. What if you could query all of it with natural language, just like you query a database? With GPT and SQLite, you absolutely can.
 

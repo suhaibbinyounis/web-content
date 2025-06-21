@@ -1,24 +1,32 @@
 ---
-title: Why LLMs Are Bad at Math (and How to Help Them)
-date: 2025-06-17T08:28:38.371Z
-description: Explore the fundamental reasons behind Large Language Models' struggles with mathematical computation and discover practical, state-of-the-art strategies to enhance their numerical abilities.
-tags:
-    - AI
-    - LLM
-    - Math
-    - Machine Learning
-    - Prompt Engineering
-    - Limitations
-    - AI Tools
-    - Neuro-Symbolic AI
 categories:
-    - AI
-    - Technology
-    - Productivity
-    - Education
-    - Prompt Engineering
+- AI
+- Technology
+- Productivity
+- Education
+- Prompt Engineering
 comments: true
+cover:
+  image: https://images.pexels.com/photos/5952738/pexels-photo-5952738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 08:28:38.371000
+description: Explore the fundamental reasons behind Large Language Models' struggles
+  with mathematical computation and discover practical, state-of-the-art strategies
+  to enhance their numerical abilities.
+tags:
+- AI
+- LLM
+- Math
+- Machine Learning
+- Prompt Engineering
+- Limitations
+- AI Tools
+- Neuro-Symbolic AI
+title: Why LLMs Are Bad at Math (and How to Help Them)
 ---
+
+![A programmer engaged in coding on a laptop in a tech-focused workspace with a digital interface.](https://images.pexels.com/photos/5952738/pexels-photo-5952738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A programmer engaged in coding on a laptop in a tech-focused workspace with a digital interface.")
+
+## Why LLMs Are Bad at Math (and How to Help Them)
 
 Large Language Models (LLMs) like Google's Gemini, OpenAI's GPT series, and Meta's Llama have revolutionized how we interact with information. They can write poetry, summarize complex documents, generate code, and even hold nuanced conversations. Yet, despite their incredible linguistic prowess, ask them to perform a seemingly simple calculation, and you might find them fumbling like a student unprepared for a pop quiz.
 

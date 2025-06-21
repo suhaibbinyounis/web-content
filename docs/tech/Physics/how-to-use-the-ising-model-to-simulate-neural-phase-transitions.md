@@ -4,6 +4,8 @@ categories:
 - Machine Learning
 - Physics Simulation
 comments: true
+cover:
+  image: https://images.pexels.com/photos/17484975/pexels-photo-17484975.png?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Explore how the Ising Model, a cornerstone of statistical physics, can
   be adapted to simulate and understand phase transitions in neural systems, offering
@@ -20,6 +22,10 @@ tags:
 - Computational Physics
 title: Simulating Neural Phase Transitions with the Ising Model
 ---
+
+![Vibrant 3D rendering depicting the complexity of neural networks.](https://images.pexels.com/photos/17484975/pexels-photo-17484975.png?auto=compress&cs=tinysrgb&h=650&w=940 "Vibrant 3D rendering depicting the complexity of neural networks.")
+
+## Simulating Neural Phase Transitions with the Ising Model
 
 The brain, for all its complexity, often exhibits behaviors that can be understood through simpler, abstract models. One such powerful abstraction comes from physics: the **Ising Model**. Originally conceived to describe magnetism, this model provides a surprisingly intuitive framework for thinking about how large systems composed of interacting binary units can undergo dramatic, system-wide changes—what we call **phase transitions**.
 

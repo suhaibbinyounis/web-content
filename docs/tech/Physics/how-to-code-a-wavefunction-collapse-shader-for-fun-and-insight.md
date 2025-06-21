@@ -4,6 +4,8 @@ categories:
 - Web Development
 - Programming
 comments: true
+cover:
+  image: https://images.pexels.com/photos/12356656/pexels-photo-12356656.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Dive into the fascinating world of Wavefunction Collapse (WFC) and learn
   how to implement its core principles in a GPU shader using WebGL. A practical, step-by-step
@@ -20,6 +22,10 @@ tags:
 - Front-end
 title: How to Code a Wavefunction Collapse Shader for Fun and Insight
 ---
+
+![Stunning blue and gold fractal art with intricate details in a vertical layout.](https://images.pexels.com/photos/12356656/pexels-photo-12356656.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Stunning blue and gold fractal art with intricate details in a vertical layout.")
+
+## How to Code a Wavefunction Collapse Shader for Fun and Insight
 
 The Wavefunction Collapse (WFC) algorithm is a fascinating concept in procedural generation, inspired by quantum mechanics. It's often used to generate levels, textures, or tilemaps by observing a small input sample and propagating constraints. While a full WFC *solver* is an iterative, stateful beast, we can embody its core principles – **entropy**, **observation**, and **propagation** – in a GPU shader for a visually compelling and insightful experience.
 

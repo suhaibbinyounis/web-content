@@ -1,11 +1,31 @@
 ---
-title: Using Taskwarrior + Timewarrior for Task Tracking That Sticks
-date: 2025-06-17T11:22:34.549Z
-description: "Unlock powerful command-line task and time management with Taskwarrior and Timewarrior. This deep dive covers installation, core usage, their potent synergy, and advanced tips for maintaining productivity and gaining profound insights into your work."
-tags: [productivity, task management, time tracking, command line, open source, Linux, macOS, privacy]
-categories: [Productivity, Software, Developer Tools]
+categories:
+- Productivity
+- Software
+- Developer Tools
 comments: true
+cover:
+  image: https://images.pexels.com/photos/6932280/pexels-photo-6932280.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 11:22:34.549000
+description: Unlock powerful command-line task and time management with Taskwarrior
+  and Timewarrior. This deep dive covers installation, core usage, their potent synergy,
+  and advanced tips for maintaining productivity and gaining profound insights into
+  your work.
+tags:
+- productivity
+- task management
+- time tracking
+- command line
+- open source
+- Linux
+- macOS
+- privacy
+title: Using Taskwarrior + Timewarrior for Task Tracking That Sticks
 ---
+
+![A subtle shadow of a flower cast on a textured wall, creating a calm and artistic ambiance.](https://images.pexels.com/photos/6932280/pexels-photo-6932280.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A subtle shadow of a flower cast on a textured wall, creating a calm and artistic ambiance.")
+
+## Using Taskwarrior + Timewarrior for Task Tracking That Sticks
 
 The quest for the perfect task management system is a journey many of us embark on, often hopping from one shiny new app to the next. We try a new methodology, download a sophisticated GUI, or subscribe to a feature-rich SaaS, only to find our meticulously organized lists slowly but surely gathering digital dust. The tasks don't stick. The tracking falters.
 
@@ -117,7 +137,6 @@ Timewarrior is a free, open-source command-line time tracker. It's designed to b
 4.  **Flexible Tagging**: Attach tags to your time entries for categorization.
 5.  **Integration**: Designed to work seamlessly with Taskwarrior.
 
-### Installation
 
 Timewarrior often has similar installation methods to Taskwarrior.
 
@@ -133,7 +152,6 @@ brew install timewarrior
 
 For other systems, check the [official Timewarrior download page](https://timewarrior.net/download/).
 
-### Core Concepts & Basic Usage
 
 Timewarrior stores its data in `~/.timewarrior/`. Its primary configuration file is `~/.timewarrior/timewarrior.cfg`.
 

@@ -1,11 +1,27 @@
 ---
-title: How to Debug Internet Issues Like a Network Engineer
-date: 2025-06-17T13:05:16.383Z
-description: "Master the art of troubleshooting network problems. This guide breaks down internet debugging into a systematic, OSI-layer-by-layer approach, equipping you with essential CLI tools and the mindset of a seasoned network engineer."
-tags: [Networking, CLI, Linux, Debugging, Troubleshooting, System Administration]
-categories: [Networking, DevOps]
+categories:
+- Networking
+- DevOps
 comments: true
+cover:
+  image: https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 13:05:16.383000
+description: Master the art of troubleshooting network problems. This guide breaks
+  down internet debugging into a systematic, OSI-layer-by-layer approach, equipping
+  you with essential CLI tools and the mindset of a seasoned network engineer.
+tags:
+- Networking
+- CLI
+- Linux
+- Debugging
+- Troubleshooting
+- System Administration
+title: How to Debug Internet Issues Like a Network Engineer
 ---
+
+![Eyeglasses reflecting computer code on a monitor, ideal for technology and programming themes.](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Eyeglasses reflecting computer code on a monitor, ideal for technology and programming themes.")
+
+## How to Debug Internet Issues Like a Network Engineer
 
 Every developer, at some point, faces the dreaded "internet not working" scenario. It might be your local dev environment failing to pull a Docker image, your CI/CD pipeline timing out on an API call, or simply your browser refusing to load a page. Panic sets in, followed by the inevitable "turn it off and on again" ritual.
 

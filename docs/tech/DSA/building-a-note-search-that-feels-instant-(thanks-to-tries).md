@@ -1,20 +1,28 @@
 ---
-title: Building a Note Search That Feels Instant (Thanks to Tries)
-date: 2025-06-17T10:04:28.467Z
-description: "Explore how Tries (prefix trees) can transform your personal note search into an incredibly fast, instant experience, perfect for autocomplete and keyword retrieval."
-tags:
-  - Data Structures
-  - Algorithms
-  - Search
-  - Productivity
-  - Software Engineering
-  - Python
 categories:
-  - Programming
-  - Productivity
-  - Algorithms Explained
+- Programming
+- Productivity
+- Algorithms Explained
 comments: true
+cover:
+  image: https://images.pexels.com/photos/7319085/pexels-photo-7319085.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 10:04:28.467000
+description: Explore how Tries (prefix trees) can transform your personal note search
+  into an incredibly fast, instant experience, perfect for autocomplete and keyword
+  retrieval.
+tags:
+- Data Structures
+- Algorithms
+- Search
+- Productivity
+- Software Engineering
+- Python
+title: Building a Note Search That Feels Instant (Thanks to Tries)
 ---
+
+![Magnifying glass revealing cryptic symbols on paper, ideal for mystery themes.](https://images.pexels.com/photos/7319085/pexels-photo-7319085.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Magnifying glass revealing cryptic symbols on paper, ideal for mystery themes.")
+
+## Building a Note Search That Feels Instant (Thanks to Tries)
 
 We've all been there: a sprawling collection of digital notes, meticulously categorized and tagged, yet when you need to find that one elusive piece of information, the search bar lags, spinning its wheels before grudgingly spitting out results. It's frustrating. It breaks flow. It feels anything but "instant."
 

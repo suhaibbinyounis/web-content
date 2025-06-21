@@ -1,25 +1,32 @@
 ---
-title: Decidability in 2025 What’s Still Truly Impossible to Compute
-date: 2025-06-17T09:26:07.585Z
-description: Explore the enduring limits of computation, from classical undecidable problems to modern implications in AI and software development, even in 2025.
-tags:
-  - decidability
-  - computability
-  - halting problem
-  - Gödel
-  - Turing
-  - AI
-  - LLM
-  - theoretical computer science
-  - impossibility
-  - limits of computation
 categories:
-  - Theoretical Computer Science
-  - AI
-  - Philosophy of AI
-  - Software Engineering
+- Theoretical Computer Science
+- AI
+- Philosophy of AI
+- Software Engineering
 comments: true
+cover:
+  image: https://images.pexels.com/photos/2387793/pexels-photo-2387793.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 09:26:07.585000
+description: Explore the enduring limits of computation, from classical undecidable
+  problems to modern implications in AI and software development, even in 2025.
+tags:
+- decidability
+- computability
+- halting problem
+- "G\xF6del"
+- Turing
+- AI
+- LLM
+- theoretical computer science
+- impossibility
+- limits of computation
+title: "Decidability in 2025 What\u2019s Still Truly Impossible to Compute"
 ---
+
+![Textured black sand with ripples resembling dunes, creating a dark, abstract aesthetic.](https://images.pexels.com/photos/2387793/pexels-photo-2387793.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Textured black sand with ripples resembling dunes, creating a dark, abstract aesthetic.")
+
+## Decidability in 2025 What’s Still Truly Impossible to Compute
 
 In an era where AI models generate stunning art, compose music, and write coherent code, and supercomputers crunch data at unfathomable speeds, it's easy to fall into the trap of thinking that *anything* is computable, given enough time and resources. The narrative of boundless technological progress often overshadows a fundamental truth established decades ago: some problems are, and will always remain, fundamentally impossible for any algorithm to solve. These are the **undecidable problems**.
 

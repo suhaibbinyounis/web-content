@@ -1,11 +1,35 @@
 ---
-title: How to Host a Static Site from Your Router or Raspberry Pi
-date: 2025-06-17T13:05:16.383Z
-description: "Learn how to host a static website locally using a Raspberry Pi or, in limited cases, your home router. This guide covers setup, web server configuration (Nginx, Apache), network basics, and making your site accessible, all with practical command-line examples for developers."
-tags: [Linux, Networking, Web Hosting, Raspberry Pi, Nginx, Apache, Router, Self-Hosting, CLI, DevOps]
-categories: [DevOps, Networking, Linux, Tutorial, Web Development]
+categories:
+- DevOps
+- Networking
+- Linux
+- Tutorial
+- Web Development
 comments: true
+cover:
+  image: https://images.pexels.com/photos/1054397/pexels-photo-1054397.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 13:05:16.383000
+description: Learn how to host a static website locally using a Raspberry Pi or, in
+  limited cases, your home router. This guide covers setup, web server configuration
+  (Nginx, Apache), network basics, and making your site accessible, all with practical
+  command-line examples for developers.
+tags:
+- Linux
+- Networking
+- Web Hosting
+- Raspberry Pi
+- Nginx
+- Apache
+- Router
+- Self-Hosting
+- CLI
+- DevOps
+title: How to Host a Static Site from Your Router or Raspberry Pi
 ---
+
+![Close-up of network cables and ports in a server rack, showcasing connectivity.](https://images.pexels.com/photos/1054397/pexels-photo-1054397.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Close-up of network cables and ports in a server rack, showcasing connectivity.")
+
+## How to Host a Static Site from Your Router or Raspberry Pi
 
 Hosting your own static website from home might sound like something from the early internet, but for personal projects, internal tools, or just learning, it's incredibly powerful. You gain complete control, learn invaluable networking and server administration skills, and avoid recurring cloud hosting fees for small projects.
 

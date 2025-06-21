@@ -4,6 +4,8 @@ categories:
 - Hardware
 - Storage
 comments: true
+cover:
+  image: https://images.pexels.com/photos/10558598/pexels-photo-10558598.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Dive deep into the surprising quantum mechanics behind Solid State Drives.
   Learn how quantum tunneling enables data storage in NAND flash and discover the
@@ -19,6 +21,10 @@ tags:
 - NAND Flash
 title: How Quantum Tunneling Makes SSDs Work (And Why They Wear Out)
 ---
+
+![Close-up of a technician assembling a laptop's internal components using tools.](https://images.pexels.com/photos/10558598/pexels-photo-10558598.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Close-up of a technician assembling a laptop's internal components using tools.")
+
+## How Quantum Tunneling Makes SSDs Work (And Why They Wear Out)
 
 You plug in an SSD, format it, and it just works. Fast. Reliable. Silent. But have you ever stopped to think about the insane physics happening at the heart of your data storage? Beneath the sleek aluminum casing and the sophisticated controller, your SSD is performing a feat of quantum mechanics every time it stores a bit of data.
 

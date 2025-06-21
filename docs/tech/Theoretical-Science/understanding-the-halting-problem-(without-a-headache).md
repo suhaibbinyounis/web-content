@@ -1,11 +1,29 @@
 ---
-title: Understanding the Halting Problem (Without a Headache)
-date: 2025-06-17T09:26:07.585Z
-description: "Demystifying the Halting Problem, a fundamental concept in computer science that reveals the inherent limits of computation, explained simply and accurately for a broader audience."
-tags: [Computer Science, Theory of Computation, Algorithms, Undecidability, Alan Turing, Computability, Limits of AI]
-categories: [Computer Science, Algorithms, Foundations]
+categories:
+- Computer Science
+- Algorithms
+- Foundations
 comments: true
+cover:
+  image: https://images.pexels.com/photos/6475759/pexels-photo-6475759.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 09:26:07.585000
+description: Demystifying the Halting Problem, a fundamental concept in computer science
+  that reveals the inherent limits of computation, explained simply and accurately
+  for a broader audience.
+tags:
+- Computer Science
+- Theory of Computation
+- Algorithms
+- Undecidability
+- Alan Turing
+- Computability
+- Limits of AI
+title: Understanding the Halting Problem (Without a Headache)
 ---
+
+![Minimalist text 'Idea' on gray background, perfect for creative concepts.](https://images.pexels.com/photos/6475759/pexels-photo-6475759.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Minimalist text 'Idea' on gray background, perfect for creative concepts.")
+
+## Understanding the Halting Problem (Without a Headache)
 
 Imagine you're a software engineer, and you've just written a new piece of code. You run it, and... it just sits there. It doesn't crash, it doesn't return an error, it just never finishes. It's stuck in an infinite loop. Frustrating, right? Now, imagine you're building an ultimate debugger – one that can *always* tell you, for *any* given program and its input, whether that program will eventually finish its execution (halt) or run forever (loop indefinitely).
 

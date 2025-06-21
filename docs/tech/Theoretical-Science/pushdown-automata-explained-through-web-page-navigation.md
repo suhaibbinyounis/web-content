@@ -1,24 +1,31 @@
 ---
-title: Pushdown Automata Explained Through Web Page Navigation
-date: 2025-06-17T09:26:07.585Z
-description: Demystifying Pushdown Automata (PDAs) by drawing a clear analogy to the familiar process of web page navigation, specifically how browsers manage history and nested interactions with the help of a stack.
-tags:
-  - Theory of Computation
-  - Automata
-  - Pushdown Automata
-  - Computer Science
-  - Web Navigation
-  - Context-Free Grammars
-  - Stack
-  - Formal Languages
 categories:
-  - Computer Science
-  - Theory
-  - Fundamentals
+- Computer Science
+- Theory
+- Fundamentals
 comments: true
+cover:
+  image: https://images.pexels.com/photos/15406292/pexels-photo-15406292.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 09:26:07.585000
+description: Demystifying Pushdown Automata (PDAs) by drawing a clear analogy to the
+  familiar process of web page navigation, specifically how browsers manage history
+  and nested interactions with the help of a stack.
+tags:
+- Theory of Computation
+- Automata
+- Pushdown Automata
+- Computer Science
+- Web Navigation
+- Context-Free Grammars
+- Stack
+- Formal Languages
+title: Pushdown Automata Explained Through Web Page Navigation
 ---
 
+![Smartphone screen showing Google search in dark mode with the Google logo in the background.](https://images.pexels.com/photos/15406292/pexels-photo-15406292.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Smartphone screen showing Google search in dark mode with the Google logo in the background.")
+
 ## Pushdown Automata Explained Through Web Page Navigation
+
 
 In the realm of theoretical computer science, Pushdown Automata (PDAs) often feel like an abstract concept, tucked away in textbooks with complex formal definitions. However, these fascinating machines are far more intuitive than they appear, and their underlying principles are at play in many technologies we interact with daily. One particularly apt analogy to demystify PDAs is the seemingly simple act of navigating the web.
 

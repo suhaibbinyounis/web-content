@@ -1,11 +1,34 @@
 ---
-title: How to Boot from ISO Over Network (PXE Basics)
-date: 2025-06-17T11:22:34.549Z
-description: Dive into the world of network booting with PXE! This comprehensive guide explains how to set up a PXE server to boot various ISO images over your network, covering DHCP, TFTP, and serving ISO content for efficient system deployments and recovery.
-tags: [PXE, Network Boot, ISO, Linux, Windows, SysAdmin, DevOps, Infrastructure, Bare Metal, Deployment]
-categories: [Networking, System Administration, Tutorials, Linux]
+categories:
+- Networking
+- System Administration
+- Tutorials
+- Linux
 comments: true
+cover:
+  image: https://images.pexels.com/photos/9470919/pexels-photo-9470919.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 11:22:34.549000
+description: Dive into the world of network booting with PXE! This comprehensive guide
+  explains how to set up a PXE server to boot various ISO images over your network,
+  covering DHCP, TFTP, and serving ISO content for efficient system deployments and
+  recovery.
+tags:
+- PXE
+- Network Boot
+- ISO
+- Linux
+- Windows
+- SysAdmin
+- DevOps
+- Infrastructure
+- Bare Metal
+- Deployment
+title: How to Boot from ISO Over Network (PXE Basics)
 ---
+
+![Detailed shot of a bicycle frame featuring the Pexels logo with focus on texture and design.](https://images.pexels.com/photos/9470919/pexels-photo-9470919.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Detailed shot of a bicycle frame featuring the Pexels logo with focus on texture and design.")
+
+## How to Boot from ISO Over Network (PXE Basics)
 
 Network booting, specifically using PXE (Preboot Execution Environment), is an incredibly powerful capability for IT professionals, system administrators, and anyone dealing with multiple machines. Imagine provisioning a new server without fumbling with USB sticks or optical drives, or quickly booting a live rescue environment on a client machine from a central server. This is where PXE shines.
 

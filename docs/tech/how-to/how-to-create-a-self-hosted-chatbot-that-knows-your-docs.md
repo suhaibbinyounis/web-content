@@ -1,11 +1,32 @@
 ---
-title: How to Create a Self-Hosted Chatbot That Knows Your Docs
-date: 2025-06-17T13:05:16.383Z
-description: "Learn to build a private, self-hosted chatbot for your internal documentation. This guide covers open-source LLMs (Ollama), vector databases (ChromaDB), and Retrieval-Augmented Generation (RAG) using LangChain, with full code examples."
-tags: [LLM, RAG, Python, Self-Hosted, AI, Chatbot, Documentation, Ollama, LangChain, ChromaDB]
-categories: [AI/ML, DevOps, Development]
+categories:
+- AI/ML
+- DevOps
+- Development
 comments: true
+cover:
+  image: https://images.pexels.com/photos/433333/pexels-photo-433333.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 13:05:16.383000
+description: Learn to build a private, self-hosted chatbot for your internal documentation.
+  This guide covers open-source LLMs (Ollama), vector databases (ChromaDB), and Retrieval-Augmented
+  Generation (RAG) using LangChain, with full code examples.
+tags:
+- LLM
+- RAG
+- Python
+- Self-Hosted
+- AI
+- Chatbot
+- Documentation
+- Ollama
+- LangChain
+- ChromaDB
+title: How to Create a Self-Hosted Chatbot That Knows Your Docs
 ---
+
+![A monochrome image of a tall stack of books symbolizing education and knowledge.](https://images.pexels.com/photos/433333/pexels-photo-433333.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A monochrome image of a tall stack of books symbolizing education and knowledge.")
+
+## How to Create a Self-Hosted Chatbot That Knows Your Docs
 
 The dream of a chatbot that truly understands your company's internal documentation, project specifications, or extensive knowledge base is no longer a fantasy. While powerful, publicly hosted large language models (LLMs) like ChatGPT are often a non-starter for sensitive internal data due to privacy concerns and their inherent lack of knowledge about your specific, proprietary information.
 

@@ -5,6 +5,8 @@ categories:
 - Multimedia
 - Fundamentals
 comments: true
+cover:
+  image: https://images.pexels.com/photos/257904/pexels-photo-257904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Dive deep into the Nyquist-Shannon Sampling Theorem and understand how
   this fundamental concept in Digital Signal Processing dictates the quality and characteristics
@@ -29,6 +31,10 @@ tags:
 - FFmpeg
 title: How the Nyquist Limit Defines Your Webcam and Microphone
 ---
+
+![Close-up of a professional audio and video editing software interface with waveform displays.](https://images.pexels.com/photos/257904/pexels-photo-257904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Close-up of a professional audio and video editing software interface with waveform displays.")
+
+## How the Nyquist Limit Defines Your Webcam and Microphone
 
 Ever wondered why your high-definition webcam sometimes produces weird wavy patterns on finely textured fabrics, or why an old digital audio recording sounds thin and distant? The answers often lie in a foundational principle of digital signal processing: the Nyquist-Shannon Sampling Theorem, commonly referred to as the Nyquist Limit.
 

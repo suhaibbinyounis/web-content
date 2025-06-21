@@ -4,6 +4,8 @@ categories:
 - Backend
 - Performance
 comments: true
+cover:
+  image: https://images.pexels.com/photos/6169056/pexels-photo-6169056.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Explore how the fundamental principle of entropy (the Second Law of Thermodynamics)
   manifests in distributed caching systems, leading to data staleness, resource waste,
@@ -21,6 +23,10 @@ tags:
 - DevOps
 title: Fighting Entropy Applying the Second Law of Thermodynamics to Distributed Caching
 ---
+
+![A delivery man unloading cardboard boxes from a van at a warehouse during the day.](https://images.pexels.com/photos/6169056/pexels-photo-6169056.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A delivery man unloading cardboard boxes from a van at a warehouse during the day.")
+
+## Fighting Entropy Applying the Second Law of Thermodynamics to Distributed Caching
 
 Ever felt your meticulously designed distributed cache slowly devolve into a messy, inconsistent beast? Data that's supposed to be fresh becomes stale, memory inexplicably fills up, and debugging a cache-related issue feels like searching for a needle in a haywire haystack. You're not alone. What you're experiencing is, in essence, the Second Law of Thermodynamics at play.
 

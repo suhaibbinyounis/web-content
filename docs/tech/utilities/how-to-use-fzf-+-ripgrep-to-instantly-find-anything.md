@@ -1,22 +1,31 @@
 ---
-title: How to Use fzf + ripgrep to Instantly Find Anything
-date: 2025-06-17T11:22:34.549Z
-description: Discover the unparalleled power of combining fzf for fuzzy finding with ripgrep for lightning-fast content search. Learn how to set up, customize, and leverage these command-line tools to navigate your codebase and files with unprecedented efficiency.
-tags:
-  - Command Line
-  - Productivity
-  - Developer Tools
-  - Linux
-  - macOS
-  - CLI
-  - fzf
-  - ripgrep
 categories:
-  - Productivity
-  - Software Development
-  - DevOps
+- Productivity
+- Software Development
+- DevOps
 comments: true
+cover:
+  image: https://images.pexels.com/photos/1174775/pexels-photo-1174775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 11:22:34.549000
+description: Discover the unparalleled power of combining fzf for fuzzy finding with
+  ripgrep for lightning-fast content search. Learn how to set up, customize, and leverage
+  these command-line tools to navigate your codebase and files with unprecedented
+  efficiency.
+tags:
+- Command Line
+- Productivity
+- Developer Tools
+- Linux
+- macOS
+- CLI
+- fzf
+- ripgrep
+title: How to Use fzf + ripgrep to Instantly Find Anything
 ---
+
+![Close-up of person typing on a laptop indoors, showcasing technology use.](https://images.pexels.com/photos/1174775/pexels-photo-1174775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Close-up of person typing on a laptop indoors, showcasing technology use.")
+
+## How to Use fzf + ripgrep to Instantly Find Anything
 
 In the vast oceans of code and files that developers and power users navigate daily, the ability to find exactly what you're looking for – instantly – is not just a convenience, it's a superpower. Traditional `grep` and `find` commands, while foundational, often fall short in terms of speed, user experience, and intelligence when dealing with modern, large-scale projects.
 
@@ -88,7 +97,6 @@ You'll quickly notice its speed and the clean, readable output.
 3.  **Highly Customizable**: `fzf` can be configured with various options, including preview windows, key bindings, and default commands.
 4.  **Seamless Integration**: It's designed to be piped with other commands (`ls | fzf`, `git branch | fzf`, `history | fzf`), acting as an interactive filter for virtually any list of items.
 
-### Installation
 
 Like `ripgrep`, `fzf` is easy to install:
 

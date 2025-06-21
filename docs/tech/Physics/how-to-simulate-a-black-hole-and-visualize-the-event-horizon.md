@@ -1,23 +1,32 @@
 ---
-title: Simulating a Black Hole and Visualizing the Event Horizon
-date: 2025-06-17T14:26:03.015Z
-description: "Dive into the fascinating world of black holes by building a simplified Python simulation to calculate the Schwarzschild radius and visualize the event horizon and basic gravitational lensing effects. Learn core concepts and pragmatic coding techniques."
-tags:
-  - Physics
-  - Simulation
-  - Python
-  - Visualization
-  - Matplotlib
-  - NumPy
-  - Gravity
-  - BlackHole
 categories:
-  - Programming
-  - Science
-  - Tutorial
+- Programming
+- Science
+- Tutorial
 comments: true
+cover:
+  image: https://images.pexels.com/photos/31761245/pexels-photo-31761245.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 14:26:03.015000
+description: Dive into the fascinating world of black holes by building a simplified
+  Python simulation to calculate the Schwarzschild radius and visualize the event
+  horizon and basic gravitational lensing effects. Learn core concepts and pragmatic
+  coding techniques.
 math: true
+tags:
+- Physics
+- Simulation
+- Python
+- Visualization
+- Matplotlib
+- NumPy
+- Gravity
+- BlackHole
+title: Simulating a Black Hole and Visualizing the Event Horizon
 ---
+
+![A person holding a camera with a Pink Panther shirt, capturing the moment.](https://images.pexels.com/photos/31761245/pexels-photo-31761245.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A person holding a camera with a Pink Panther shirt, capturing the moment.")
+
+## Simulating a Black Hole and Visualizing the Event Horizon
 
 Black holes. The very words conjure images of cosmic vacuum cleaners, spacetime fabric stretched to its breaking point, and regions where the laws of physics as we know them take a dramatic detour. While a full-fledged general relativity simulation is beyond the scope of a typical blog post (and requires some serious compute!), we can still build a simplified, yet insightful, simulation in Python to understand key concepts like the Event Horizon and even get a taste of gravitational lensing.
 

@@ -4,6 +4,8 @@ categories:
 - Programming
 - Mathematics
 comments: true
+cover:
+  image: https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Dive into the fascinating world of chaos theory by simulating and visualizing
   the iconic Lorenz Attractor in Python using SciPy and Matplotlib. Learn about its
@@ -20,6 +22,10 @@ tags:
 - Lorenz Attractor
 title: How to Visualize Chaos with the Lorenz Attractor in Python
 ---
+
+![Colorful abstract 3D rendering of neural networks with vibrant blue and yellow gradients.](https://images.pexels.com/photos/17484901/pexels-photo-17484901.png?auto=compress&cs=tinysrgb&h=650&w=940 "Colorful abstract 3D rendering of neural networks with vibrant blue and yellow gradients.")
+
+## How to Visualize Chaos with the Lorenz Attractor in Python
 
 Chaos. It's a term often thrown around to describe disorder, but in mathematics and physics, it refers to a specific type of deterministic system that exhibits highly unpredictable behavior. The poster child for such systems is arguably the **Lorenz Attractor**.
 

@@ -1,11 +1,30 @@
 ---
-title: How to Build a Markdown-to-HTML Pipeline with Pandoc and Bash
-date: 2025-06-17T13:05:16.383Z
-description: Learn to build a robust Markdown-to-HTML conversion pipeline using Pandoc for powerful document transformation and Bash for automation and batch processing. Perfect for static sites, documentation, and content generation.
-tags: [Linux, CLI, Bash, Pandoc, Markdown, HTML, DevOps, Automation]
-categories: [DevOps, Tools, Scripting]
+categories:
+- DevOps
+- Tools
+- Scripting
 comments: true
+cover:
+  image: https://images.pexels.com/photos/326501/pexels-photo-326501.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 13:05:16.383000
+description: Learn to build a robust Markdown-to-HTML conversion pipeline using Pandoc
+  for powerful document transformation and Bash for automation and batch processing.
+  Perfect for static sites, documentation, and content generation.
+tags:
+- Linux
+- CLI
+- Bash
+- Pandoc
+- Markdown
+- HTML
+- DevOps
+- Automation
+title: How to Build a Markdown-to-HTML Pipeline with Pandoc and Bash
 ---
+
+![Stylish office workspace featuring dual monitors, a keyboard, notebooks, and decorative plant.](https://images.pexels.com/photos/326501/pexels-photo-326501.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Stylish office workspace featuring dual monitors, a keyboard, notebooks, and decorative plant.")
+
+## How to Build a Markdown-to-HTML Pipeline with Pandoc and Bash
 
 Markdown has become the de-facto standard for writing plain text content that's easy to read and simple to format. But for sharing on the web, HTML is king. Bridging this gap efficiently is where a good Markdown-to-HTML pipeline comes in.
 
@@ -637,7 +656,6 @@ build_html/
 
 This Bash-Pandoc pipeline is ideal for CI/CD environments. You can run `batch_convert.sh` as part of your build step, then deploy the `build_html/` directory to a static hosting service (Netlify, Vercel, GitHub Pages, S3, etc.).
 
-## Conclusion
 
 You now have a solid foundation for building a Markdown-to-HTML pipeline using Pandoc and Bash. We've covered:
 

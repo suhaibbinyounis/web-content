@@ -4,6 +4,8 @@ categories:
 - Computer Science
 - Performance
 comments: true
+cover:
+  image: https://images.pexels.com/photos/4705613/pexels-photo-4705613.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Dive deep into the Landauer Limit, the fundamental thermodynamic cost
   of erasing information, and explore its implications for energy efficiency, future
@@ -19,6 +21,10 @@ tags:
 - Software
 title: How the Landauer Limit Defines the Cost of a Bit Flip
 ---
+
+![Young kids collaborating on a DIY computer project indoors. Tech skills and teamwork.](https://images.pexels.com/photos/4705613/pexels-photo-4705613.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Young kids collaborating on a DIY computer project indoors. Tech skills and teamwork.")
+
+## How the Landauer Limit Defines the Cost of a Bit Flip
 
 As developers, we often think of bits as abstract, weightless pieces of information. We flip them, store them, discard them, all with seemingly infinite ease. But what if I told you there's a fundamental, physical cost to every bit you erase? A thermodynamic speed bump mandated by the laws of physics?
 

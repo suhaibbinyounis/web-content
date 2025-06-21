@@ -1,11 +1,30 @@
 ---
-title: How to Create a CLI Tool That Talks to LLMs (and Feels Native)
-date: 2025-06-17T13:05:16.383Z
-description: Learn to build powerful, native-feeling command-line tools that interact with Large Language Models, using Python and modern CLI frameworks.
-tags: [CLI, Python, LLM, AI, DevOps, DevTools, Typer, Rich, Productivity]
-categories: [Programming, Artificial Intelligence, Tools]
+categories:
+- Programming
+- Artificial Intelligence
+- Tools
 comments: true
+cover:
+  image: https://images.pexels.com/photos/9242852/pexels-photo-9242852.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 13:05:16.383000
+description: Learn to build powerful, native-feeling command-line tools that interact
+  with Large Language Models, using Python and modern CLI frameworks.
+tags:
+- CLI
+- Python
+- LLM
+- AI
+- DevOps
+- DevTools
+- Typer
+- Rich
+- Productivity
+title: How to Create a CLI Tool That Talks to LLMs (and Feels Native)
 ---
+
+![Two young engineers working on robotic equipment in a workshop setting.](https://images.pexels.com/photos/9242852/pexels-photo-9242852.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Two young engineers working on robotic equipment in a workshop setting.")
+
+## How to Create a CLI Tool That Talks to LLMs (and Feels Native)
 
 # How to Create a CLI Tool That Talks to LLMs (and Feels Native)
 

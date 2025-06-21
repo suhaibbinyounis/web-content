@@ -1,21 +1,30 @@
 ---
-title: "Self-Attention Explained Visually: Unpacking the Heart of Modern AI"
-date: 2025-06-17T08:30:25.520Z
-description: Dive deep into self-attention, the foundational mechanism powering Transformer models and large language models (LLMs). This post breaks down the complex process into intuitive visual analogies, explaining Query, Key, and Value vectors, attention scoring, and multi-head attention step-by-step.
-tags:
-    - AI
-    - LLM
-    - Transformers
-    - Deep Learning
-    - Machine Learning
-    - NLP
-    - Attention Mechanism
 categories:
-    - AI
-    - Deep Learning
-    - Explainers
+- AI
+- Deep Learning
+- Explainers
 comments: true
+cover:
+  image: https://images.pexels.com/photos/8849295/pexels-photo-8849295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 08:30:25.520000
+description: Dive deep into self-attention, the foundational mechanism powering Transformer
+  models and large language models (LLMs). This post breaks down the complex process
+  into intuitive visual analogies, explaining Query, Key, and Value vectors, attention
+  scoring, and multi-head attention step-by-step.
+tags:
+- AI
+- LLM
+- Transformers
+- Deep Learning
+- Machine Learning
+- NLP
+- Attention Mechanism
+title: 'Self-Attention Explained Visually: Unpacking the Heart of Modern AI'
 ---
+
+![Abstract illustration of AI with silhouette head full of eyes, symbolizing observation and technology.](https://images.pexels.com/photos/8849295/pexels-photo-8849295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Abstract illustration of AI with silhouette head full of eyes, symbolizing observation and technology.")
+
+## Self-Attention Explained Visually: Unpacking the Heart of Modern AI
 
 The landscape of Artificial Intelligence has been irrevocably reshaped by a single, elegant mechanism: **Attention**. And within the pantheon of attention mechanisms, **Self-Attention** stands out as the cornerstone, particularly for the revolutionary Transformer architecture that underpins virtually all state-of-the-art Large Language Models (LLMs) like GPT-4, Gemini, and Llama 2.
 

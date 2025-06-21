@@ -1,19 +1,27 @@
 ---
-title: Why Your Browser Uses a Tree (DOM) and How It Actually Works
-date: 2025-06-17T10:04:28.467Z
-description: "Dive deep into the Document Object Model (DOM), understanding why browsers represent your web content as a tree structure, how it's built, and its fundamental role in rendering and interactive web experiences."
-tags:
-  - Web Development
-  - Browser Internals
-  - DOM
-  - JavaScript
-  - HTML
-  - Frontend
 categories:
-  - Web Development
-  - Engineering
+- Web Development
+- Engineering
 comments: true
+cover:
+  image: https://images.pexels.com/photos/9858906/pexels-photo-9858906.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 10:04:28.467000
+description: Dive deep into the Document Object Model (DOM), understanding why browsers
+  represent your web content as a tree structure, how it's built, and its fundamental
+  role in rendering and interactive web experiences.
+tags:
+- Web Development
+- Browser Internals
+- DOM
+- JavaScript
+- HTML
+- Frontend
+title: Why Your Browser Uses a Tree (DOM) and How It Actually Works
 ---
+
+![Close-up view of colorful CSS and HTML code displayed on a dark computer screen.](https://images.pexels.com/photos/9858906/pexels-photo-9858906.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Close-up view of colorful CSS and HTML code displayed on a dark computer screen.")
+
+## Why Your Browser Uses a Tree (DOM) and How It Actually Works
 
 Have you ever stopped to wonder how your web browser takes a simple HTML file and transforms it into the vibrant, interactive page you see? It's far more complex than just reading text and drawing it. At the heart of this transformation lies a fundamental concept: the Document Object Model, or DOM. And critically, your browser represents the entire webpage as a tree.
 

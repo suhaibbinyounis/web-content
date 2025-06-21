@@ -1,24 +1,32 @@
 ---
-title: What Makes LLMs ‘Forget’? Token Limits and Persistence
-date: 2025-06-17T08:28:49.792Z
-description: Delve into the technical reasons behind LLMs' apparent 'forgetfulness,' exploring the fundamental constraints of token limits, the stateless nature of their APIs, and advanced strategies for building persistent memory into AI applications.
-tags:
-    - AI
-    - LLM
-    - Memory
-    - Context Window
-    - Token Limits
-    - Persistence
-    - Generative AI
-    - Prompt Engineering
-    - RAG
 categories:
-    - AI
-    - Machine Learning
-    - Deep Learning
-    - Prompt Engineering
+- AI
+- Machine Learning
+- Deep Learning
+- Prompt Engineering
 comments: true
+cover:
+  image: https://images.pexels.com/photos/17483910/pexels-photo-17483910.png?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 08:28:49.792000
+description: Delve into the technical reasons behind LLMs' apparent 'forgetfulness,'
+  exploring the fundamental constraints of token limits, the stateless nature of their
+  APIs, and advanced strategies for building persistent memory into AI applications.
+tags:
+- AI
+- LLM
+- Memory
+- Context Window
+- Token Limits
+- Persistence
+- Generative AI
+- Prompt Engineering
+- RAG
+title: "What Makes LLMs \u2018Forget\u2019? Token Limits and Persistence"
 ---
+
+![Colorful abstract pattern resembling digital waves with intricate texture in blue and purple hues.](https://images.pexels.com/photos/17483910/pexels-photo-17483910.png?auto=compress&cs=tinysrgb&h=650&w=940 "Colorful abstract pattern resembling digital waves with intricate texture in blue and purple hues.")
+
+## What Makes LLMs ‘Forget’? Token Limits and Persistence
 
 Have you ever had a brilliant, insightful conversation with an AI model, only for it to completely "forget" a crucial detail just a few turns later? It's a frustrating experience that might lead you to believe LLMs have a short-term memory problem. While that's an intuitive way to think about it, the reality is more nuanced and rooted in fundamental architectural and operational design choices.
 

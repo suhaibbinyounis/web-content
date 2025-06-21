@@ -1,11 +1,30 @@
 ---
-title: How to Use Entr + Cron to Auto-Run Scripts When Files Change
-date: 2025-06-17T13:05:16.383Z
-description: Learn how to combine the real-time file watching power of Entr with the robust scheduling of Cron to create persistent, event-driven automation for your development and production environments. Stop polling, start reacting.
-tags: [Linux, CLI, Bash, Automation, DevOps, Cron, entr, File Watcher, System Administration]
-categories: [DevOps, System Administration]
+categories:
+- DevOps
+- System Administration
 comments: true
+cover:
+  image: https://images.pexels.com/photos/7621141/pexels-photo-7621141.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 13:05:16.383000
+description: Learn how to combine the real-time file watching power of Entr with the
+  robust scheduling of Cron to create persistent, event-driven automation for your
+  development and production environments. Stop polling, start reacting.
+tags:
+- Linux
+- CLI
+- Bash
+- Automation
+- DevOps
+- Cron
+- entr
+- File Watcher
+- System Administration
+title: How to Use Entr + Cron to Auto-Run Scripts When Files Change
 ---
+
+![A hand holds a payment terminal against a light background with ample copy space.](https://images.pexels.com/photos/7621141/pexels-photo-7621141.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A hand holds a payment terminal against a light background with ample copy space.")
+
+## How to Use Entr + Cron to Auto-Run Scripts When Files Change
 
 As developers and system administrators, we often face the challenge of automating tasks that depend on file changes. Perhaps you need to recompile a project when source files are modified, restart a service when its configuration changes, or process data as soon as new files land in a directory.
 

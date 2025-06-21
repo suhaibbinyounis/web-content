@@ -1,23 +1,32 @@
 ---
-title: Why Big-O Isn’t the Whole Story (Let’s Talk Constant Factors)
-date: 2025-06-17T09:26:07.585Z
-description: Big-O notation is fundamental, but it only tells half the story of an algorithm's performance. This post dives deep into constant factors, revealing why practical speed often deviates from theoretical asymptotic complexity, and how to truly optimize your code.
-tags:
-  - algorithms
-  - big-o
-  - complexity
-  - performance
-  - optimization
-  - programming
-  - computer science
-  - software engineering
-  - systems design
 categories:
-  - Computer Science
-  - Software Engineering
-  - Performance Tuning
+- Computer Science
+- Software Engineering
+- Performance Tuning
 comments: true
+cover:
+  image: https://images.pexels.com/photos/32594252/pexels-photo-32594252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 09:26:07.585000
+description: Big-O notation is fundamental, but it only tells half the story of an
+  algorithm's performance. This post dives deep into constant factors, revealing why
+  practical speed often deviates from theoretical asymptotic complexity, and how to
+  truly optimize your code.
+tags:
+- algorithms
+- big-o
+- complexity
+- performance
+- optimization
+- programming
+- computer science
+- software engineering
+- systems design
+title: "Why Big-O Isn\u2019t the Whole Story (Let\u2019s Talk Constant Factors)"
 ---
+
+![](https://images.pexels.com/photos/32594252/pexels-photo-32594252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "")
+
+## Why Big-O Isn’t the Whole Story (Let’s Talk Constant Factors)
 
 Every computer science student learns about Big-O notation. It's the bedrock for understanding algorithm efficiency, allowing us to categorize and compare algorithms based on how their runtime or space requirements scale with input size. An `O(N)` algorithm is generally considered superior to an `O(N^2)` algorithm, especially for large `N`. This theoretical framework is incredibly powerful, providing a common language and a crucial first filter in design.
 

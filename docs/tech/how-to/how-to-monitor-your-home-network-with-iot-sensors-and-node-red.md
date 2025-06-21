@@ -1,23 +1,31 @@
 ---
-title: How to Monitor Your Home Network with IoT Sensors and Node-RED
-date: 2025-06-17T13:05:16.383Z
-description: "Learn to build a robust home network monitoring system using custom IoT sensors (ESP32/ESP8266), an MQTT broker, and Node-RED for visualization and alerts. Go beyond basic 'online/offline' checks and gain insights into your network's health."
-tags:
-  - IoT
-  - Node-RED
-  - MQTT
-  - Networking
-  - Home Automation
-  - ESP32
-  - ESP8266
-  - Linux
-  - Troubleshooting
 categories:
-  - Networking
-  - DevOps
-  - IoT
+- Networking
+- DevOps
+- IoT
 comments: true
+cover:
+  image: https://images.pexels.com/photos/27523128/pexels-photo-27523128.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 13:05:16.383000
+description: Learn to build a robust home network monitoring system using custom IoT
+  sensors (ESP32/ESP8266), an MQTT broker, and Node-RED for visualization and alerts.
+  Go beyond basic 'online/offline' checks and gain insights into your network's health.
+tags:
+- IoT
+- Node-RED
+- MQTT
+- Networking
+- Home Automation
+- ESP32
+- ESP8266
+- Linux
+- Troubleshooting
+title: How to Monitor Your Home Network with IoT Sensors and Node-RED
 ---
+
+![Showcase of various smart home devices controlled via a smartphone, highlighting automation and security.](https://images.pexels.com/photos/27523128/pexels-photo-27523128.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Showcase of various smart home devices controlled via a smartphone, highlighting automation and security.")
+
+## How to Monitor Your Home Network with IoT Sensors and Node-RED
 
 Monitoring your home network might sound like overkill, but for anyone who relies heavily on their internet connection, runs local servers, or simply enjoys tinkering, it's incredibly empowering. Knowing when a critical device goes offline, tracking uptime, or even detecting rogue devices can save you headaches and provide peace of mind.
 
@@ -120,7 +128,6 @@ If everything is working, you should see `home/network/test hello from publisher
 
 Node-RED is where we'll orchestrate our monitoring. It provides a visual interface to build "flows" that connect inputs, process data, and trigger outputs.
 
-### Installation
 
 Again, a Linux machine or Docker is ideal. We'll use the recommended script for a Node.js-based install on Linux.
 

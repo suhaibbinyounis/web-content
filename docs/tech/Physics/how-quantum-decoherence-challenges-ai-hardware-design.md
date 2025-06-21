@@ -4,10 +4,12 @@ categories:
 - AI/ML
 - Hardware Design
 comments: true
+cover:
+  image: https://images.pexels.com/photos/17483848/pexels-photo-17483848.png?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
-description: Dive into quantum decoherence – the silent killer of qubit states – and
-  explore its profound impact on building robust AI hardware for quantum computing,
-  with practical examples.
+description: "Dive into quantum decoherence \u2013 the silent killer of qubit states\
+  \ \u2013 and explore its profound impact on building robust AI hardware for quantum\
+  \ computing, with practical examples."
 math: true
 tags:
 - Quantum Computing
@@ -19,6 +21,10 @@ tags:
 - Qiskit
 title: How Quantum Decoherence Challenges AI Hardware Design
 ---
+
+![Vibrant abstract geometric digital art with 3D elements and a dynamic perspective.](https://images.pexels.com/photos/17483848/pexels-photo-17483848.png?auto=compress&cs=tinysrgb&h=650&w=940 "Vibrant abstract geometric digital art with 3D elements and a dynamic perspective.")
+
+## How Quantum Decoherence Challenges AI Hardware Design
 
 The relentless pursuit of more powerful AI has led us down many fascinating paths, from optimizing GPU clusters to exploring neuromorphic chips. But for the truly groundbreaking, future-looking AI applications – those that might solve currently intractable problems – the ultimate frontier lies in quantum computing.
 

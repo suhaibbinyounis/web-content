@@ -1,11 +1,33 @@
 ---
-title: Graph Coloring in Action Time Table Scheduling Made Easy
-date: 2025-06-17T10:04:28.467Z
-description: "Discover how the elegant mathematical concept of graph coloring provides a powerful framework for solving complex real-world scheduling challenges, from university timetables to examination schedules, by transforming conflicts into color assignments."
-tags: [Graph Theory, Algorithms, Optimization, Scheduling, Computer Science, Discrete Mathematics, Applied Math, Problem Solving]
-categories: [Algorithms, Computer Science, Applied Mathematics, Problem Solving, Optimization]
+categories:
+- Algorithms
+- Computer Science
+- Applied Mathematics
+- Problem Solving
+- Optimization
 comments: true
+cover:
+  image: https://images.pexels.com/photos/18069083/pexels-photo-18069083.png?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 10:04:28.467000
+description: Discover how the elegant mathematical concept of graph coloring provides
+  a powerful framework for solving complex real-world scheduling challenges, from
+  university timetables to examination schedules, by transforming conflicts into color
+  assignments.
+tags:
+- Graph Theory
+- Algorithms
+- Optimization
+- Scheduling
+- Computer Science
+- Discrete Mathematics
+- Applied Math
+- Problem Solving
+title: Graph Coloring in Action Time Table Scheduling Made Easy
 ---
+
+![Vibrant 3D render of a geometric abstract pattern with colorful cubes and cylinders.](https://images.pexels.com/photos/18069083/pexels-photo-18069083.png?auto=compress&cs=tinysrgb&h=650&w=940 "Vibrant 3D render of a geometric abstract pattern with colorful cubes and cylinders.")
+
+## Graph Coloring in Action Time Table Scheduling Made Easy
 
 The hum of a bustling university campus, the smooth flow of a factory production line, or the organized chaos of an examination hall – what do these seemingly disparate scenarios have in common? They all depend on meticulously crafted schedules. Behind every effective timetable lies a complex puzzle, often solved by human ingenuity and countless hours of trial and error. But what if we could automate and optimize this process using a powerful concept from discrete mathematics?
 

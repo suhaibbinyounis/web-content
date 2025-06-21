@@ -4,6 +4,8 @@ categories:
 - Fundamentals
 - Electronics
 comments: true
+cover:
+  image: https://images.pexels.com/photos/1432676/pexels-photo-1432676.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Dive deep into the fundamental physics that transforms tiny silicon structures
   into the logic gates powering every digital device you use. Learn about doping,
@@ -20,6 +22,10 @@ tags:
 - Engineering
 title: How Semiconductor Physics Powers Logic Gates
 ---
+
+![Detailed view of a CPU socket on a circuit board, highlighting electronic components.](https://images.pexels.com/photos/1432676/pexels-photo-1432676.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Detailed view of a CPU socket on a circuit board, highlighting electronic components.")
+
+## How Semiconductor Physics Powers Logic Gates
 
 Every `if` statement you write, every boolean expression you evaluate, every bit flipped in memory – it all boils down to tiny, microscopic switches turning on and off at incredible speeds. These switches aren't mechanical; they're governed by the fascinating world of semiconductor physics.
 

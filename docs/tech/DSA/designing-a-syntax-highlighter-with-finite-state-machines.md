@@ -1,11 +1,32 @@
 ---
-title: Designing a Syntax Highlighter with Finite State Machines
-date: 2025-06-17T10:04:28.467Z
-description: Dive into the fascinating world of how your code editor understands what you type. This post explores the core principles behind syntax highlighting, focusing on the indispensable role of Finite State Machines (FSMs) in the lexical analysis phase.
-tags: [FSM, Finite State Machine, Syntax Highlighting, Lexical Analysis, Tokenization, Programming, Computer Science, Compiler Design, Text Editor]
-categories: [Software Engineering, Computer Science, Programming]
+categories:
+- Software Engineering
+- Computer Science
+- Programming
 comments: true
+cover:
+  image: https://images.pexels.com/photos/3861976/pexels-photo-3861976.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 10:04:28.467000
+description: Dive into the fascinating world of how your code editor understands what
+  you type. This post explores the core principles behind syntax highlighting, focusing
+  on the indispensable role of Finite State Machines (FSMs) in the lexical analysis
+  phase.
+tags:
+- FSM
+- Finite State Machine
+- Syntax Highlighting
+- Lexical Analysis
+- Tokenization
+- Programming
+- Computer Science
+- Compiler Design
+- Text Editor
+title: Designing a Syntax Highlighter with Finite State Machines
 ---
+
+![Extreme close-up of computer code displaying various programming terms and elements.](https://images.pexels.com/photos/3861976/pexels-photo-3861976.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Extreme close-up of computer code displaying various programming terms and elements.")
+
+## Designing a Syntax Highlighter with Finite State Machines
 
 ## The Art of Seeing Code: Beyond Plain Text
 

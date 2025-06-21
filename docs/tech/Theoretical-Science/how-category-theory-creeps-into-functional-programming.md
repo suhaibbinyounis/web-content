@@ -1,11 +1,33 @@
 ---
-title: How Category Theory Creeps Into Functional Programming
-date: 2025-06-17T09:26:07.585Z
-description: Explore the fascinating, often subtle, ways that abstract mathematical concepts from Category Theory underpin and illuminate fundamental patterns in Functional Programming, from Functors and Monads to Semigroups and beyond.
-tags: [Functional Programming, Category Theory, Haskell, Scala, F#, JavaScript, Monads, Functors, Software Design, Abstraction]
-categories: [Programming, Functional Programming, Mathematics, Software Architecture]
+categories:
+- Programming
+- Functional Programming
+- Mathematics
+- Software Architecture
 comments: true
+cover:
+  image: https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 09:26:07.585000
+description: Explore the fascinating, often subtle, ways that abstract mathematical
+  concepts from Category Theory underpin and illuminate fundamental patterns in Functional
+  Programming, from Functors and Monads to Semigroups and beyond.
+tags:
+- Functional Programming
+- Category Theory
+- Haskell
+- Scala
+- F#
+- JavaScript
+- Monads
+- Functors
+- Software Design
+- Abstraction
+title: How Category Theory Creeps Into Functional Programming
 ---
+
+![Abstract green matrix code background with binary style.](https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Abstract green matrix code background with binary style.")
+
+## How Category Theory Creeps Into Functional Programming
 
 The world of functional programming (FP) often feels like a logical, elegant evolution of how we structure code. But venture a little deeper, and you might start hearing whispers of "Monads," "Functors," and "Arrows"—terms that sound more at home in a pure mathematics lecture than in a coding bootcamp. These aren't just arcane incantations; they are direct descendants, or rather, direct *implementations*, of concepts from a branch of mathematics called Category Theory.
 

@@ -4,6 +4,8 @@ categories:
 - Low-Level
 - Systems
 comments: true
+cover:
+  image: https://images.pexels.com/photos/343457/pexels-photo-343457.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Dive deep into the physics of semiconductors and band theory to understand
   the fundamental limits on CPU clock speeds, power consumption, and thermal management.
@@ -17,6 +19,10 @@ tags:
 - Performance
 title: How Band Theory Explains CPU Clock Limits
 ---
+
+![Detailed image of a green circuit board featuring various components and microprocessors.](https://images.pexels.com/photos/343457/pexels-photo-343457.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Detailed image of a green circuit board featuring various components and microprocessors.")
+
+## How Band Theory Explains CPU Clock Limits
 
 Your CPU hums along, executing billions of instructions per second, driven by a clock speed measured in gigahertz. But why isn't it running at terahertz? Why did clock speeds plateau around 4-5 GHz decades ago, while core counts exploded? The answer lies not just in manufacturing complexity, but in fundamental physics: **Band Theory**.
 

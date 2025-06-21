@@ -4,6 +4,8 @@ categories:
 - Physics
 - Programming
 comments: true
+cover:
+  image: https://images.pexels.com/photos/25626431/pexels-photo-25626431.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Dive into Lagrangian Mechanics and discover how this powerful analytical
   framework can simplify complex physics simulations for your game engine, especially
@@ -18,6 +20,10 @@ tags:
 - engineering
 title: How to Use Lagrangian Mechanics to Build a Game Physics Engine
 ---
+
+![Black and white abstract representation of a multimodal model version two, featuring geometric patterns and lines.](https://images.pexels.com/photos/25626431/pexels-photo-25626431.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Black and white abstract representation of a multimodal model version two, featuring geometric patterns and lines.")
+
+## How to Use Lagrangian Mechanics to Build a Game Physics Engine
 
 Building a physics engine from scratch is a formidable task. Most developers jump straight to Newtonian mechanics, dealing with forces, impulses, and explicit constraint solvers. While effective, this approach can become incredibly complex for systems with many interconnected parts or rigid constraints.
 

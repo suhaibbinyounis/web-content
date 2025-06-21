@@ -4,6 +4,8 @@ categories:
 - Engineering
 - Programming
 comments: true
+cover:
+  image: https://images.pexels.com/photos/17309932/pexels-photo-17309932.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Dive deep into the physics of solar cells by understanding and modeling
   the photoelectric effect. Learn to calculate photon energy, material thresholds,
@@ -20,6 +22,10 @@ tags:
 - cli
 title: How to Model Solar Cells Using the Photoelectric Equation
 ---
+
+![Vertical photo of solar panels with a blue globe structure and clear sky, symbolizing renewable energy.](https://images.pexels.com/photos/17309932/pexels-photo-17309932.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Vertical photo of solar panels with a blue globe structure and clear sky, symbolizing renewable energy.")
+
+## How to Model Solar Cells Using the Photoelectric Equation
 
 Harnessing the sun's energy is a cornerstone of modern renewable energy. At the heart of how a solar cell converts light into electricity lies a fundamental quantum mechanical phenomenon: the photoelectric effect.
 

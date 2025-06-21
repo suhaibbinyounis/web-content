@@ -1,29 +1,37 @@
 ---
-title: Dotfiles How I Personalized My Dev Environment End-to-End
-date: 2025-06-17T11:22:34.549Z
-description: "Dive deep into the world of dotfiles. Learn how to meticulously customize your development environment from the shell to the editor, ensuring peak productivity, consistency, and portability across machines."
-tags:
-  - dotfiles
-  - linux
-  - macos
-  - personalization
-  - productivity
-  - dev-environment
-  - bash
-  - zsh
-  - neovim
-  - tmux
-  - git
-  - config-management
-  - automation
-  - cli
 categories:
-  - Productivity
-  - Development
-  - Linux
-  - Tools
+- Productivity
+- Development
+- Linux
+- Tools
 comments: true
+cover:
+  image: https://images.pexels.com/photos/5380590/pexels-photo-5380590.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 11:22:34.549000
+description: Dive deep into the world of dotfiles. Learn how to meticulously customize
+  your development environment from the shell to the editor, ensuring peak productivity,
+  consistency, and portability across machines.
+tags:
+- dotfiles
+- linux
+- macos
+- personalization
+- productivity
+- dev-environment
+- bash
+- zsh
+- neovim
+- tmux
+- git
+- config-management
+- automation
+- cli
+title: Dotfiles How I Personalized My Dev Environment End-to-End
 ---
+
+![Person typing on RGB keyboard in a dark room with coding screens.](https://images.pexels.com/photos/5380590/pexels-photo-5380590.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Person typing on RGB keyboard in a dark room with coding screens.")
+
+## Dotfiles How I Personalized My Dev Environment End-to-End
 
 Every developer craves a workspace that feels like an extension of their mind – intuitive, efficient, and tailored precisely to their workflow. For me, achieving this nirvana involves a deep dive into something often overlooked but profoundly powerful: **dotfiles**.
 

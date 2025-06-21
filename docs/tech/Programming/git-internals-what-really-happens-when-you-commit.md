@@ -1,11 +1,32 @@
 ---
-title: Git Internals What Really Happens When You Commit
-date: 2025-06-17T09:02:34.262Z
-description: A deep dive into the `git commit` command, exploring how Git builds and links blob, tree, and commit objects to create an immutable history of your project.
-tags: [git, internals, version control, commit, SCM, data structures, blobs, trees, objects, SHA-1]
-categories: [Software Development, Git, Version Control, Programming]
+categories:
+- Software Development
+- Git
+- Version Control
+- Programming
 comments: true
+cover:
+  image: https://images.pexels.com/photos/25626446/pexels-photo-25626446.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 09:02:34.262000
+description: A deep dive into the `git commit` command, exploring how Git builds and
+  links blob, tree, and commit objects to create an immutable history of your project.
+tags:
+- git
+- internals
+- version control
+- commit
+- SCM
+- data structures
+- blobs
+- trees
+- objects
+- SHA-1
+title: Git Internals What Really Happens When You Commit
 ---
+
+![Visual representation of geometric calculations comparing bits and qubits in black and white.](https://images.pexels.com/photos/25626446/pexels-photo-25626446.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Visual representation of geometric calculations comparing bits and qubits in black and white.")
+
+## Git Internals What Really Happens When You Commit
 
 You've typed it countless times: `git commit -m "My insightful changes"`. It's perhaps the most fundamental command in your Git workflow, the one that immortalizes your hard work into the project's history. But have you ever paused to wonder what *really* happens when you press Enter? It's far more sophisticated than simply "saving files."
 

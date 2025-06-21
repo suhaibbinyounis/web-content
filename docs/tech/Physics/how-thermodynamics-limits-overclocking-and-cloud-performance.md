@@ -5,6 +5,8 @@ categories:
 - Cloud Computing
 - Hardware
 comments: true
+cover:
+  image: https://images.pexels.com/photos/2582936/pexels-photo-2582936.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Dive deep into how the fundamental laws of thermodynamics dictate the
   limits of pushing your CPU beyond its stock speed and the operational efficiency
@@ -22,6 +24,10 @@ tags:
 - Efficiency
 title: How Thermodynamics Limits Overclocking and Cloud Performance
 ---
+
+![Detailed close-up of computer components including RAM and cables inside a server or high-performance PC.](https://images.pexels.com/photos/2582936/pexels-photo-2582936.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Detailed close-up of computer components including RAM and cables inside a server or high-performance PC.")
+
+## How Thermodynamics Limits Overclocking and Cloud Performance
 
 As developers, we often chase performance: faster compile times, quicker query responses, more concurrent users. We optimize algorithms, tune databases, and scale out services. But beneath all the software wizardry, there's a hard, physical limit to how much computing we can pack into a given space or time: thermodynamics.
 

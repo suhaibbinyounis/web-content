@@ -1,11 +1,30 @@
 ---
-title: How Load Balancers Use Round Robin and Queues
-date: 2025-06-17T10:04:28.467Z
-description: "Dive deep into the fundamental strategies load balancers employ, specifically focusing on the Round Robin algorithm and the critical role of queues in managing and distributing network traffic efficiently across server fleets."
-tags: [Load Balancing, Networking, System Design, Round Robin, Queues, Scalability, High Availability, Distributed Systems]
-categories: [System Design, Networking, Cloud Computing]
+categories:
+- System Design
+- Networking
+- Cloud Computing
 comments: true
+cover:
+  image: https://images.pexels.com/photos/30848030/pexels-photo-30848030.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 10:04:28.467000
+description: Dive deep into the fundamental strategies load balancers employ, specifically
+  focusing on the Round Robin algorithm and the critical role of queues in managing
+  and distributing network traffic efficiently across server fleets.
+tags:
+- Load Balancing
+- Networking
+- System Design
+- Round Robin
+- Queues
+- Scalability
+- High Availability
+- Distributed Systems
+title: How Load Balancers Use Round Robin and Queues
 ---
+
+![A woman carries goods on her head along a sunny street, with palm trees in the background.](https://images.pexels.com/photos/30848030/pexels-photo-30848030.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A woman carries goods on her head along a sunny street, with palm trees in the background.")
+
+## How Load Balancers Use Round Robin and Queues
 
 In the vast and complex world of modern web applications and distributed systems, maintaining performance, scalability, and high availability is paramount. As traffic to an application grows, a single server quickly becomes a bottleneck, leading to slow response times, errors, and even complete outages. This is where the unsung hero of network architecture — the load balancer — steps in.
 

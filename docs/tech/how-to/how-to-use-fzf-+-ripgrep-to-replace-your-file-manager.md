@@ -1,11 +1,30 @@
 ---
-title: How to Use fzf + ripgrep to Replace Your File Manager
-date: 2025-06-17T13:05:16.383Z
-description: Learn how to leverage the power of fzf and ripgrep to navigate, find, and manage files on the command line, effectively replacing your traditional GUI file manager for many tasks.
-tags: [Linux, CLI, Bash, Zsh, fzf, ripgrep, productivity, devtools]
-categories: [DevOps, Productivity, Tools]
+categories:
+- DevOps
+- Productivity
+- Tools
 comments: true
+cover:
+  image: https://images.pexels.com/photos/5387246/pexels-photo-5387246.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 13:05:16.383000
+description: Learn how to leverage the power of fzf and ripgrep to navigate, find,
+  and manage files on the command line, effectively replacing your traditional GUI
+  file manager for many tasks.
+tags:
+- Linux
+- CLI
+- Bash
+- Zsh
+- fzf
+- ripgrep
+- productivity
+- devtools
+title: How to Use fzf + ripgrep to Replace Your File Manager
 ---
+
+![Close-up of a woman's hand writing notes in a planner on a glass desk setup.](https://images.pexels.com/photos/5387246/pexels-photo-5387246.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Close-up of a woman's hand writing notes in a planner on a glass desk setup.")
+
+## How to Use fzf + ripgrep to Replace Your File Manager
 
 For many developers, the command line is home. It's fast, powerful, and scriptable. But even in this text-based world, we often find ourselves needing to browse files, jump between directories, or open specific documents. This is where traditional GUI file managers shine – but they often feel clunky and slow when you're already in the terminal.
 

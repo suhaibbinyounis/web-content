@@ -1,11 +1,32 @@
 ---
-title: How to Build a Local AI Wiki with Markdown + GPT + SQLite
-date: 2025-06-17T13:05:16.383Z
-description: Learn to build a powerful, private, and searchable local knowledge base using Markdown for content, SQLite for storage, and GPT (or other LLMs) for AI-powered semantic search and summarization. Get practical, working code examples.
-tags: ["AI", "LLM", "GPT", "Markdown", "SQLite", "Local-First", "Knowledge Base", "Python", "CLI", "Vector Search"]
-categories: ["AI/ML", "Programming", "Databases"]
+categories:
+- AI/ML
+- Programming
+- Databases
 comments: true
+cover:
+  image: https://images.pexels.com/photos/10638068/pexels-photo-10638068.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 13:05:16.383000
+description: Learn to build a powerful, private, and searchable local knowledge base
+  using Markdown for content, SQLite for storage, and GPT (or other LLMs) for AI-powered
+  semantic search and summarization. Get practical, working code examples.
+tags:
+- AI
+- LLM
+- GPT
+- Markdown
+- SQLite
+- Local-First
+- Knowledge Base
+- Python
+- CLI
+- Vector Search
+title: How to Build a Local AI Wiki with Markdown + GPT + SQLite
 ---
+
+![Young girls focused on learning in a computer lab, showcasing modern education.](https://images.pexels.com/photos/10638068/pexels-photo-10638068.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Young girls focused on learning in a computer lab, showcasing modern education.")
+
+## How to Build a Local AI Wiki with Markdown + GPT + SQLite
 
 Navigating the ever-growing sea of information, from development notes to research findings, can feel like a losing battle. Screenshots, ephemeral chat messages, and fragmented notes pile up, making true knowledge retrieval a nightmare. What if you could have a personal, private wiki that understands natural language, finds relevant information even if you don't remember keywords, and summarizes complex topics on demand?
 

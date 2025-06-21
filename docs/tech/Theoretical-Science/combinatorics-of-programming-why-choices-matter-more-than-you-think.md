@@ -1,23 +1,31 @@
 ---
-title: Combinatorics of Programming Why Choices Matter More Than You Think
-date: 2025-06-17T09:26:07.585Z
-description: Explore how combinatorics, the mathematics of counting and arrangement, underpins every decision in software development, leading to profound implications for complexity, maintainability, and scalability.
-tags:
-  - combinatorics
-  - programming
-  - software engineering
-  - complexity
-  - system design
-  - decision making
-  - architecture
-  - technical debt
-  - software craftsmanship
 categories:
-  - Software Development
-  - Computer Science
-  - System Design
+- Software Development
+- Computer Science
+- System Design
 comments: true
+cover:
+  image: https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 09:26:07.585000
+description: Explore how combinatorics, the mathematics of counting and arrangement,
+  underpins every decision in software development, leading to profound implications
+  for complexity, maintainability, and scalability.
+tags:
+- combinatorics
+- programming
+- software engineering
+- complexity
+- system design
+- decision making
+- architecture
+- technical debt
+- software craftsmanship
+title: Combinatorics of Programming Why Choices Matter More Than You Think
 ---
+
+![A woman with digital code projections on her face, representing technology and future concepts.](https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A woman with digital code projections on her face, representing technology and future concepts.")
+
+## Combinatorics of Programming Why Choices Matter More Than You Think
 
 The world of programming often feels like a logical, deterministic sequence of instructions. We write code, it executes, and (hopefully) it does what we expect. Yet, beneath this seemingly straightforward surface lies a universe of choices, each multiplying the possibilities of our system's behavior and structure. This is where **combinatorics** enters the picture – the branch of mathematics concerned with counting, arrangement, and combination.
 

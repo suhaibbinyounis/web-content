@@ -1,24 +1,32 @@
 ---
-title: Creating a Custom Markdown Blog Generator with Gemini
-date: 2025-06-17T08:34:16.636Z
-description: Dive deep into building a personalized Markdown blog post generator using Google's Gemini AI, covering prompt engineering, Python scripting, and integration for efficient content creation.
-tags:
-    - AI
-    - LLM
-    - Gemini
-    - GoogleAI
-    - Python
-    - Markdown
-    - ContentGeneration
-    - PromptEngineering
-    - Productivity
 categories:
-    - AI
-    - Productivity
-    - Prompt Engineering
-    - Development
+- AI
+- Productivity
+- Prompt Engineering
+- Development
 comments: true
+cover:
+  image: https://images.pexels.com/photos/7864533/pexels-photo-7864533.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 08:34:16.636000
+description: Dive deep into building a personalized Markdown blog post generator using
+  Google's Gemini AI, covering prompt engineering, Python scripting, and integration
+  for efficient content creation.
+tags:
+- AI
+- LLM
+- Gemini
+- GoogleAI
+- Python
+- Markdown
+- ContentGeneration
+- PromptEngineering
+- Productivity
+title: Creating a Custom Markdown Blog Generator with Gemini
 ---
+
+![Hands in a blue hoodie typing on a laptop keyboard, indoors, in bright light.](https://images.pexels.com/photos/7864533/pexels-photo-7864533.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Hands in a blue hoodie typing on a laptop keyboard, indoors, in bright light.")
+
+## Creating a Custom Markdown Blog Generator with Gemini
 
 The landscape of content creation is rapidly evolving, driven by the remarkable advancements in large language models (LLMs). Imagine a world where generating detailed, well-structured blog posts is no longer a laborious manual process but an orchestrated dance between your ideas and an intelligent AI. This vision is increasingly becoming a reality, and with Google's Gemini, we have a powerful tool at our disposal to build custom content generation pipelines.
 

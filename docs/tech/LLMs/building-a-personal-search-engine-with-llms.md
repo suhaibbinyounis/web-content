@@ -1,24 +1,32 @@
 ---
-title: Building a Personal Search Engine with LLMs
-date: 2025-06-17T08:34:35.032Z
-description: Explore the fascinating world of building your own hyper-personalized search engine using Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG). Learn the architecture, challenges, and tools to unlock your personal data.
-tags:
-    - AI
-    - LLM
-    - RAG
-    - Semantic Search
-    - Productivity
-    - Personalization
-    - Python
-    - Open Source
-    - Vector Database
 categories:
-    - AI
-    - Software Development
-    - Productivity Tools
-    - Data Science
+- AI
+- Software Development
+- Productivity Tools
+- Data Science
 comments: true
+cover:
+  image: https://images.pexels.com/photos/18068747/pexels-photo-18068747.png?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 08:34:35.032000
+description: Explore the fascinating world of building your own hyper-personalized
+  search engine using Large Language Models (LLMs) and Retrieval-Augmented Generation
+  (RAG). Learn the architecture, challenges, and tools to unlock your personal data.
+tags:
+- AI
+- LLM
+- RAG
+- Semantic Search
+- Productivity
+- Personalization
+- Python
+- Open Source
+- Vector Database
+title: Building a Personal Search Engine with LLMs
 ---
+
+![A vibrant and artistic representation of neural networks in an abstract 3D render, showcasing technology concepts.](https://images.pexels.com/photos/18068747/pexels-photo-18068747.png?auto=compress&cs=tinysrgb&h=650&w=940 "A vibrant and artistic representation of neural networks in an abstract 3D render, showcasing technology concepts.")
+
+## Building a Personal Search Engine with LLMs
 
 ## The Information Deluge and the Quest for Personal Truth
 

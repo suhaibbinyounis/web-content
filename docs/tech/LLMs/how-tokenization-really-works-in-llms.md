@@ -1,24 +1,32 @@
 ---
-title: How Tokenization Really Works in LLMs
-date: 2025-06-17T08:32:22.913Z
-description: Dive deep into the fundamental process of tokenization, the unsung hero enabling Large Language Models to understand, process, and generate human language. Understand the different types, their impact, and practical implications.
-tags:
-    - AI
-    - LLM
-    - Tokenization
-    - NLP
-    - Deep Learning
-    - Transformer
-    - ChatGPT
-    - Gemini
-    - GPT
 categories:
-    - AI
-    - Deep Learning
-    - Natural Language Processing
-    - LLM Internals
+- AI
+- Deep Learning
+- Natural Language Processing
+- LLM Internals
 comments: true
+cover:
+  image: https://images.pexels.com/photos/18069696/pexels-photo-18069696.png?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 08:32:22.913000
+description: Dive deep into the fundamental process of tokenization, the unsung hero
+  enabling Large Language Models to understand, process, and generate human language.
+  Understand the different types, their impact, and practical implications.
+tags:
+- AI
+- LLM
+- Tokenization
+- NLP
+- Deep Learning
+- Transformer
+- ChatGPT
+- Gemini
+- GPT
+title: How Tokenization Really Works in LLMs
 ---
+
+![Abstract glass surfaces reflecting digital text create a mysterious tech ambiance.](https://images.pexels.com/photos/18069696/pexels-photo-18069696.png?auto=compress&cs=tinysrgb&h=650&w=940 "Abstract glass surfaces reflecting digital text create a mysterious tech ambiance.")
+
+## How Tokenization Really Works in LLMs
 
 The magic behind Large Language Models (LLMs) like ChatGPT, Gemini, and Claude often seems like pure alchemy. They generate coherent, contextually relevant, and even creative text with astonishing fluency. But beneath the surface of this apparent sorcery lies a foundational, yet often overlooked, process: **tokenization**. It's the critical first step that translates human-readable text into a numerical format that an LLM can actually process.
 

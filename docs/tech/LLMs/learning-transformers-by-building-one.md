@@ -1,22 +1,30 @@
 ---
-title: Learning Transformers by Building One
-date: 2025-06-17T08:31:52.780Z
-description: Dive deep into the Transformer architecture by understanding its fundamental components and how to conceptually build one from scratch. Unravel the magic behind modern AI.
-tags:
-    - AI
-    - LLM
-    - Transformers
-    - Deep Learning
-    - Machine Learning
-    - NLP
-    - PyTorch
 categories:
-    - AI
-    - Deep Learning
-    - Tutorials
-    - NLP
+- AI
+- Deep Learning
+- Tutorials
+- NLP
 comments: true
+cover:
+  image: https://images.pexels.com/photos/17483869/pexels-photo-17483869.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 08:31:52.780000
+description: Dive deep into the Transformer architecture by understanding its fundamental
+  components and how to conceptually build one from scratch. Unravel the magic behind
+  modern AI.
+tags:
+- AI
+- LLM
+- Transformers
+- Deep Learning
+- Machine Learning
+- NLP
+- PyTorch
+title: Learning Transformers by Building One
 ---
+
+![3D rendered abstract brain concept with neural network.](https://images.pexels.com/photos/17483869/pexels-photo-17483869.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "3D rendered abstract brain concept with neural network.")
+
+## Learning Transformers by Building One
 
 The world of Artificial Intelligence has been irrevocably changed by the Transformer architecture. From powering the most advanced Large Language Models (LLMs) like GPT-4, Llama, and Gemini, to revolutionizing image recognition and even scientific discovery, its impact is undeniable. While it's easy to use pre-built Transformer models, truly understanding their power comes from dissecting and, conceptually at least, building one yourself.
 

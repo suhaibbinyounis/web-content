@@ -1,13 +1,34 @@
 ---
-title: Self-Hosting Tools with docker-compose in 10 Minutes
-date: 2025-06-17T11:22:34.549Z
-description: "Discover how to quickly self-host your favorite open-source tools using Docker Compose. This guide simplifies the process, making privacy, control, and learning accessible in minutes."
-tags: [Docker, Docker Compose, Self-Hosting, DevOps, Linux, Open Source, Tutorial, Productivity, SysAdmin]
-categories: [DevOps, Productivity, Linux, Tutorials, Self-Hosting]
+categories:
+- DevOps
+- Productivity
+- Linux
+- Tutorials
+- Self-Hosting
 comments: true
+cover:
+  image: https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 11:22:34.549000
+description: Discover how to quickly self-host your favorite open-source tools using
+  Docker Compose. This guide simplifies the process, making privacy, control, and
+  learning accessible in minutes.
+tags:
+- Docker
+- Docker Compose
+- Self-Hosting
+- DevOps
+- Linux
+- Open Source
+- Tutorial
+- Productivity
+- SysAdmin
+title: Self-Hosting Tools with docker-compose in 10 Minutes
 ---
 
+![Eyeglasses reflecting computer code on a monitor, ideal for technology and programming themes.](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Eyeglasses reflecting computer code on a monitor, ideal for technology and programming themes.")
+
 ## Self-Hosting Tools with docker-compose in 10 Minutes
+
 
 The digital world often pushes us towards managed services and cloud subscriptions. While convenient, this often means sacrificing privacy, control, and the opportunity to truly understand the underlying technology. Self-hosting offers a compelling alternative: running your own applications on your own hardware, be it a powerful server, a humble Raspberry Pi, or even your daily driver machine for testing.
 

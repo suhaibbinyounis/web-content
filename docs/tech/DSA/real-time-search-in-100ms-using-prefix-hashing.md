@@ -1,23 +1,32 @@
 ---
-title: Real-Time Search in 100ms Using Prefix Hashing
-date: 2025-06-17T10:04:28.467Z
-description: "Dive deep into the architecture of achieving ultra-low latency real-time search, particularly for prefix-based queries, leveraging the power of prefix hashing. Explore the data structures, optimizations, and crucial trade-offs behind a sub-100ms search experience."
-tags:
-  - real-time search
-  - prefix hashing
-  - algorithms
-  - data structures
-  - performance optimization
-  - low-latency
-  - search engines
-  - system design
 categories:
-  - Algorithms
-  - Data Structures
-  - System Design
-  - Performance
+- Algorithms
+- Data Structures
+- System Design
+- Performance
 comments: true
+cover:
+  image: https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 10:04:28.467000
+description: Dive deep into the architecture of achieving ultra-low latency real-time
+  search, particularly for prefix-based queries, leveraging the power of prefix hashing.
+  Explore the data structures, optimizations, and crucial trade-offs behind a sub-100ms
+  search experience.
+tags:
+- real-time search
+- prefix hashing
+- algorithms
+- data structures
+- performance optimization
+- low-latency
+- search engines
+- system design
+title: Real-Time Search in 100ms Using Prefix Hashing
 ---
+
+![Abstract green matrix code background with binary style.](https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Abstract green matrix code background with binary style.")
+
+## Real-Time Search in 100ms Using Prefix Hashing
 
 The expectation for modern applications is instantaneous feedback. Whether you're typing a search query, a command in an IDE, or an address in a mapping application, users anticipate results appearing almost as fast as they can type. This isn't just a nicety; it's a fundamental part of a seamless user experience. Achieving real-time search, particularly with a sub-100ms latency target, presents a fascinating set of challenges that traditional search engine architectures often struggle with.
 

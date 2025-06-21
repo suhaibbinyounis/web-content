@@ -4,6 +4,8 @@ categories:
 - Algorithms
 - Science
 comments: true
+cover:
+  image: https://images.pexels.com/photos/6077861/pexels-photo-6077861.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Dive deep into Cellular Automata (CAs) by building a Python simulation
   that visually demonstrates particles reaching thermodynamic equilibrium. Learn grid
@@ -22,6 +24,10 @@ tags:
 - Algorithms
 title: How to Build a Cellular Automaton That Models Thermodynamic Equilibrium
 ---
+
+![Elegant legal office with a close-up of golden scales of justice on a sleek dark desk.](https://images.pexels.com/photos/6077861/pexels-photo-6077861.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Elegant legal office with a close-up of golden scales of justice on a sleek dark desk.")
+
+## How to Build a Cellular Automaton That Models Thermodynamic Equilibrium
 
 Building simulations is one of the most rewarding ways to understand complex systems. Cellular Automata (CAs) are particularly fascinating because they show how incredibly simple local rules can lead to emergent, complex, and often beautiful global behavior. Today, we're going to use CAs to model a fundamental concept in physics: **thermodynamic equilibrium**.
 

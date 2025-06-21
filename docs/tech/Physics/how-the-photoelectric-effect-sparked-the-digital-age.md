@@ -5,10 +5,12 @@ categories:
 - Computer Science
 - History
 comments: true
+cover:
+  image: https://images.pexels.com/photos/3363556/pexels-photo-3363556.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
-description: From a quantum phenomenon to the bedrock of modern digital technology
-  – discover how the photoelectric effect made cameras, optical storage, and fiber
-  optics possible.
+description: "From a quantum phenomenon to the bedrock of modern digital technology\
+  \ \u2013 discover how the photoelectric effect made cameras, optical storage, and\
+  \ fiber optics possible."
 math: true
 tags:
 - Quantum Physics
@@ -24,6 +26,10 @@ tags:
 - Electronics
 title: How the Photoelectric Effect Sparked the Digital Age
 ---
+
+![An artistic shot of fiber optic lights on a dark background creating a bokeh effect with vivid colors.](https://images.pexels.com/photos/3363556/pexels-photo-3363556.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "An artistic shot of fiber optic lights on a dark background creating a bokeh effect with vivid colors.")
+
+## How the Photoelectric Effect Sparked the Digital Age
 
 The digital age, characterized by ubiquitous screens, instant communication, and petabytes of data, often feels like a purely silicon-driven phenomenon. But peel back the layers, and you'll find its roots firmly planted in a quantum mechanical principle discovered over a century ago: the photoelectric effect.
 

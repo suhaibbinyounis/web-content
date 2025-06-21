@@ -1,21 +1,29 @@
 ---
-title: Fixed-Point Combinators Recursion Without Naming
-date: 2025-06-17T09:26:07.585Z
-description: "Delve into the fascinating world of fixed-point combinators, unraveling how pure functional programming achieves recursion without relying on explicit naming, exploring the Y combinator and its theoretical underpinnings."
-tags:
-  - Functional Programming
-  - Lambda Calculus
-  - Recursion
-  - Fixed-Point Combinators
-  - Computer Science
-  - Theoretical Computer Science
 categories:
-  - Programming
-  - Functional Programming
-  - Computer Science
-  - Theory
+- Programming
+- Functional Programming
+- Computer Science
+- Theory
 comments: true
+cover:
+  image: https://images.pexels.com/photos/12891175/pexels-photo-12891175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 09:26:07.585000
+description: Delve into the fascinating world of fixed-point combinators, unraveling
+  how pure functional programming achieves recursion without relying on explicit naming,
+  exploring the Y combinator and its theoretical underpinnings.
+tags:
+- Functional Programming
+- Lambda Calculus
+- Recursion
+- Fixed-Point Combinators
+- Computer Science
+- Theoretical Computer Science
+title: Fixed-Point Combinators Recursion Without Naming
 ---
+
+![Abstract view of a dark and intricate fractal structure showcasing complex geometry and depth.](https://images.pexels.com/photos/12891175/pexels-photo-12891175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Abstract view of a dark and intricate fractal structure showcasing complex geometry and depth.")
+
+## Fixed-Point Combinators Recursion Without Naming
 
 Recursion is a cornerstone of computer science, a powerful technique where a function calls itself to solve smaller instances of the same problem. From calculating factorials to traversing tree structures, recursion feels intuitive and often leads to elegant code. But have you ever paused to consider *how* recursion truly works, especially in the most fundamental models of computation, like the Lambda Calculus, where functions are inherently anonymous?
 

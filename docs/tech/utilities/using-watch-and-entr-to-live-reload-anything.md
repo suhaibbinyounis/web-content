@@ -1,26 +1,34 @@
 ---
-title: Using `watch` and `entr` to Live-Reload Anything
-date: 2025-06-17T11:22:34.549Z
-description: A deep dive into using the command-line tools `watch` and `entr` for efficient live-reloading of various files and processes, from documentation to code compilation and server restarts. Learn how to automate your development workflow.
-tags:
-  - command-line
-  - productivity
-  - development
-  - live-reload
-  - watch
-  - entr
-  - shell
-  - automation
-  - linux
-  - macOS
-  - tools
 categories:
-  - Productivity
-  - Development Tools
-  - Command Line
-  - Automation
+- Productivity
+- Development Tools
+- Command Line
+- Automation
 comments: true
+cover:
+  image: https://images.pexels.com/photos/1972464/pexels-photo-1972464.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 11:22:34.549000
+description: A deep dive into using the command-line tools `watch` and `entr` for
+  efficient live-reloading of various files and processes, from documentation to code
+  compilation and server restarts. Learn how to automate your development workflow.
+tags:
+- command-line
+- productivity
+- development
+- live-reload
+- watch
+- entr
+- shell
+- automation
+- linux
+- macOS
+- tools
+title: Using `watch` and `entr` to Live-Reload Anything
 ---
+
+![Close-up of colorful programming code displayed on a computer screen.](https://images.pexels.com/photos/1972464/pexels-photo-1972464.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Close-up of colorful programming code displayed on a computer screen.")
+
+## Using `watch` and `entr` to Live-Reload Anything
 
 As developers, writers, and anyone who interacts with text files, we often find ourselves caught in a tedious loop: edit, save, run, check. Whether it's compiling code, previewing a Markdown document, or restarting a development server, this manual iteration can quickly drain productivity and flow.
 

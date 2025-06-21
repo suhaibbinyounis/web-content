@@ -1,11 +1,29 @@
 ---
-title: How to Build a Prompt Library That Actually Boosts Productivity
-date: 2025-06-17T13:05:16.383Z
-description: "Learn to create a simple, effective prompt library using plain text files, CLI tools, and a touch of scripting to supercharge your AI interactions and development workflow."
-tags: ["Prompt Engineering", "Productivity", "CLI", "Bash", "Python", "DevOps", "AI"]
-categories: ["Software Development", "Tools", "Productivity"]
+categories:
+- Software Development
+- Tools
+- Productivity
 comments: true
+cover:
+  image: https://images.pexels.com/photos/16094038/pexels-photo-16094038.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 13:05:16.383000
+description: Learn to create a simple, effective prompt library using plain text files,
+  CLI tools, and a touch of scripting to supercharge your AI interactions and development
+  workflow.
+tags:
+- Prompt Engineering
+- Productivity
+- CLI
+- Bash
+- Python
+- DevOps
+- AI
+title: How to Build a Prompt Library That Actually Boosts Productivity
 ---
+
+![A man types on a laptop running AI software, seated in a modern indoor setting.](https://images.pexels.com/photos/16094038/pexels-photo-16094038.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A man types on a laptop running AI software, seated in a modern indoor setting.")
+
+## How to Build a Prompt Library That Actually Boosts Productivity
 
 Let's be honest: interacting with large language models (LLMs) and AI tools has become an integral part of many developers' workflows. From generating boilerplate code and debugging obscure errors to crafting commit messages and summarizing documentation, AI is a powerful assistant. But here's the rub: if you're like me, you're constantly re-typing, searching through chat histories, or trying to remember that *perfect* prompt that gave you exactly what you needed last week.
 

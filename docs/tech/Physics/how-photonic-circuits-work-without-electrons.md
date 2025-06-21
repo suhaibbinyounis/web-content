@@ -5,6 +5,8 @@ categories:
 - Computing
 - Physics
 comments: true
+cover:
+  image: https://images.pexels.com/photos/30547593/pexels-photo-30547593.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Dive into the fascinating world of photonic circuits, where information
   is carried by light instead of electrons. Understand the 'why' behind this shift,
@@ -24,6 +26,10 @@ tags:
 - physics
 title: Photonic Circuits - How Light Replaces Electrons in Computing
 ---
+
+![A vibrant 3D rendering of geometric digital art with a futuristic design.](https://images.pexels.com/photos/30547593/pexels-photo-30547593.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "A vibrant 3D rendering of geometric digital art with a futuristic design.")
+
+## Photonic Circuits - How Light Replaces Electrons in Computing
 
 For decades, our digital world has been powered by electrons zipping through silicon wires. Transistors, resistors, capacitors – all are built upon the fundamental behavior of electrons. But as we push the boundaries of miniaturization and speed, electrons are starting to show their age. They generate heat, they're limited by speed, and they interfere with each other.
 

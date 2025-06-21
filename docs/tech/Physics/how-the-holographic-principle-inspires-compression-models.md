@@ -6,6 +6,8 @@ categories:
 - Inspiration
 - AI
 comments: true
+cover:
+  image: https://images.pexels.com/photos/25626435/pexels-photo-25626435.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Explore the fascinating intersection of theoretical physics and practical
   data compression. Learn how the Holographic Principle, an idea from black hole physics,
@@ -24,6 +26,10 @@ tags:
 - Algorithms
 title: How the Holographic Principle Inspires Compression Models
 ---
+
+![Illustration depicting classical binary bit and quantum qubit states in superposition and binary.](https://images.pexels.com/photos/25626435/pexels-photo-25626435.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Illustration depicting classical binary bit and quantum qubit states in superposition and binary.")
+
+## How the Holographic Principle Inspires Compression Models
 
 As developers, we're constantly wrangling data. And the more data we wrangle, the more we appreciate good compression. But what if I told you that some of the most innovative ideas in data compression and representation are conceptually inspired by insights from theoretical physics? Specifically, from a mind-bending idea known as the **Holographic Principle**.
 

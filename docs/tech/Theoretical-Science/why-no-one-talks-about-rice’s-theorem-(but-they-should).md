@@ -1,11 +1,34 @@
 ---
-title: Why No One Talks About Rice’s Theorem (But They Should)
-date: 2025-06-17T09:26:07.585Z
-description: Explore the profound, often overlooked implications of Rice's Theorem, a foundational concept in theoretical computer science that dictates the fundamental limits of what computers can automatically verify about other programs, including its crucial relevance to modern AI safety and software engineering.
-tags: [Theoretical Computer Science, Computability, Undecidability, Rice's Theorem, Halting Problem, Program Analysis, Software Engineering, AI Safety, Limits of Computation, Verification]
-categories: [Computer Science, Theory, Software Development, AI Ethics]
+categories:
+- Computer Science
+- Theory
+- Software Development
+- AI Ethics
 comments: true
+cover:
+  image: https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+date: 2025-06-17 09:26:07.585000
+description: Explore the profound, often overlooked implications of Rice's Theorem,
+  a foundational concept in theoretical computer science that dictates the fundamental
+  limits of what computers can automatically verify about other programs, including
+  its crucial relevance to modern AI safety and software engineering.
+tags:
+- Theoretical Computer Science
+- Computability
+- Undecidability
+- Rice's Theorem
+- Halting Problem
+- Program Analysis
+- Software Engineering
+- AI Safety
+- Limits of Computation
+- Verification
+title: "Why No One Talks About Rice\u2019s Theorem (But They Should)"
 ---
+
+![Close-up of a computer screen displaying programming code in a dark environment.](https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Close-up of a computer screen displaying programming code in a dark environment.")
+
+## Why No One Talks About Rice’s Theorem (But They Should)
 
 The world of computer science is vast, spanning from the nitty-gritty of hardware design to the abstract realms of artificial intelligence. Yet, among its foundational pillars, some stand out as profoundly important, while others, equally critical, fade into the background, rarely discussed outside of specialized academic circles. Rice's Theorem is unequivocally in the latter category.
 

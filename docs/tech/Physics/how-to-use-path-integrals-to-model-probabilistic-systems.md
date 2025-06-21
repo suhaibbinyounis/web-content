@@ -4,6 +4,8 @@ categories:
 - Mathematics
 - Simulation
 comments: true
+cover:
+  image: https://images.pexels.com/photos/17483868/pexels-photo-17483868.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Dive into the surprisingly intuitive world of path integrals, a powerful
   conceptual framework for modeling stochastic processes and probabilistic systems.
@@ -20,6 +22,10 @@ tags:
 - Data Science
 title: How to Use Path Integrals to Model Probabilistic Systems
 ---
+
+![3D rendered abstract design featuring a digital brain visual with vibrant colors.](https://images.pexels.com/photos/17483868/pexels-photo-17483868.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "3D rendered abstract design featuring a digital brain visual with vibrant colors.")
+
+## How to Use Path Integrals to Model Probabilistic Systems
 
 Path integrals. The phrase alone often conjures images of quantum mechanics, abstract theoretical physics, and highly complex mathematics. And while it's true that Richard Feynman famously revolutionized quantum mechanics with his path integral formulation, the underlying concept—summing over all possible "histories" or "paths"—is incredibly powerful and surprisingly intuitive when applied to **probabilistic systems**.
 

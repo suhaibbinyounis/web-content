@@ -4,6 +4,8 @@ categories:
 - Graphics
 - Game Development
 comments: true
+cover:
+  image: https://images.pexels.com/photos/17484970/pexels-photo-17484970.png?auto=compress&cs=tinysrgb&h=650&w=940
 date: 2025-06-17 14:26:03.015000
 description: Dive deep into creating a custom particle system engine from scratch
   using fundamental Newtonian physics principles. Learn about particle states, forces,
@@ -20,6 +22,10 @@ tags:
 - computer-graphics
 title: Building a Particle System Engine with Newtonian Physics
 ---
+
+![Colorful abstract representation of digital biology using CGI techniques, showcasing dynamic neural patterns.](https://images.pexels.com/photos/17484970/pexels-photo-17484970.png?auto=compress&cs=tinysrgb&h=650&w=940 "Colorful abstract representation of digital biology using CGI techniques, showcasing dynamic neural patterns.")
+
+## Building a Particle System Engine with Newtonian Physics
 
 Particle systems are ubiquitous in game development and simulations, used for everything from explosions and smoke to rain and fire. While many engines offer built-in particle systems, understanding how they work under the hood – especially when driven by realistic physics – is incredibly empowering.
 
