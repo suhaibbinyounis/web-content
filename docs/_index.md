@@ -5,6 +5,16 @@ comments: false
 description: Notes by Suhaib Bin Younis is a developer-driven blog exploring cutting-edge topics in programming, AI, large language models (LLMs), and data structures & algorithms (DSA). From hands-on coding tutorials to in-depth technical insights, this site is dedicated to helping developers learn, build, and stay ahead of the curve in the world of modern software engineering.
 tags:
   [
+    suhaibbinyounis,
+    suhaib,
+    suhaib bin younis,
+    suhaib.in,
+    suhaibbinyounis.com,
+    notes.suhaib.in,
+    quran.suhaib.in,
+    apps.suhaib.in,
+    games.suhaib.in,
+    transfer.suhaib.in,
     Python,
     JavaScript,
     Bash,
@@ -60,9 +70,9 @@ categories:
   ]
 ---
 
-👋 Hey, welcome!
-
-Feel free to browse around. The catalog’s just below.
+{{< cards cols="1" >}}
+{{< card link="https://notes.suhaib.in/feed.html" icon="status-online" title="The Daily Tech" subtitle="Your Curated Feed of Technology and Science" >}}
+{{< /cards >}}
 
 ## The Catalog
 
@@ -82,28 +92,34 @@ Feel free to browse around. The catalog’s just below.
 ## More Tools & Archives
 
 {{< cards cols="2" >}}
+{{< card link="https://notes.suhaib.in/inspiration.html" icon="moon" title="Feeling lost?" subtitle="Play your favourite song and scroll" >}}
+{{< card link="https://apps.suhaib.in" icon="chip" title="Apps" subtitle="Hosted projects and utilities." >}}
+{{< card link="https://games.suhaib.in" icon="cube" title="Games" subtitle="Play games online for free." >}}
+{{< card link="/crypto" icon="currency-dollar" title="Crypto" subtitle="Crypto" >}}
 {{< card link="/posts" icon="library" title="Archive" subtitle="Every blog post, in one place." >}}
 {{< card link="/docs/memo" icon="folder" title="Memos" subtitle="Short notes, ideas, and inspiration." >}}
-{{< card link="https://apps.suhaib.in" icon="chip" title="Apps" subtitle="Hosted projects and utilities." >}}
-{{< card link="https://flipboard.com/@notesbysuhaib/notes-by-suhaib-bin-younis-7mlt5sedy" title="Flipboard" subtitle="Where all my posts get curated." >}}
+{{< card link="https://flipboard.com/@notesbysuhaib/notes-by-suhaib-bin-younis-7mlt5sedy" icon="view-grid" title="Flipboard" subtitle="Where all my posts get curated." >}}
 {{< /cards >}}
 
 
 ## The Message
 
-Life is a gift—every second, every interaction, every breath. I don’t know if I deserve any of it, but I do know that I am grateful for all of it.
+I walked through this life with my heart open—awed, grateful, never certain, but always searching.
 
-There’s beauty in the uncertainty of it all. In not knowing what comes next, in questioning what the right path is. For a long time, I’ve sat with that uncertainty, turning it over in my mind, hoping that clarity would arrive like some grand revelation. But it never does.
+I didn’t need to leave a legacy. Just a ripple. A smile shared. A kindness returned. A light left on in someone’s dark.
 
-So maybe the answer isn’t waiting for the perfect direction—it’s moving forward anyway.
+Life gave me more than I asked for—love that filled me, loss that remade me, and questions that taught me to listen. I wasn’t here to master the world, only to meet it with wonder.
 
-Maybe it’s about hustle. Work. Discipline. Building something meaningful, even if I don’t fully understand what it will become.
+If I am gone, let this be the memory that lingers: I lived honestly. I loved deeply. I tried.
 
-There are moments in life when you realize you have everything you need—not in excess, not in certainty, but in opportunity. And in those moments, you recognize that the next step isn’t about knowing—it’s about doing.
+Keep it simple. Be good to one another. Stay curious. There is still so much beauty waiting to be found.
 
-I have written about the past. Reflected on love, loss, and lessons learned. Now, it’s time to act.
+**- Suhaib**
 
-**This is that step.**
+{{< cards cols="2" >}}
+{{< card link="https://suhaib.in" icon="user-circle" title="suhaib.in" subtitle="Portfolio" >}}
+{{< card link="https://suhaibbinyounis.com" icon="user-circle" title="suhaibbinyounis.com" subtitle="Portfolio" >}}
+{{< /cards >}}
 
 <div style="text-align: center; margin-top: 1em;">
 {{< hextra/hero-badge link="index.xml" >}}
